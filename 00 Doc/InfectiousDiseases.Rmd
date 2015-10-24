@@ -1,0 +1,29 @@
+---
+title: "Infectious Diseases"
+author: "Charles Martinez (cmm5627), Happy Situ (hys82), Jenna Webb (jnw653)"
+date: "October 23, 2015"
+output: html_document
+---
+
+For this project, we found a set of data that listed cases of different infectious dieases in various counties in California, as well as the total population of each county. It included how many males and females were infected per year, as well as the total number of infections per county per year.   
+
+
+Here is a summary of our data:  
+
+```{r, echo = FALSE}
+source("../01 Data/InfectiousDiseases.R")
+summary(diseases)
+```
+
+Here is a subset of our data:  
+```{r}
+head(diseases)
+```
+
+###First plot:
+
+
+###Second plot:
+
+
+###Third plot:
