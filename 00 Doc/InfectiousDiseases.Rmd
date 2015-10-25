@@ -20,10 +20,14 @@ Here is a subset of our data:
 head(diseases)
 ```
 
-###First plot:
+###First plot:  
+This is the code used to generate the first plot:  
+```{r}
+source("../03 R SQL Visualizations/Crosstab_jnw.R", echo = TRUE)
+```
 
 
-###Second plot:
+###Second plot:  
 
 
-###Third plot:
+###Third plot:  

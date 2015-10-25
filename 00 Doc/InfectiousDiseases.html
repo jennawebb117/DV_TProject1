@@ -123,6 +123,23 @@ img {
 ## 6    5.316</code></pre>
 <div id="first-plot" class="section level3">
 <h3>First plot:</h3>
+<p>This is the code used to generate the first plot:</p>
+<pre class="r"><code>source(&quot;../03 R SQL Visualizations/Crosstab_jnw.R&quot;, echo = TRUE)</code></pre>
+<pre><code>## 
+## &gt; require(&quot;jsonlite&quot;)
+## 
+## &gt; require(&quot;RCurl&quot;)
+## 
+## &gt; require(&quot;ggplot2&quot;)
+## 
+## &gt; KPI_Very_Low_value = 0
+## 
+## &gt; KPI_Low_value = 10
+## 
+## &gt; KPI_Medium_value = 100
+## 
+## &gt; df &lt;- data.frame(fromJSON(getURL(URLencode(gsub(&quot;\n&quot;, 
+## +     &quot; &quot;, &quot;129.152.144.84:5001/rest/native/?query=\n\&quot;select DISEASE, COUNTY, avg_count, kpi .... [TRUNCATED]</code></pre>
 </div>
 <div id="second-plot" class="section level3">
 <h3>Second plot:</h3>
