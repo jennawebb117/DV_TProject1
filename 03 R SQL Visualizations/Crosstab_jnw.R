@@ -44,5 +44,5 @@ ggplot() +
         geom="text",
         geom_params=list(colour="black", vjust=4), 
         position=position_identity()
-  ) 
+  ) + theme(axis.text.y = element_text(face = "plain", size = 8))
 
