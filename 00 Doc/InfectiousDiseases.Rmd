@@ -21,8 +21,12 @@ head(diseases)
 ```
 
 ###Scatter Plot:  
-
+####R:  
+  
+####Tableau:
+  
 ###Crosstab with a KPI and Parameters:  
+####R:  
 This is the code used to generate the crosstab:
 ```
 require("jsonlite")
@@ -76,5 +80,11 @@ ggplot() +
 ```{r}
 source("../03 R SQL Visualizations/Crosstab_jnw.R", echo = TRUE)
 ```
+  
+####Talbeau:  
+![](../02 Tableau/Tableau_Crosstab_jnw.png)
 
-###Bar Chart with Reference Lines:  
+###Bar Chart with Reference Lines: 
+####R:  
+  
+####Tableau:  
