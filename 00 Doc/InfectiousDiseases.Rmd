@@ -26,56 +26,50 @@ head(diseases)
 ####Tableau:
   
 ###Crosstab with a KPI and Parameters:  
-####R:  
+####R & GGPLOT:  
 This is the code used to generate the crosstab:
 ```
 require("jsonlite")
 require("RCurl")
 require("ggplot2")
+require("dplyr")
 
 KPI_Very_Low_value = 0
 KPI_Low_value = 10
 KPI_Medium_value = 100
 
-df <- data.frame(fromJSON(getURL(URLencode(gsub("\n", " ", '129.152.144.84:5001/rest/native/?query=
-"select SEX, County, kpi, 
-case
-when kpi <= "p1" then \\\'Very Low\\\'
-when kpi <= "p2" then \\\'Low\\\'
-when kpi <= "p3" then \\\'Medium\\\'
-else \\\'High\\\'
-end kpi
-from (select SEX, County, COUNT, 
-avg(Count) kpi
-from INFECTIOUS_DISEASES
-group by SEX, County, COUNT)
-order by County;"
-')),httpheader=c(DB='jdbc:oracle:thin:@129.152.144.84:1521/PDBF15DV.usuniversi01134.oraclecloud.internal', USER='cs329e_jnw653', PASS='orcl_jnw653', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON', p1=KPI_Very_Low_value, p2=KPI_Low_value, p3=KPI_Medium_value), verbose = TRUE)))
-
-
+df <- diseases %>% group_by(SEX, COUNTY) %>% summarize(avg_count = mean(COUNT)) %>% mutate(kpi = avg_count) %>% mutate(kpi = ifelse(kpi <= KPI_Very_Low_value, 'Very Low', ifelse(kpi <= KPI_Low_value, 'Low', ifelse(kpi <= KPI_Medium_value, 'Medium', 'High'))))
 
 ggplot() + 
   coord_cartesian() + 
   scale_x_discrete() +
   scale_y_discrete() +
-  labs(title='TITIIELLELLE') +
+  labs(title='Number of Diseases per Sex per County') +
   labs(x=paste("SEX"), y=paste("County")) +
   layer(data=df, 
-        mapping=aes(x=SEX, y=COUNTY, label=COUNTY), #label is wrong here
+        mapping=aes(x=SEX, y=COUNTY, label=round(avg_count, 2)),
         stat="identity", 
         stat_params=list(), 
         geom="text",
-        geom_params=list(colour="black"), 
+        geom_params=list(colour="black", size = 3), 
         position=position_identity()
   ) +
   layer(data=df, 
-        mapping=aes(x=SEX, y=COUNTY, label=COUNTY), #label is wrong here
+        mapping=aes(x=SEX, y=COUNTY, label=round(avg_count, 2)),
         stat="identity", 
         stat_params=list(), 
         geom="text",
-        geom_params=list(colour="black", vjust=4), 
+        geom_params=list(colour="black", vjust=4, hjust=-1, size = 3), 
         position=position_identity()
-  ) 
+  ) +
+  layer(data=df, 
+        mapping=aes(x=SEX, y=COUNTY, fill=kpi), 
+        stat="identity", 
+        stat_params=list(), 
+        geom="tile",
+        geom_params=list(alpha=0.50), 
+        position=position_identity()
+  ) + theme(axis.text.y = element_text(face = "plain", size = 8))
 ```
 ```{r}
 source("../03 R SQL Visualizations/Crosstab_jnw.R", echo = TRUE)
@@ -83,6 +77,8 @@ source("../03 R SQL Visualizations/Crosstab_jnw.R", echo = TRUE)
   
 ####Talbeau:  
 ![](../02 Tableau/Tableau_Crosstab_jnw.png)
+
+These crosstabs display how many people per county were infected with some disease, broken down by males and females, as well as the two combined. The county called "California" is the total of all of the counties. Some counties to note are Alameda, where a significantly larger amount of females had diseases versus males, and the same is true for Fresno. Modoc had very few total diseases, as well as Alpine.
 
 ###Bar Chart with Reference Lines: 
 ####R:  
