@@ -9,8 +9,6 @@ For this project, we found a set of data that listed cases of different infectio
 
 
 ###Scatter Plot:  
-####R:  
-  
 ####Tableau:
   
 ###Crosstab with a KPI and Parameters:  
@@ -20,6 +18,9 @@ For this project, we found a set of data that listed cases of different infectio
 These crosstabs display how many people per county were infected with some disease, broken down by males and females, as well as the two combined. The county called "California" is the total of all of the counties. Some counties to note are Alameda, where a significantly larger amount of females had diseases versus males, and the same is true for Fresno. Modoc had very few total diseases, as well as Alpine.
 
 ###Bar Chart with Reference Lines: 
-####R:  
-  
-####Tableau:  
+####Tableau: 
+![](../02 Tableau/BarchartFirstSheetunspec-1.png)
+
+These bar charts show each disease in a panel. Each panel shows the count each year from 2001 to 2014. Specifically, each bar within the panel sums up the count for that particular disease spanning all counties of California for that specified year. The reference line is the average count for each disease over the course of 14 years (2001-2014). It is particularly interesting to observe which years had above the average count for each disease. These bar charts are interesting because you can see how the total count changes from year to year within each disease, and you can also see if males or females have the higher count. For example, the data suggests that the Chlamydia count has a positive correlation with time and also that more females tend to have Chlamydia compared to men. I decided to include all diseases so that it is easy to see which disease is affecting Calfornia's population the most. As you can see, Chlamydia, Gonorrhea, Campylobacteriosis, HIV, Salmonellosis, Early Syphilis, Coccidioidomycosis, Pertussis, Tuberculosis, Giardiasis, Shingellosis have the above 3000 average counts. Certain diseases can easily be filtered to study trends in diseases with lower counts. Here is an example:
+
+![](../02 Tableau/differentscaleLOWERcountDISEASES-1.png)
