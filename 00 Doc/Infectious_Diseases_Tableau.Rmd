@@ -10,6 +10,9 @@ For this project, we found a set of data that listed cases of different infectio
 
 ###Scatter Plot:  
 ####Tableau:
+![](../02 Tableau/Tableau_Scatterplot_cmm.png)
+
+The above scatterplot shows the average count of infectious disease among counties in the state of California by sex. Additionally, we have include the total, male and female, count for emphasis. Interesting aspects of the plot include an apparent sinusoidal behavior amongst males, females, and male/female total. Curiously, the infectious diseases appear to occur in waves for both men and women. In general, the implemented trend lines suggest that despite the "up and down" behavior of the data, infectious disease appear to be increasing in number of cases as time increses, with women contracting more overall number of diseases than men. Data such as this could be used to analyze which sex would be in more need of vaccinations, healthcare reform programs, or overall affect value. Ultimately, the total number of cases continues to increase for both men and women combined. 
   
 ###Crosstab with a KPI and Parameters:  
 ####Talbeau:  
