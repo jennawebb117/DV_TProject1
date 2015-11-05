@@ -20,6 +20,58 @@ The above scatterplot shows the average count of infectious disease among counti
 
 These crosstabs display how many people per county were infected with some disease, broken down by males and females, as well as the two combined. The county called "California" is the total of all of the counties. Some counties to note are Alameda, where a significantly larger amount of females had diseases versus males, and the same is true for Fresno. Modoc had very few total diseases, as well as Alpine.
 
+###R and ggplot:  
+####Code: 
+```
+require("jsonlite")
+require("RCurl")
+require("ggplot2")
+require("dplyr")
+
+KPI_Very_Low_value = 0
+KPI_Low_value = 10
+KPI_Medium_value = 100
+
+df <- diseases %>% group_by(SEX, COUNTY) %>% summarize(avg_count = mean(COUNT)) %>% mutate(kpi = avg_count) %>% mutate(kpi = ifelse(kpi <= KPI_Very_Low_value, 'Very Low', ifelse(kpi <= KPI_Low_value, 'Low', ifelse(kpi <= KPI_Medium_value, 'Medium', 'High'))))
+
+ggplot() + 
+  coord_cartesian() + 
+  scale_x_discrete() +
+  scale_y_discrete() +
+  labs(title='Number of Diseases per Sex per County') +
+  labs(x=paste("SEX"), y=paste("County")) +
+  layer(data=df, 
+        mapping=aes(x=SEX, y=COUNTY, label=round(avg_count, 2)),
+        stat="identity", 
+        stat_params=list(), 
+        geom="text",
+        geom_params=list(colour="black", size = 3), 
+        position=position_identity()
+  ) +
+  layer(data=df, 
+        mapping=aes(x=SEX, y=COUNTY, label=round(avg_count, 2)),
+        stat="identity", 
+        stat_params=list(), 
+        geom="text",
+        geom_params=list(colour="black", vjust=4, hjust=-1, size = 3), 
+        position=position_identity()
+  ) +
+  layer(data=df, 
+        mapping=aes(x=SEX, y=COUNTY, fill=kpi), 
+        stat="identity", 
+        stat_params=list(), 
+        geom="tile",
+        geom_params=list(alpha=0.50), 
+        position=position_identity()
+  ) + theme(axis.text.y = element_text(face = "plain", size = 8))
+```
+```{r}
+source("../01 Data/InfectiousDiseases.R", echo = FALSE)
+```
+```{r}
+source("../03 R SQL Visualizations/Crosstab_jnw.R", echo = TRUE)
+```
+  
 ###Bar Chart with Reference Lines: 
 ####Tableau: 
 ![](../02 Tableau/BarchartFirstSheetunspec-1.png)
