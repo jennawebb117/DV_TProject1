@@ -1,0 +1,7041 @@
+Year,Age,Immunization,Immunization_Count
+2008,0,Hepatitis B,441340
+2008,0,Diphtheria,503370
+2008,0,Tetanus,503370
+2008,0,Pertussis,502680
+2008,0,Polio,489774
+2008,0,Human Papilloma Virus,0
+2008,0,Varicella,0
+2008,0,Measles,0
+2008,0,Mumps,0
+2008,0,Rubella,0
+2008,0,Influenza,54040
+2008,0,Rotavirus,395460
+2008,0,Hib,485221
+2008,0,Pneumococcal,497061
+2008,0,Hepatitis A,0
+2008,0,Meningococcal,0
+2008,1,Hepatitis B,76144
+2008,1,Diphtheria,204299
+2008,1,Tetanus,204299
+2008,1,Pertussis,203862
+2008,1,Polio,90455
+2008,1,Human Papilloma Virus,0
+2008,1,Varicella,158643
+2008,1,Measles,160551
+2008,1,Mumps,160477
+2008,1,Rubella,160914
+2008,1,Influenza,118113
+2008,1,Rotavirus,0
+2008,1,Hib,124648
+2008,1,Pneumococcal,204095
+2008,1,Hepatitis A,190093
+2008,1,Meningococcal,0
+2008,2,Hepatitis B,8498
+2008,2,Diphtheria,34907
+2008,2,Tetanus,34907
+2008,2,Pertussis,34784
+2008,2,Polio,9767
+2008,2,Human Papilloma Virus,0
+2008,2,Varicella,12915
+2008,2,Measles,10610
+2008,2,Mumps,10595
+2008,2,Rubella,10645
+2008,2,Influenza,57020
+2008,2,Rotavirus,0
+2008,2,Hib,15447
+2008,2,Pneumococcal,21520
+2008,2,Hepatitis A,93750
+2008,2,Meningococcal,943
+2008,3,Hepatitis B,4456
+2008,3,Diphtheria,11844
+2008,3,Tetanus,11844
+2008,3,Pertussis,11792
+2008,3,Polio,6461
+2008,3,Human Papilloma Virus,0
+2008,3,Varicella,8259
+2008,3,Measles,6240
+2008,3,Mumps,6235
+2008,3,Rubella,6248
+2008,3,Influenza,37500
+2008,3,Rotavirus,0
+2008,3,Hib,4254
+2008,3,Pneumococcal,7155
+2008,3,Hepatitis A,31994
+2008,3,Meningococcal,726
+2008,4,Hepatitis B,5440
+2008,4,Diphtheria,109549
+2008,4,Tetanus,109549
+2008,4,Pertussis,109422
+2008,4,Polio,107724
+2008,4,Human Papilloma Virus,0
+2008,4,Varicella,99233
+2008,4,Measles,108119
+2008,4,Mumps,107962
+2008,4,Rubella,108036
+2008,4,Influenza,35162
+2008,4,Rotavirus,0
+2008,4,Hib,3775
+2008,4,Pneumococcal,5451
+2008,4,Hepatitis A,26284
+2008,4,Meningococcal,858
+2008,5,Hepatitis B,3493
+2008,5,Diphtheria,23375
+2008,5,Tetanus,23375
+2008,5,Pertussis,23305
+2008,5,Polio,20588
+2008,5,Human Papilloma Virus,0
+2008,5,Varicella,24674
+2008,5,Measles,20973
+2008,5,Mumps,20947
+2008,5,Rubella,20961
+2008,5,Influenza,23444
+2008,5,Rotavirus,0
+2008,5,Hib,1109
+2008,5,Pneumococcal,1357
+2008,5,Hepatitis A,14321
+2008,5,Meningococcal,604
+2008,6,Hepatitis B,2016
+2008,6,Diphtheria,4856
+2008,6,Tetanus,4856
+2008,6,Pertussis,4750
+2008,6,Polio,3602
+2008,6,Human Papilloma Virus,0
+2008,6,Varicella,15729
+2008,6,Measles,3560
+2008,6,Mumps,3558
+2008,6,Rubella,3561
+2008,6,Influenza,22353
+2008,6,Rotavirus,0
+2008,6,Hib,363
+2008,6,Pneumococcal,473
+2008,6,Hepatitis A,7519
+2008,6,Meningococcal,546
+2008,7,Hepatitis B,1615
+2008,7,Diphtheria,2695
+2008,7,Tetanus,2695
+2008,7,Pertussis,1675
+2008,7,Polio,1847
+2008,7,Human Papilloma Virus,0
+2008,7,Varicella,15196
+2008,7,Measles,1807
+2008,7,Mumps,1803
+2008,7,Rubella,1805
+2008,7,Influenza,16502
+2008,7,Rotavirus,0
+2008,7,Hib,220
+2008,7,Pneumococcal,330
+2008,7,Hepatitis A,5254
+2008,7,Meningococcal,494
+2008,8,Hepatitis B,1907
+2008,8,Diphtheria,2345
+2008,8,Tetanus,2345
+2008,8,Pertussis,1247
+2008,8,Polio,1715
+2008,8,Human Papilloma Virus,0
+2008,8,Varicella,16136
+2008,8,Measles,1556
+2008,8,Mumps,1553
+2008,8,Rubella,1555
+2008,8,Influenza,14723
+2008,8,Rotavirus,0
+2008,8,Hib,189
+2008,8,Pneumococcal,233
+2008,8,Hepatitis A,4940
+2008,8,Meningococcal,536
+2008,9,Hepatitis B,2473
+2008,9,Diphtheria,2729
+2008,9,Tetanus,2729
+2008,9,Pertussis,1403
+2008,9,Polio,1440
+2008,9,Human Papilloma Virus,4527
+2008,9,Varicella,15629
+2008,9,Measles,1427
+2008,9,Mumps,1424
+2008,9,Rubella,1430
+2008,9,Influenza,12486
+2008,9,Rotavirus,0
+2008,9,Hib,131
+2008,9,Pneumococcal,165
+2008,9,Hepatitis A,5333
+2008,9,Meningococcal,738
+2008,10,Hepatitis B,3113
+2008,10,Diphtheria,6266
+2008,10,Tetanus,6266
+2008,10,Pertussis,4726
+2008,10,Polio,1563
+2008,10,Human Papilloma Virus,6492
+2008,10,Varicella,14941
+2008,10,Measles,1584
+2008,10,Mumps,1583
+2008,10,Rubella,1592
+2008,10,Influenza,11380
+2008,10,Rotavirus,0
+2008,10,Hib,141
+2008,10,Pneumococcal,145
+2008,10,Hepatitis A,5628
+2008,10,Meningococcal,1878
+2008,11,Hepatitis B,3823
+2008,11,Diphtheria,34134
+2008,11,Tetanus,34134
+2008,11,Pertussis,31497
+2008,11,Polio,1850
+2008,11,Human Papilloma Virus,23041
+2008,11,Varicella,18075
+2008,11,Measles,1922
+2008,11,Mumps,1912
+2008,11,Rubella,1918
+2008,11,Influenza,12620
+2008,11,Rotavirus,0
+2008,11,Hib,168
+2008,11,Pneumococcal,355
+2008,11,Hepatitis A,7346
+2008,11,Meningococcal,34012
+2008,12,Hepatitis B,3846
+2008,12,Diphtheria,22114
+2008,12,Tetanus,22114
+2008,12,Pertussis,19941
+2008,12,Polio,1930
+2008,12,Human Papilloma Virus,22215
+2008,12,Varicella,15500
+2008,12,Measles,2147
+2008,12,Mumps,2137
+2008,12,Rubella,2140
+2008,12,Influenza,11480
+2008,12,Rotavirus,0
+2008,12,Hib,181
+2008,12,Pneumococcal,326
+2008,12,Hepatitis A,8392
+2008,12,Meningococcal,22540
+2008,13,Hepatitis B,4016
+2008,13,Diphtheria,16170
+2008,13,Tetanus,16170
+2008,13,Pertussis,14299
+2008,13,Polio,1889
+2008,13,Human Papilloma Virus,19798
+2008,13,Varicella,13599
+2008,13,Measles,2027
+2008,13,Mumps,2023
+2008,13,Rubella,2026
+2008,13,Influenza,10339
+2008,13,Rotavirus,0
+2008,13,Hib,111
+2008,13,Pneumococcal,204
+2008,13,Hepatitis A,9214
+2008,13,Meningococcal,18625
+2008,14,Hepatitis B,4018
+2008,14,Diphtheria,16075
+2008,14,Tetanus,16075
+2008,14,Pertussis,14061
+2008,14,Polio,2049
+2008,14,Human Papilloma Virus,20901
+2008,14,Varicella,13377
+2008,14,Measles,1949
+2008,14,Mumps,1938
+2008,14,Rubella,1941
+2008,14,Influenza,10426
+2008,14,Rotavirus,0
+2008,14,Hib,128
+2008,14,Pneumococcal,230
+2008,14,Hepatitis A,10746
+2008,14,Meningococcal,19007
+2008,15,Hepatitis B,4021
+2008,15,Diphtheria,13767
+2008,15,Tetanus,13767
+2008,15,Pertussis,11996
+2008,15,Polio,2149
+2008,15,Human Papilloma Virus,19639
+2008,15,Varicella,10972
+2008,15,Measles,2176
+2008,15,Mumps,2172
+2008,15,Rubella,2179
+2008,15,Influenza,9755
+2008,15,Rotavirus,0
+2008,15,Hib,129
+2008,15,Pneumococcal,221
+2008,15,Hepatitis A,10278
+2008,15,Meningococcal,16747
+2008,16,Hepatitis B,3518
+2008,16,Diphtheria,11866
+2008,16,Tetanus,11866
+2008,16,Pertussis,10359
+2008,16,Polio,2248
+2008,16,Human Papilloma Virus,17900
+2008,16,Varicella,8634
+2008,16,Measles,2117
+2008,16,Mumps,2111
+2008,16,Rubella,2115
+2008,16,Influenza,8786
+2008,16,Rotavirus,0
+2008,16,Hib,136
+2008,16,Pneumococcal,184
+2008,16,Hepatitis A,8532
+2008,16,Meningococcal,14111
+2008,17,Hepatitis B,3648
+2008,17,Diphtheria,9929
+2008,17,Tetanus,9929
+2008,17,Pertussis,8748
+2008,17,Polio,2368
+2008,17,Human Papilloma Virus,15596
+2008,17,Varicella,6769
+2008,17,Measles,2243
+2008,17,Mumps,2236
+2008,17,Rubella,2241
+2008,17,Influenza,7345
+2008,17,Rotavirus,0
+2008,17,Hib,105
+2008,17,Pneumococcal,156
+2008,17,Hepatitis A,6437
+2008,17,Meningococcal,11866
+2008,18,Hepatitis B,2950
+2008,18,Diphtheria,5142
+2008,18,Tetanus,5142
+2008,18,Pertussis,4289
+2008,18,Polio,1829
+2008,18,Human Papilloma Virus,7904
+2008,18,Varicella,3654
+2008,18,Measles,1973
+2008,18,Mumps,1972
+2008,18,Rubella,1973
+2008,18,Influenza,3314
+2008,18,Rotavirus,0
+2008,18,Hib,
+2008,18,Pneumococcal,96
+2008,18,Hepatitis A,3380
+2008,18,Meningococcal,5336
+2008,19,Hepatitis B,161
+2008,19,Diphtheria,612
+2008,19,Tetanus,612
+2008,19,Pertussis,546
+2008,19,Polio,41
+2008,19,Human Papilloma Virus,1482
+2008,19,Varicella,314
+2008,19,Measles,77
+2008,19,Mumps,77
+2008,19,Rubella,77
+2008,19,Influenza,774
+2008,19,Rotavirus,0
+2008,19,Hib,
+2008,19,Pneumococcal,20
+2008,19,Hepatitis A,285
+2008,19,Meningococcal,667
+2008,20,Hepatitis B,447
+2008,20,Diphtheria,703
+2008,20,Tetanus,703
+2008,20,Pertussis,634
+2008,20,Polio,251
+2008,20,Human Papilloma Virus,954
+2008,20,Varicella,306
+2008,20,Measles,165
+2008,20,Mumps,165
+2008,20,Rubella,166
+2008,20,Influenza,588
+2008,20,Rotavirus,0
+2008,20,Hib,200
+2008,20,Pneumococcal,247
+2008,20,Hepatitis A,313
+2008,20,Meningococcal,411
+2008,Unknown,Hepatitis B,442
+2008,Unknown,Diphtheria,655
+2008,Unknown,Tetanus,655
+2008,Unknown,Pertussis,647
+2008,Unknown,Polio,544
+2008,Unknown,Human Papilloma Virus,60
+2008,Unknown,Varicella,192
+2008,Unknown,Measles,150
+2008,Unknown,Mumps,150
+2008,Unknown,Rubella,152
+2008,Unknown,Influenza,218
+2008,Unknown,Rotavirus,0
+2008,Unknown,Hib,489
+2008,Unknown,Pneumococcal,551
+2008,Unknown,Hepatitis A,204
+2008,Unknown,Meningococcal,33
+2008,0,Hepatitis B,162899
+2008,0,Diphtheria,178739
+2008,0,Tetanus,178739
+2008,0,Pertussis,178553
+2008,0,Polio,175112
+2008,0,Human Papilloma Virus,0
+2008,0,Varicella,0
+2008,0,Measles,0
+2008,0,Mumps,0
+2008,0,Rubella,0
+2008,0,Influenza,11905
+2008,0,Rotavirus,143432
+2008,0,Hib,171234
+2008,0,Pneumococcal,175139
+2008,0,Hepatitis A,0
+2008,0,Meningococcal,0
+2008,1,Hepatitis B,13829
+2008,1,Diphtheria,36955
+2008,1,Tetanus,36955
+2008,1,Pertussis,36906
+2008,1,Polio,17003
+2008,1,Human Papilloma Virus,0
+2008,1,Varicella,28031
+2008,1,Measles,28233
+2008,1,Mumps,28229
+2008,1,Rubella,28247
+2008,1,Influenza,20216
+2008,1,Rotavirus,0
+2008,1,Hib,23047
+2008,1,Pneumococcal,36796
+2008,1,Hepatitis A,33256
+2008,1,Meningococcal,0
+2008,2,Hepatitis B,1896
+2008,2,Diphtheria,7048
+2008,2,Tetanus,7048
+2008,2,Pertussis,7031
+2008,2,Polio,2231
+2008,2,Human Papilloma Virus,0
+2008,2,Varicella,2639
+2008,2,Measles,2319
+2008,2,Mumps,2318
+2008,2,Rubella,2321
+2008,2,Influenza,10356
+2008,2,Rotavirus,0
+2008,2,Hib,3088
+2008,2,Pneumococcal,4154
+2008,2,Hepatitis A,17662
+2008,2,Meningococcal,361
+2008,3,Hepatitis B,985
+2008,3,Diphtheria,2518
+2008,3,Tetanus,2518
+2008,3,Pertussis,2506
+2008,3,Polio,1385
+2008,3,Human Papilloma Virus,0
+2008,3,Varicella,1762
+2008,3,Measles,1352
+2008,3,Mumps,1352
+2008,3,Rubella,1354
+2008,3,Influenza,7096
+2008,3,Rotavirus,0
+2008,3,Hib,917
+2008,3,Pneumococcal,1367
+2008,3,Hepatitis A,6467
+2008,3,Meningococcal,223
+2008,4,Hepatitis B,956
+2008,4,Diphtheria,18818
+2008,4,Tetanus,18818
+2008,4,Pertussis,18796
+2008,4,Polio,18463
+2008,4,Human Papilloma Virus,0
+2008,4,Varicella,16767
+2008,4,Measles,18268
+2008,4,Mumps,18257
+2008,4,Rubella,18266
+2008,4,Influenza,6204
+2008,4,Rotavirus,0
+2008,4,Hib,690
+2008,4,Pneumococcal,901
+2008,4,Hepatitis A,4765
+2008,4,Meningococcal,251
+2008,5,Hepatitis B,570
+2008,5,Diphtheria,4747
+2008,5,Tetanus,4747
+2008,5,Pertussis,4737
+2008,5,Polio,4212
+2008,5,Human Papilloma Virus,0
+2008,5,Varicella,4871
+2008,5,Measles,4234
+2008,5,Mumps,4232
+2008,5,Rubella,4234
+2008,5,Influenza,3982
+2008,5,Rotavirus,0
+2008,5,Hib,192
+2008,5,Pneumococcal,217
+2008,5,Hepatitis A,2518
+2008,5,Meningococcal,164
+2008,6,Hepatitis B,319
+2008,6,Diphtheria,819
+2008,6,Tetanus,819
+2008,6,Pertussis,808
+2008,6,Polio,632
+2008,6,Human Papilloma Virus,0
+2008,6,Varicella,2540
+2008,6,Measles,583
+2008,6,Mumps,583
+2008,6,Rubella,583
+2008,6,Influenza,3533
+2008,6,Rotavirus,0
+2008,6,Hib,47
+2008,6,Pneumococcal,74
+2008,6,Hepatitis A,1106
+2008,6,Meningococcal,139
+2008,7,Hepatitis B,193
+2008,7,Diphtheria,369
+2008,7,Tetanus,369
+2008,7,Pertussis,254
+2008,7,Polio,277
+2008,7,Human Papilloma Virus,0
+2008,7,Varicella,2388
+2008,7,Measles,271
+2008,7,Mumps,271
+2008,7,Rubella,271
+2008,7,Influenza,2753
+2008,7,Rotavirus,0
+2008,7,Hib,20
+2008,7,Pneumococcal,57
+2008,7,Hepatitis A,731
+2008,7,Meningococcal,124
+2008,8,Hepatitis B,187
+2008,8,Diphtheria,305
+2008,8,Tetanus,305
+2008,8,Pertussis,178
+2008,8,Polio,211
+2008,8,Human Papilloma Virus,0
+2008,8,Varicella,2324
+2008,8,Measles,199
+2008,8,Mumps,199
+2008,8,Rubella,199
+2008,8,Influenza,2414
+2008,8,Rotavirus,0
+2008,8,Hib,
+2008,8,Pneumococcal,20
+2008,8,Hepatitis A,649
+2008,8,Meningococcal,97
+2008,9,Hepatitis B,170
+2008,9,Diphtheria,374
+2008,9,Tetanus,374
+2008,9,Pertussis,204
+2008,9,Polio,178
+2008,9,Human Papilloma Virus,726
+2008,9,Varicella,2403
+2008,9,Measles,182
+2008,9,Mumps,182
+2008,9,Rubella,185
+2008,9,Influenza,2147
+2008,9,Rotavirus,0
+2008,9,Hib,13
+2008,9,Pneumococcal,33
+2008,9,Hepatitis A,689
+2008,9,Meningococcal,135
+2008,10,Hepatitis B,210
+2008,10,Diphtheria,960
+2008,10,Tetanus,960
+2008,10,Pertussis,769
+2008,10,Polio,160
+2008,10,Human Papilloma Virus,950
+2008,10,Varicella,2197
+2008,10,Measles,164
+2008,10,Mumps,164
+2008,10,Rubella,165
+2008,10,Influenza,1891
+2008,10,Rotavirus,0
+2008,10,Hib,
+2008,10,Pneumococcal,34
+2008,10,Hepatitis A,619
+2008,10,Meningococcal,327
+2008,11,Hepatitis B,195
+2008,11,Diphtheria,4986
+2008,11,Tetanus,4986
+2008,11,Pertussis,4656
+2008,11,Polio,184
+2008,11,Human Papilloma Virus,3178
+2008,11,Varicella,2696
+2008,11,Measles,187
+2008,11,Mumps,187
+2008,11,Rubella,187
+2008,11,Influenza,2095
+2008,11,Rotavirus,0
+2008,11,Hib,11
+2008,11,Pneumococcal,52
+2008,11,Hepatitis A,925
+2008,11,Meningococcal,4985
+2008,12,Hepatitis B,273
+2008,12,Diphtheria,3399
+2008,12,Tetanus,3399
+2008,12,Pertussis,3166
+2008,12,Polio,249
+2008,12,Human Papilloma Virus,3261
+2008,12,Varicella,2373
+2008,12,Measles,251
+2008,12,Mumps,251
+2008,12,Rubella,251
+2008,12,Influenza,1923
+2008,12,Rotavirus,0
+2008,12,Hib,14
+2008,12,Pneumococcal,51
+2008,12,Hepatitis A,1178
+2008,12,Meningococcal,3476
+2008,13,Hepatitis B,253
+2008,13,Diphtheria,2332
+2008,13,Tetanus,2332
+2008,13,Pertussis,2144
+2008,13,Polio,215
+2008,13,Human Papilloma Virus,2774
+2008,13,Varicella,2011
+2008,13,Measles,209
+2008,13,Mumps,209
+2008,13,Rubella,210
+2008,13,Influenza,1772
+2008,13,Rotavirus,0
+2008,13,Hib,14
+2008,13,Pneumococcal,35
+2008,13,Hepatitis A,1169
+2008,13,Meningococcal,2583
+2008,14,Hepatitis B,253
+2008,14,Diphtheria,2293
+2008,14,Tetanus,2293
+2008,14,Pertussis,2101
+2008,14,Polio,209
+2008,14,Human Papilloma Virus,3137
+2008,14,Varicella,1968
+2008,14,Measles,215
+2008,14,Mumps,213
+2008,14,Rubella,214
+2008,14,Influenza,1815
+2008,14,Rotavirus,0
+2008,14,Hib,15
+2008,14,Pneumococcal,51
+2008,14,Hepatitis A,1478
+2008,14,Meningococcal,2723
+2008,15,Hepatitis B,329
+2008,15,Diphtheria,2086
+2008,15,Tetanus,2086
+2008,15,Pertussis,1895
+2008,15,Polio,210
+2008,15,Human Papilloma Virus,2871
+2008,15,Varicella,1790
+2008,15,Measles,210
+2008,15,Mumps,210
+2008,15,Rubella,210
+2008,15,Influenza,1693
+2008,15,Rotavirus,0
+2008,15,Hib,15
+2008,15,Pneumococcal,34
+2008,15,Hepatitis A,1477
+2008,15,Meningococcal,2496
+2008,16,Hepatitis B,321
+2008,16,Diphtheria,1713
+2008,16,Tetanus,1713
+2008,16,Pertussis,1561
+2008,16,Polio,232
+2008,16,Human Papilloma Virus,2657
+2008,16,Varicella,1268
+2008,16,Measles,210
+2008,16,Mumps,210
+2008,16,Rubella,212
+2008,16,Influenza,1472
+2008,16,Rotavirus,0
+2008,16,Hib,17
+2008,16,Pneumococcal,29
+2008,16,Hepatitis A,1182
+2008,16,Meningococcal,2084
+2008,17,Hepatitis B,345
+2008,17,Diphtheria,1521
+2008,17,Tetanus,1521
+2008,17,Pertussis,1396
+2008,17,Polio,190
+2008,17,Human Papilloma Virus,2406
+2008,17,Varicella,1050
+2008,17,Measles,193
+2008,17,Mumps,193
+2008,17,Rubella,193
+2008,17,Influenza,1328
+2008,17,Rotavirus,0
+2008,17,Hib,13
+2008,17,Pneumococcal,33
+2008,17,Hepatitis A,877
+2008,17,Meningococcal,1865
+2008,18,Hepatitis B,134
+2008,18,Diphtheria,497
+2008,18,Tetanus,497
+2008,18,Pertussis,441
+2008,18,Polio,57
+2008,18,Human Papilloma Virus,950
+2008,18,Varicella,299
+2008,18,Measles,74
+2008,18,Mumps,74
+2008,18,Rubella,74
+2008,18,Influenza,518
+2008,18,Rotavirus,0
+2008,18,Hib,
+2008,18,Pneumococcal,
+2008,18,Hepatitis A,289
+2008,18,Meningococcal,542
+2008,19,Hepatitis B,38
+2008,19,Diphtheria,173
+2008,19,Tetanus,173
+2008,19,Pertussis,155
+2008,19,Polio,
+2008,19,Human Papilloma Virus,378
+2008,19,Varicella,106
+2008,19,Measles,19
+2008,19,Mumps,19
+2008,19,Rubella,19
+2008,19,Influenza,233
+2008,19,Rotavirus,0
+2008,19,Hib,0
+2008,19,Pneumococcal,
+2008,19,Hepatitis A,73
+2008,19,Meningococcal,181
+2008,20,Hepatitis B,26
+2008,20,Diphtheria,82
+2008,20,Tetanus,82
+2008,20,Pertussis,70
+2008,20,Polio,
+2008,20,Human Papilloma Virus,220
+2008,20,Varicella,35
+2008,20,Measles,13
+2008,20,Mumps,13
+2008,20,Rubella,13
+2008,20,Influenza,103
+2008,20,Rotavirus,0
+2008,20,Hib,
+2008,20,Pneumococcal,
+2008,20,Hepatitis A,43
+2008,20,Meningococcal,79
+2008,Unknown,Hepatitis B,0
+2008,Unknown,Diphtheria,0
+2008,Unknown,Tetanus,0
+2008,Unknown,Pertussis,0
+2008,Unknown,Polio,0
+2008,Unknown,Human Papilloma Virus,0
+2008,Unknown,Varicella,0
+2008,Unknown,Measles,0
+2008,Unknown,Mumps,0
+2008,Unknown,Rubella,0
+2008,Unknown,Influenza,0
+2008,Unknown,Rotavirus,0
+2008,Unknown,Hib,0
+2008,Unknown,Pneumococcal,0
+2008,Unknown,Hepatitis A,0
+2008,Unknown,Meningococcal,0
+2008,0,Hepatitis B,67502
+2008,0,Diphtheria,64910
+2008,0,Tetanus,64910
+2008,0,Pertussis,64833
+2008,0,Polio,63632
+2008,0,Human Papilloma Virus,0
+2008,0,Varicella,0
+2008,0,Measles,0
+2008,0,Mumps,0
+2008,0,Rubella,0
+2008,0,Influenza,3775
+2008,0,Rotavirus,50791
+2008,0,Hib,62828
+2008,0,Pneumococcal,63405
+2008,0,Hepatitis A,0
+2008,0,Meningococcal,0
+2008,1,Hepatitis B,5427
+2008,1,Diphtheria,17104
+2008,1,Tetanus,17104
+2008,1,Pertussis,17081
+2008,1,Polio,6893
+2008,1,Human Papilloma Virus,0
+2008,1,Varicella,13662
+2008,1,Measles,13869
+2008,1,Mumps,13867
+2008,1,Rubella,13872
+2008,1,Influenza,7364
+2008,1,Rotavirus,0
+2008,1,Hib,10251
+2008,1,Pneumococcal,15860
+2008,1,Hepatitis A,17138
+2008,1,Meningococcal,0
+2008,2,Hepatitis B,1184
+2008,2,Diphtheria,4092
+2008,2,Tetanus,4092
+2008,2,Pertussis,4078
+2008,2,Polio,1288
+2008,2,Human Papilloma Virus,0
+2008,2,Varicella,1980
+2008,2,Measles,1440
+2008,2,Mumps,1438
+2008,2,Rubella,1441
+2008,2,Influenza,4030
+2008,2,Rotavirus,0
+2008,2,Hib,1946
+2008,2,Pneumococcal,2585
+2008,2,Hepatitis A,9499
+2008,2,Meningococcal,230
+2008,3,Hepatitis B,830
+2008,3,Diphtheria,2075
+2008,3,Tetanus,2075
+2008,3,Pertussis,2071
+2008,3,Polio,1089
+2008,3,Human Papilloma Virus,0
+2008,3,Varicella,1486
+2008,3,Measles,1036
+2008,3,Mumps,1036
+2008,3,Rubella,1038
+2008,3,Influenza,2626
+2008,3,Rotavirus,0
+2008,3,Hib,819
+2008,3,Pneumococcal,1366
+2008,3,Hepatitis A,4736
+2008,3,Meningococcal,226
+2008,4,Hepatitis B,1101
+2008,4,Diphtheria,14412
+2008,4,Tetanus,14412
+2008,4,Pertussis,14395
+2008,4,Polio,14176
+2008,4,Human Papilloma Virus,0
+2008,4,Varicella,13026
+2008,4,Measles,14639
+2008,4,Mumps,14630
+2008,4,Rubella,14638
+2008,4,Influenza,2733
+2008,4,Rotavirus,0
+2008,4,Hib,744
+2008,4,Pneumococcal,1141
+2008,4,Hepatitis A,5315
+2008,4,Meningococcal,271
+2008,5,Hepatitis B,967
+2008,5,Diphtheria,4521
+2008,5,Tetanus,4521
+2008,5,Pertussis,4512
+2008,5,Polio,4150
+2008,5,Human Papilloma Virus,0
+2008,5,Varicella,4955
+2008,5,Measles,4545
+2008,5,Mumps,4543
+2008,5,Rubella,4545
+2008,5,Influenza,1609
+2008,5,Rotavirus,0
+2008,5,Hib,213
+2008,5,Pneumococcal,271
+2008,5,Hepatitis A,3545
+2008,5,Meningococcal,220
+2008,6,Hepatitis B,676
+2008,6,Diphtheria,1549
+2008,6,Tetanus,1549
+2008,6,Pertussis,1510
+2008,6,Polio,1176
+2008,6,Human Papilloma Virus,0
+2008,6,Varicella,3752
+2008,6,Measles,1233
+2008,6,Mumps,1233
+2008,6,Rubella,1234
+2008,6,Influenza,2162
+2008,6,Rotavirus,0
+2008,6,Hib,68
+2008,6,Pneumococcal,76
+2008,6,Hepatitis A,2259
+2008,6,Meningococcal,215
+2008,7,Hepatitis B,637
+2008,7,Diphtheria,970
+2008,7,Tetanus,970
+2008,7,Pertussis,492
+2008,7,Polio,706
+2008,7,Human Papilloma Virus,0
+2008,7,Varicella,3198
+2008,7,Measles,688
+2008,7,Mumps,688
+2008,7,Rubella,689
+2008,7,Influenza,1381
+2008,7,Rotavirus,0
+2008,7,Hib,34
+2008,7,Pneumococcal,40
+2008,7,Hepatitis A,1633
+2008,7,Meningococcal,187
+2008,8,Hepatitis B,935
+2008,8,Diphtheria,918
+2008,8,Tetanus,918
+2008,8,Pertussis,383
+2008,8,Polio,740
+2008,8,Human Papilloma Virus,0
+2008,8,Varicella,3447
+2008,8,Measles,702
+2008,8,Mumps,702
+2008,8,Rubella,702
+2008,8,Influenza,1423
+2008,8,Rotavirus,0
+2008,8,Hib,19
+2008,8,Pneumococcal,36
+2008,8,Hepatitis A,1821
+2008,8,Meningococcal,231
+2008,9,Hepatitis B,1431
+2008,9,Diphtheria,916
+2008,9,Tetanus,916
+2008,9,Pertussis,378
+2008,9,Polio,597
+2008,9,Human Papilloma Virus,996
+2008,9,Varicella,3072
+2008,9,Measles,621
+2008,9,Mumps,621
+2008,9,Rubella,622
+2008,9,Influenza,1178
+2008,9,Rotavirus,0
+2008,9,Hib,26
+2008,9,Pneumococcal,26
+2008,9,Hepatitis A,2144
+2008,9,Meningococcal,271
+2008,10,Hepatitis B,1824
+2008,10,Diphtheria,1566
+2008,10,Tetanus,1566
+2008,10,Pertussis,934
+2008,10,Polio,733
+2008,10,Human Papilloma Virus,1393
+2008,10,Varicella,3271
+2008,10,Measles,765
+2008,10,Mumps,765
+2008,10,Rubella,765
+2008,10,Influenza,1154
+2008,10,Rotavirus,0
+2008,10,Hib,30
+2008,10,Pneumococcal,22
+2008,10,Hepatitis A,2350
+2008,10,Meningococcal,499
+2008,11,Hepatitis B,2155
+2008,11,Diphtheria,5742
+2008,11,Tetanus,5742
+2008,11,Pertussis,4843
+2008,11,Polio,721
+2008,11,Human Papilloma Virus,4213
+2008,11,Varicella,3597
+2008,11,Measles,821
+2008,11,Mumps,819
+2008,11,Rubella,821
+2008,11,Influenza,1249
+2008,11,Rotavirus,0
+2008,11,Hib,25
+2008,11,Pneumococcal,44
+2008,11,Hepatitis A,2829
+2008,11,Meningococcal,5353
+2008,12,Hepatitis B,2164
+2008,12,Diphtheria,4699
+2008,12,Tetanus,4699
+2008,12,Pertussis,3773
+2008,12,Polio,716
+2008,12,Human Papilloma Virus,4080
+2008,12,Varicella,3356
+2008,12,Measles,902
+2008,12,Mumps,898
+2008,12,Rubella,898
+2008,12,Influenza,1240
+2008,12,Rotavirus,0
+2008,12,Hib,30
+2008,12,Pneumococcal,36
+2008,12,Hepatitis A,2891
+2008,12,Meningococcal,4238
+2008,13,Hepatitis B,2539
+2008,13,Diphtheria,4609
+2008,13,Tetanus,4609
+2008,13,Pertussis,3694
+2008,13,Polio,871
+2008,13,Human Papilloma Virus,3941
+2008,13,Varicella,3461
+2008,13,Measles,987
+2008,13,Mumps,986
+2008,13,Rubella,986
+2008,13,Influenza,1154
+2008,13,Rotavirus,0
+2008,13,Hib,21
+2008,13,Pneumococcal,31
+2008,13,Hepatitis A,3526
+2008,13,Meningococcal,5070
+2008,14,Hepatitis B,2532
+2008,14,Diphtheria,5134
+2008,14,Tetanus,5134
+2008,14,Pertussis,4107
+2008,14,Polio,923
+2008,14,Human Papilloma Virus,4378
+2008,14,Varicella,3712
+2008,14,Measles,921
+2008,14,Mumps,917
+2008,14,Rubella,918
+2008,14,Influenza,1311
+2008,14,Rotavirus,0
+2008,14,Hib,26
+2008,14,Pneumococcal,51
+2008,14,Hepatitis A,3999
+2008,14,Meningococcal,5625
+2008,15,Hepatitis B,2424
+2008,15,Diphtheria,4432
+2008,15,Tetanus,4432
+2008,15,Pertussis,3480
+2008,15,Polio,1038
+2008,15,Human Papilloma Virus,4162
+2008,15,Varicella,3160
+2008,15,Measles,1166
+2008,15,Mumps,1164
+2008,15,Rubella,1166
+2008,15,Influenza,1330
+2008,15,Rotavirus,0
+2008,15,Hib,25
+2008,15,Pneumococcal,39
+2008,15,Hepatitis A,3814
+2008,15,Meningococcal,4894
+2008,16,Hepatitis B,1888
+2008,16,Diphtheria,3689
+2008,16,Tetanus,3689
+2008,16,Pertussis,2938
+2008,16,Polio,1158
+2008,16,Human Papilloma Virus,3646
+2008,16,Varicella,2504
+2008,16,Measles,1189
+2008,16,Mumps,1188
+2008,16,Rubella,1188
+2008,16,Influenza,1360
+2008,16,Rotavirus,0
+2008,16,Hib,31
+2008,16,Pneumococcal,38
+2008,16,Hepatitis A,2918
+2008,16,Meningococcal,3946
+2008,17,Hepatitis B,1961
+2008,17,Diphtheria,3177
+2008,17,Tetanus,3177
+2008,17,Pertussis,2613
+2008,17,Polio,1454
+2008,17,Human Papilloma Virus,3223
+2008,17,Varicella,2286
+2008,17,Measles,1449
+2008,17,Mumps,1445
+2008,17,Rubella,1446
+2008,17,Influenza,1218
+2008,17,Rotavirus,0
+2008,17,Hib,29
+2008,17,Pneumococcal,27
+2008,17,Hepatitis A,2360
+2008,17,Meningococcal,3221
+2008,18,Hepatitis B,2171
+2008,18,Diphtheria,2504
+2008,18,Tetanus,2504
+2008,18,Pertussis,1944
+2008,18,Polio,1548
+2008,18,Human Papilloma Virus,2242
+2008,18,Varicella,2123
+2008,18,Measles,1626
+2008,18,Mumps,1626
+2008,18,Rubella,1627
+2008,18,Influenza,885
+2008,18,Rotavirus,0
+2008,18,Hib,14
+2008,18,Pneumococcal,51
+2008,18,Hepatitis A,1893
+2008,18,Meningococcal,2171
+2008,19,Hepatitis B,0
+2008,19,Diphtheria,0
+2008,19,Tetanus,0
+2008,19,Pertussis,0
+2008,19,Polio,0
+2008,19,Human Papilloma Virus,0
+2008,19,Varicella,0
+2008,19,Measles,0
+2008,19,Mumps,0
+2008,19,Rubella,0
+2008,19,Influenza,0
+2008,19,Rotavirus,0
+2008,19,Hib,0
+2008,19,Pneumococcal,0
+2008,19,Hepatitis A,0
+2008,19,Meningococcal,0
+2008,20,Hepatitis B,0
+2008,20,Diphtheria,0
+2008,20,Tetanus,0
+2008,20,Pertussis,0
+2008,20,Polio,0
+2008,20,Human Papilloma Virus,0
+2008,20,Varicella,0
+2008,20,Measles,0
+2008,20,Mumps,0
+2008,20,Rubella,0
+2008,20,Influenza,0
+2008,20,Rotavirus,0
+2008,20,Hib,0
+2008,20,Pneumococcal,0
+2008,20,Hepatitis A,0
+2008,20,Meningococcal,0
+2008,Unknown,Hepatitis B,0
+2008,Unknown,Diphtheria,0
+2008,Unknown,Tetanus,0
+2008,Unknown,Pertussis,0
+2008,Unknown,Polio,0
+2008,Unknown,Human Papilloma Virus,0
+2008,Unknown,Varicella,0
+2008,Unknown,Measles,0
+2008,Unknown,Mumps,0
+2008,Unknown,Rubella,0
+2008,Unknown,Influenza,0
+2008,Unknown,Rotavirus,0
+2008,Unknown,Hib,0
+2008,Unknown,Pneumococcal,0
+2008,Unknown,Hepatitis A,0
+2008,Unknown,Meningococcal,0
+2008,0,Hepatitis B,210651
+2008,0,Diphtheria,259338
+2008,0,Tetanus,259338
+2008,0,Pertussis,258912
+2008,0,Polio,250651
+2008,0,Human Papilloma Virus,0
+2008,0,Varicella,0
+2008,0,Measles,0
+2008,0,Mumps,0
+2008,0,Rubella,0
+2008,0,Influenza,38316
+2008,0,Rotavirus,200957
+2008,0,Hib,250782
+2008,0,Pneumococcal,258144
+2008,0,Hepatitis A,0
+2008,0,Meningococcal,0
+2008,1,Hepatitis B,56790
+2008,1,Diphtheria,149961
+2008,1,Tetanus,149961
+2008,1,Pertussis,149597
+2008,1,Polio,66446
+2008,1,Human Papilloma Virus,0
+2008,1,Varicella,116737
+2008,1,Measles,118247
+2008,1,Mumps,118179
+2008,1,Rubella,118593
+2008,1,Influenza,90378
+2008,1,Rotavirus,0
+2008,1,Hib,91195
+2008,1,Pneumococcal,151141
+2008,1,Hepatitis A,139396
+2008,1,Meningococcal,0
+2008,2,Hepatitis B,5327
+2008,2,Diphtheria,23585
+2008,2,Tetanus,23585
+2008,2,Pertussis,23493
+2008,2,Polio,6186
+2008,2,Human Papilloma Virus,0
+2008,2,Varicella,8195
+2008,2,Measles,6813
+2008,2,Mumps,6801
+2008,2,Rubella,6845
+2008,2,Influenza,42405
+2008,2,Rotavirus,0
+2008,2,Hib,10352
+2008,2,Pneumococcal,14576
+2008,2,Hepatitis A,66243
+2008,2,Meningococcal,348
+2008,3,Hepatitis B,2546
+2008,3,Diphtheria,7116
+2008,3,Tetanus,7116
+2008,3,Pertussis,7081
+2008,3,Polio,3907
+2008,3,Human Papilloma Virus,0
+2008,3,Varicella,4888
+2008,3,Measles,3791
+2008,3,Mumps,3786
+2008,3,Rubella,3795
+2008,3,Influenza,27506
+2008,3,Rotavirus,0
+2008,3,Hib,2446
+2008,3,Pneumococcal,4238
+2008,3,Hepatitis A,20465
+2008,3,Meningococcal,270
+2008,4,Hepatitis B,3212
+2008,4,Diphtheria,75273
+2008,4,Tetanus,75273
+2008,4,Pertussis,75186
+2008,4,Polio,74164
+2008,4,Human Papilloma Virus,0
+2008,4,Varicella,68484
+2008,4,Measles,74181
+2008,4,Mumps,74045
+2008,4,Rubella,74100
+2008,4,Influenza,25803
+2008,4,Rotavirus,0
+2008,4,Hib,2260
+2008,4,Pneumococcal,3235
+2008,4,Hepatitis A,15790
+2008,4,Meningococcal,320
+2008,5,Hepatitis B,1831
+2008,5,Diphtheria,13815
+2008,5,Tetanus,13815
+2008,5,Pertussis,13765
+2008,5,Polio,12032
+2008,5,Human Papilloma Virus,0
+2008,5,Varicella,14550
+2008,5,Measles,12016
+2008,5,Mumps,11994
+2008,5,Rubella,12004
+2008,5,Influenza,17535
+2008,5,Rotavirus,0
+2008,5,Hib,679
+2008,5,Pneumococcal,821
+2008,5,Hepatitis A,7995
+2008,5,Meningococcal,202
+2008,6,Hepatitis B,939
+2008,6,Diphtheria,2363
+2008,6,Tetanus,2363
+2008,6,Pertussis,2313
+2008,6,Polio,1704
+2008,6,Human Papilloma Virus,0
+2008,6,Varicella,9120
+2008,6,Measles,1673
+2008,6,Mumps,1671
+2008,6,Rubella,1673
+2008,6,Influenza,16270
+2008,6,Rotavirus,0
+2008,6,Hib,239
+2008,6,Pneumococcal,313
+2008,6,Hepatitis A,3901
+2008,6,Meningococcal,173
+2008,7,Hepatitis B,698
+2008,7,Diphtheria,1258
+2008,7,Tetanus,1258
+2008,7,Pertussis,873
+2008,7,Polio,782
+2008,7,Human Papilloma Virus,0
+2008,7,Varicella,9176
+2008,7,Measles,786
+2008,7,Mumps,782
+2008,7,Rubella,783
+2008,7,Influenza,11985
+2008,7,Rotavirus,0
+2008,7,Hib,164
+2008,7,Pneumococcal,228
+2008,7,Hepatitis A,2638
+2008,7,Meningococcal,158
+2008,8,Hepatitis B,682
+2008,8,Diphtheria,976
+2008,8,Tetanus,976
+2008,8,Pertussis,615
+2008,8,Polio,658
+2008,8,Human Papilloma Virus,0
+2008,8,Varicella,9801
+2008,8,Measles,580
+2008,8,Mumps,577
+2008,8,Rubella,579
+2008,8,Influenza,10452
+2008,8,Rotavirus,0
+2008,8,Hib,158
+2008,8,Pneumococcal,172
+2008,8,Hepatitis A,2212
+2008,8,Meningococcal,173
+2008,9,Hepatitis B,733
+2008,9,Diphtheria,1277
+2008,9,Tetanus,1277
+2008,9,Pertussis,746
+2008,9,Polio,565
+2008,9,Human Papilloma Virus,2542
+2008,9,Varicella,9460
+2008,9,Measles,569
+2008,9,Mumps,566
+2008,9,Rubella,568
+2008,9,Influenza,8727
+2008,9,Rotavirus,0
+2008,9,Hib,90
+2008,9,Pneumococcal,98
+2008,9,Hepatitis A,2267
+2008,9,Meningococcal,287
+2008,10,Hepatitis B,872
+2008,10,Diphtheria,3453
+2008,10,Tetanus,3453
+2008,10,Pertussis,2830
+2008,10,Polio,573
+2008,10,Human Papilloma Virus,3747
+2008,10,Varicella,8828
+2008,10,Measles,585
+2008,10,Mumps,584
+2008,10,Rubella,592
+2008,10,Influenza,7962
+2008,10,Rotavirus,0
+2008,10,Hib,96
+2008,10,Pneumococcal,82
+2008,10,Hepatitis A,2428
+2008,10,Meningococcal,967
+2008,11,Hepatitis B,1231
+2008,11,Diphtheria,21883
+2008,11,Tetanus,21883
+2008,11,Pertussis,20626
+2008,11,Polio,810
+2008,11,Human Papilloma Virus,14531
+2008,11,Varicella,11036
+2008,11,Measles,805
+2008,11,Mumps,800
+2008,11,Rubella,804
+2008,11,Influenza,8755
+2008,11,Rotavirus,0
+2008,11,Hib,126
+2008,11,Pneumococcal,244
+2008,11,Hepatitis A,3329
+2008,11,Meningococcal,22053
+2008,12,Hepatitis B,1179
+2008,12,Diphtheria,13089
+2008,12,Tetanus,13089
+2008,12,Pertussis,12179
+2008,12,Polio,826
+2008,12,Human Papilloma Virus,13816
+2008,12,Varicella,9134
+2008,12,Measles,855
+2008,12,Mumps,849
+2008,12,Rubella,852
+2008,12,Influenza,7917
+2008,12,Rotavirus,0
+2008,12,Hib,132
+2008,12,Pneumococcal,229
+2008,12,Hepatitis A,4064
+2008,12,Meningococcal,13903
+2008,13,Hepatitis B,1024
+2008,13,Diphtheria,8567
+2008,13,Tetanus,8567
+2008,13,Pertussis,7867
+2008,13,Polio,683
+2008,13,Human Papilloma Virus,12217
+2008,13,Varicella,7572
+2008,13,Measles,722
+2008,13,Mumps,719
+2008,13,Rubella,721
+2008,13,Influenza,7066
+2008,13,Rotavirus,0
+2008,13,Hib,71
+2008,13,Pneumococcal,127
+2008,13,Hepatitis A,4259
+2008,13,Meningococcal,10264
+2008,14,Hepatitis B,1048
+2008,14,Diphtheria,7977
+2008,14,Tetanus,7977
+2008,14,Pertussis,7269
+2008,14,Polio,796
+2008,14,Human Papilloma Virus,12416
+2008,14,Varicella,7153
+2008,14,Measles,711
+2008,14,Mumps,706
+2008,14,Rubella,707
+2008,14,Influenza,6935
+2008,14,Rotavirus,0
+2008,14,Hib,83
+2008,14,Pneumococcal,121
+2008,14,Hepatitis A,4957
+2008,14,Meningococcal,9861
+2008,15,Hepatitis B,1101
+2008,15,Diphtheria,6678
+2008,15,Tetanus,6678
+2008,15,Pertussis,6117
+2008,15,Polio,767
+2008,15,Human Papilloma Virus,11750
+2008,15,Varicella,5569
+2008,15,Measles,699
+2008,15,Mumps,697
+2008,15,Rubella,702
+2008,15,Influenza,6378
+2008,15,Rotavirus,0
+2008,15,Hib,81
+2008,15,Pneumococcal,138
+2008,15,Hepatitis A,4702
+2008,15,Meningococcal,8663
+2008,16,Hepatitis B,1136
+2008,16,Diphtheria,5983
+2008,16,Tetanus,5983
+2008,16,Pertussis,5451
+2008,16,Polio,738
+2008,16,Human Papilloma Virus,10735
+2008,16,Varicella,4461
+2008,16,Measles,629
+2008,16,Mumps,624
+2008,16,Rubella,626
+2008,16,Influenza,5643
+2008,16,Rotavirus,0
+2008,16,Hib,80
+2008,16,Pneumococcal,100
+2008,16,Hepatitis A,4187
+2008,16,Meningococcal,7477
+2008,17,Hepatitis B,1195
+2008,17,Diphtheria,4831
+2008,17,Tetanus,4831
+2008,17,Pertussis,4396
+2008,17,Polio,608
+2008,17,Human Papilloma Virus,9313
+2008,17,Varicella,3130
+2008,17,Measles,522
+2008,17,Mumps,519
+2008,17,Rubella,522
+2008,17,Influenza,4513
+2008,17,Rotavirus,0
+2008,17,Hib,56
+2008,17,Pneumococcal,88
+2008,17,Hepatitis A,2980
+2008,17,Meningococcal,6263
+2008,18,Hepatitis B,561
+2008,18,Diphtheria,1956
+2008,18,Tetanus,1956
+2008,18,Pertussis,1752
+2008,18,Polio,170
+2008,18,Human Papilloma Virus,4398
+2008,18,Varicella,1113
+2008,18,Measles,226
+2008,18,Mumps,225
+2008,18,Rubella,225
+2008,18,Influenza,1808
+2008,18,Rotavirus,0
+2008,18,Hib,
+2008,18,Pneumococcal,35
+2008,18,Hepatitis A,1093
+2008,18,Meningococcal,2409
+2008,19,Hepatitis B,123
+2008,19,Diphtheria,439
+2008,19,Tetanus,439
+2008,19,Pertussis,391
+2008,19,Polio,31
+2008,19,Human Papilloma Virus,1104
+2008,19,Varicella,208
+2008,19,Measles,58
+2008,19,Mumps,58
+2008,19,Rubella,58
+2008,19,Influenza,541
+2008,19,Rotavirus,0
+2008,19,Hib,
+2008,19,Pneumococcal,14
+2008,19,Hepatitis A,212
+2008,19,Meningococcal,486
+2008,20,Hepatitis B,421
+2008,20,Diphtheria,621
+2008,20,Tetanus,621
+2008,20,Pertussis,564
+2008,20,Polio,247
+2008,20,Human Papilloma Virus,734
+2008,20,Varicella,271
+2008,20,Measles,152
+2008,20,Mumps,152
+2008,20,Rubella,153
+2008,20,Influenza,485
+2008,20,Rotavirus,0
+2008,20,Hib,197
+2008,20,Pneumococcal,240
+2008,20,Hepatitis A,270
+2008,20,Meningococcal,332
+2008,Unknown,Hepatitis B,442
+2008,Unknown,Diphtheria,655
+2008,Unknown,Tetanus,655
+2008,Unknown,Pertussis,647
+2008,Unknown,Polio,544
+2008,Unknown,Human Papilloma Virus,60
+2008,Unknown,Varicella,192
+2008,Unknown,Measles,150
+2008,Unknown,Mumps,150
+2008,Unknown,Rubella,152
+2008,Unknown,Influenza,218
+2008,Unknown,Rotavirus,0
+2008,Unknown,Hib,489
+2008,Unknown,Pneumococcal,551
+2008,Unknown,Hepatitis A,204
+2008,Unknown,Meningococcal,33
+2008,0,Hepatitis B,288
+2008,0,Diphtheria,383
+2008,0,Tetanus,383
+2008,0,Pertussis,382
+2008,0,Polio,379
+2008,0,Human Papilloma Virus,0
+2008,0,Varicella,0
+2008,0,Measles,0
+2008,0,Mumps,0
+2008,0,Rubella,0
+2008,0,Influenza,44
+2008,0,Rotavirus,280
+2008,0,Hib,377
+2008,0,Pneumococcal,373
+2008,0,Hepatitis A,0
+2008,0,Meningococcal,0
+2008,1,Hepatitis B,98
+2008,1,Diphtheria,279
+2008,1,Tetanus,279
+2008,1,Pertussis,278
+2008,1,Polio,113
+2008,1,Human Papilloma Virus,0
+2008,1,Varicella,213
+2008,1,Measles,202
+2008,1,Mumps,202
+2008,1,Rubella,202
+2008,1,Influenza,155
+2008,1,Rotavirus,0
+2008,1,Hib,155
+2008,1,Pneumococcal,298
+2008,1,Hepatitis A,303
+2008,1,Meningococcal,0
+2008,2,Hepatitis B,91
+2008,2,Diphtheria,182
+2008,2,Tetanus,182
+2008,2,Pertussis,182
+2008,2,Polio,62
+2008,2,Human Papilloma Virus,0
+2008,2,Varicella,101
+2008,2,Measles,38
+2008,2,Mumps,38
+2008,2,Rubella,38
+2008,2,Influenza,229
+2008,2,Rotavirus,0
+2008,2,Hib,61
+2008,2,Pneumococcal,205
+2008,2,Hepatitis A,346
+2008,2,Meningococcal,
+2008,3,Hepatitis B,95
+2008,3,Diphtheria,135
+2008,3,Tetanus,135
+2008,3,Pertussis,134
+2008,3,Polio,80
+2008,3,Human Papilloma Virus,0
+2008,3,Varicella,123
+2008,3,Measles,61
+2008,3,Mumps,61
+2008,3,Rubella,61
+2008,3,Influenza,272
+2008,3,Rotavirus,0
+2008,3,Hib,72
+2008,3,Pneumococcal,184
+2008,3,Hepatitis A,326
+2008,3,Meningococcal,
+2008,4,Hepatitis B,171
+2008,4,Diphtheria,1046
+2008,4,Tetanus,1046
+2008,4,Pertussis,1045
+2008,4,Polio,921
+2008,4,Human Papilloma Virus,0
+2008,4,Varicella,956
+2008,4,Measles,1031
+2008,4,Mumps,1030
+2008,4,Rubella,1032
+2008,4,Influenza,422
+2008,4,Rotavirus,0
+2008,4,Hib,81
+2008,4,Pneumococcal,174
+2008,4,Hepatitis A,414
+2008,4,Meningococcal,16
+2008,5,Hepatitis B,125
+2008,5,Diphtheria,292
+2008,5,Tetanus,292
+2008,5,Pertussis,291
+2008,5,Polio,194
+2008,5,Human Papilloma Virus,0
+2008,5,Varicella,298
+2008,5,Measles,178
+2008,5,Mumps,178
+2008,5,Rubella,178
+2008,5,Influenza,318
+2008,5,Rotavirus,0
+2008,5,Hib,25
+2008,5,Pneumococcal,48
+2008,5,Hepatitis A,263
+2008,5,Meningococcal,18
+2008,6,Hepatitis B,82
+2008,6,Diphtheria,125
+2008,6,Tetanus,125
+2008,6,Pertussis,119
+2008,6,Polio,90
+2008,6,Human Papilloma Virus,0
+2008,6,Varicella,317
+2008,6,Measles,71
+2008,6,Mumps,71
+2008,6,Rubella,71
+2008,6,Influenza,388
+2008,6,Rotavirus,0
+2008,6,Hib,
+2008,6,Pneumococcal,
+2008,6,Hepatitis A,253
+2008,6,Meningococcal,19
+2008,7,Hepatitis B,87
+2008,7,Diphtheria,98
+2008,7,Tetanus,98
+2008,7,Pertussis,56
+2008,7,Polio,82
+2008,7,Human Papilloma Virus,0
+2008,7,Varicella,434
+2008,7,Measles,62
+2008,7,Mumps,62
+2008,7,Rubella,62
+2008,7,Influenza,383
+2008,7,Rotavirus,0
+2008,7,Hib,
+2008,7,Pneumococcal,
+2008,7,Hepatitis A,252
+2008,7,Meningococcal,25
+2008,8,Hepatitis B,103
+2008,8,Diphtheria,146
+2008,8,Tetanus,146
+2008,8,Pertussis,71
+2008,8,Polio,106
+2008,8,Human Papilloma Virus,0
+2008,8,Varicella,564
+2008,8,Measles,75
+2008,8,Mumps,75
+2008,8,Rubella,75
+2008,8,Influenza,434
+2008,8,Rotavirus,0
+2008,8,Hib,
+2008,8,Pneumococcal,
+2008,8,Hepatitis A,258
+2008,8,Meningococcal,35
+2008,9,Hepatitis B,139
+2008,9,Diphtheria,162
+2008,9,Tetanus,162
+2008,9,Pertussis,75
+2008,9,Polio,100
+2008,9,Human Papilloma Virus,263
+2008,9,Varicella,694
+2008,9,Measles,55
+2008,9,Mumps,55
+2008,9,Rubella,55
+2008,9,Influenza,434
+2008,9,Rotavirus,0
+2008,9,Hib,
+2008,9,Pneumococcal,
+2008,9,Hepatitis A,233
+2008,9,Meningococcal,45
+2008,10,Hepatitis B,207
+2008,10,Diphtheria,287
+2008,10,Tetanus,287
+2008,10,Pertussis,193
+2008,10,Polio,97
+2008,10,Human Papilloma Virus,402
+2008,10,Varicella,645
+2008,10,Measles,70
+2008,10,Mumps,70
+2008,10,Rubella,70
+2008,10,Influenza,373
+2008,10,Rotavirus,0
+2008,10,Hib,
+2008,10,Pneumococcal,
+2008,10,Hepatitis A,231
+2008,10,Meningococcal,85
+2008,11,Hepatitis B,242
+2008,11,Diphtheria,1523
+2008,11,Tetanus,1523
+2008,11,Pertussis,1372
+2008,11,Polio,135
+2008,11,Human Papilloma Virus,1119
+2008,11,Varicella,746
+2008,11,Measles,109
+2008,11,Mumps,106
+2008,11,Rubella,106
+2008,11,Influenza,521
+2008,11,Rotavirus,0
+2008,11,Hib,
+2008,11,Pneumococcal,15
+2008,11,Hepatitis A,263
+2008,11,Meningococcal,1621
+2008,12,Hepatitis B,230
+2008,12,Diphtheria,927
+2008,12,Tetanus,927
+2008,12,Pertussis,823
+2008,12,Polio,139
+2008,12,Human Papilloma Virus,1058
+2008,12,Varicella,637
+2008,12,Measles,139
+2008,12,Mumps,139
+2008,12,Rubella,139
+2008,12,Influenza,400
+2008,12,Rotavirus,0
+2008,12,Hib,
+2008,12,Pneumococcal,
+2008,12,Hepatitis A,259
+2008,12,Meningococcal,923
+2008,13,Hepatitis B,200
+2008,13,Diphtheria,662
+2008,13,Tetanus,662
+2008,13,Pertussis,594
+2008,13,Polio,120
+2008,13,Human Papilloma Virus,866
+2008,13,Varicella,555
+2008,13,Measles,109
+2008,13,Mumps,109
+2008,13,Rubella,109
+2008,13,Influenza,347
+2008,13,Rotavirus,0
+2008,13,Hib,
+2008,13,Pneumococcal,11
+2008,13,Hepatitis A,260
+2008,13,Meningococcal,708
+2008,14,Hepatitis B,185
+2008,14,Diphtheria,671
+2008,14,Tetanus,671
+2008,14,Pertussis,584
+2008,14,Polio,121
+2008,14,Human Papilloma Virus,970
+2008,14,Varicella,544
+2008,14,Measles,102
+2008,14,Mumps,102
+2008,14,Rubella,102
+2008,14,Influenza,365
+2008,14,Rotavirus,0
+2008,14,Hib,
+2008,14,Pneumococcal,
+2008,14,Hepatitis A,312
+2008,14,Meningococcal,798
+2008,15,Hepatitis B,167
+2008,15,Diphtheria,571
+2008,15,Tetanus,571
+2008,15,Pertussis,504
+2008,15,Polio,134
+2008,15,Human Papilloma Virus,856
+2008,15,Varicella,453
+2008,15,Measles,101
+2008,15,Mumps,101
+2008,15,Rubella,101
+2008,15,Influenza,354
+2008,15,Rotavirus,0
+2008,15,Hib,
+2008,15,Pneumococcal,
+2008,15,Hepatitis A,285
+2008,15,Meningococcal,694
+2008,16,Hepatitis B,173
+2008,16,Diphtheria,481
+2008,16,Tetanus,481
+2008,16,Pertussis,409
+2008,16,Polio,120
+2008,16,Human Papilloma Virus,862
+2008,16,Varicella,401
+2008,16,Measles,89
+2008,16,Mumps,89
+2008,16,Rubella,89
+2008,16,Influenza,311
+2008,16,Rotavirus,0
+2008,16,Hib,
+2008,16,Pneumococcal,17
+2008,16,Hepatitis A,245
+2008,16,Meningococcal,604
+2008,17,Hepatitis B,147
+2008,17,Diphtheria,400
+2008,17,Tetanus,400
+2008,17,Pertussis,343
+2008,17,Polio,116
+2008,17,Human Papilloma Virus,654
+2008,17,Varicella,303
+2008,17,Measles,79
+2008,17,Mumps,79
+2008,17,Rubella,80
+2008,17,Influenza,286
+2008,17,Rotavirus,0
+2008,17,Hib,
+2008,17,Pneumococcal,
+2008,17,Hepatitis A,220
+2008,17,Meningococcal,517
+2008,18,Hepatitis B,84
+2008,18,Diphtheria,185
+2008,18,Tetanus,185
+2008,18,Pertussis,152
+2008,18,Polio,54
+2008,18,Human Papilloma Virus,314
+2008,18,Varicella,119
+2008,18,Measles,47
+2008,18,Mumps,47
+2008,18,Rubella,47
+2008,18,Influenza,103
+2008,18,Rotavirus,0
+2008,18,Hib,
+2008,18,Pneumococcal,
+2008,18,Hepatitis A,105
+2008,18,Meningococcal,214
+2008,19,Hepatitis B,0
+2008,19,Diphtheria,0
+2008,19,Tetanus,0
+2008,19,Pertussis,0
+2008,19,Polio,0
+2008,19,Human Papilloma Virus,0
+2008,19,Varicella,0
+2008,19,Measles,0
+2008,19,Mumps,0
+2008,19,Rubella,0
+2008,19,Influenza,0
+2008,19,Rotavirus,0
+2008,19,Hib,0
+2008,19,Pneumococcal,0
+2008,19,Hepatitis A,0
+2008,19,Meningococcal,0
+2008,20,Hepatitis B,0
+2008,20,Diphtheria,0
+2008,20,Tetanus,0
+2008,20,Pertussis,0
+2008,20,Polio,0
+2008,20,Human Papilloma Virus,0
+2008,20,Varicella,0
+2008,20,Measles,0
+2008,20,Mumps,0
+2008,20,Rubella,0
+2008,20,Influenza,0
+2008,20,Rotavirus,0
+2008,20,Hib,0
+2008,20,Pneumococcal,0
+2008,20,Hepatitis A,0
+2008,20,Meningococcal,0
+2008,Unknown,Hepatitis B,0
+2008,Unknown,Diphtheria,0
+2008,Unknown,Tetanus,0
+2008,Unknown,Pertussis,0
+2008,Unknown,Polio,0
+2008,Unknown,Human Papilloma Virus,0
+2008,Unknown,Varicella,0
+2008,Unknown,Measles,0
+2008,Unknown,Mumps,0
+2008,Unknown,Rubella,0
+2008,Unknown,Influenza,0
+2008,Unknown,Rotavirus,0
+2008,Unknown,Hib,0
+2008,Unknown,Pneumococcal,0
+2008,Unknown,Hepatitis A,0
+2008,Unknown,Meningococcal,0
+2009,0,Hepatitis B,377007
+2009,0,Diphtheria,462201
+2009,0,Tetanus,462201
+2009,0,Pertussis,461725
+2009,0,Polio,454110
+2009,0,Human Papilloma Virus,0
+2009,0,Varicella,0
+2009,0,Measles,0
+2009,0,Mumps,0
+2009,0,Rubella,0
+2009,0,Influenza,90289
+2009,0,Rotavirus,378452
+2009,0,Hib,453992
+2009,0,Pneumococcal,451702
+2009,0,Hepatitis A,0
+2009,0,Meningococcal,0
+2009,1,Hepatitis B,65006
+2009,1,Diphtheria,192309
+2009,1,Tetanus,192309
+2009,1,Pertussis,191863
+2009,1,Polio,100429
+2009,1,Human Papilloma Virus,0
+2009,1,Varicella,150471
+2009,1,Measles,152450
+2009,1,Mumps,152359
+2009,1,Rubella,152636
+2009,1,Influenza,192610
+2009,1,Rotavirus,0
+2009,1,Hib,187171
+2009,1,Pneumococcal,192791
+2009,1,Hepatitis A,184476
+2009,1,Meningococcal,0
+2009,2,Hepatitis B,8279
+2009,2,Diphtheria,35979
+2009,2,Tetanus,35979
+2009,2,Pertussis,35809
+2009,2,Polio,14487
+2009,2,Human Papilloma Virus,0
+2009,2,Varicella,11263
+2009,2,Measles,9970
+2009,2,Mumps,9944
+2009,2,Rubella,10016
+2009,2,Influenza,118773
+2009,2,Rotavirus,0
+2009,2,Hib,55766
+2009,2,Pneumococcal,26549
+2009,2,Hepatitis A,89752
+2009,2,Meningococcal,904
+2009,3,Hepatitis B,4448
+2009,3,Diphtheria,12452
+2009,3,Tetanus,12452
+2009,3,Pertussis,12371
+2009,3,Polio,7101
+2009,3,Human Papilloma Virus,0
+2009,3,Varicella,7889
+2009,3,Measles,6305
+2009,3,Mumps,6292
+2009,3,Rubella,6328
+2009,3,Influenza,86955
+2009,3,Rotavirus,0
+2009,3,Hib,18302
+2009,3,Pneumococcal,12279
+2009,3,Hepatitis A,25723
+2009,3,Meningococcal,543
+2009,4,Hepatitis B,4831
+2009,4,Diphtheria,114498
+2009,4,Tetanus,114498
+2009,4,Pertussis,114361
+2009,4,Polio,110668
+2009,4,Human Papilloma Virus,0
+2009,4,Varicella,101728
+2009,4,Measles,110255
+2009,4,Mumps,110129
+2009,4,Rubella,110185
+2009,4,Influenza,78787
+2009,4,Rotavirus,0
+2009,4,Hib,8644
+2009,4,Pneumococcal,9624
+2009,4,Hepatitis A,16783
+2009,4,Meningococcal,656
+2009,5,Hepatitis B,3180
+2009,5,Diphtheria,23151
+2009,5,Tetanus,23151
+2009,5,Pertussis,23074
+2009,5,Polio,20166
+2009,5,Human Papilloma Virus,0
+2009,5,Varicella,21372
+2009,5,Measles,20018
+2009,5,Mumps,19990
+2009,5,Rubella,20002
+2009,5,Influenza,61220
+2009,5,Rotavirus,0
+2009,5,Hib,1705
+2009,5,Pneumococcal,1451
+2009,5,Hepatitis A,11540
+2009,5,Meningococcal,449
+2009,6,Hepatitis B,1719
+2009,6,Diphtheria,4580
+2009,6,Tetanus,4580
+2009,6,Pertussis,4504
+2009,6,Polio,3322
+2009,6,Human Papilloma Virus,0
+2009,6,Varicella,6575
+2009,6,Measles,3092
+2009,6,Mumps,3074
+2009,6,Rubella,3078
+2009,6,Influenza,53811
+2009,6,Rotavirus,0
+2009,6,Hib,427
+2009,6,Pneumococcal,390
+2009,6,Hepatitis A,6150
+2009,6,Meningococcal,353
+2009,7,Hepatitis B,1600
+2009,7,Diphtheria,2615
+2009,7,Tetanus,2615
+2009,7,Pertussis,1719
+2009,7,Polio,1809
+2009,7,Human Papilloma Virus,0
+2009,7,Varicella,6240
+2009,7,Measles,1653
+2009,7,Mumps,1651
+2009,7,Rubella,1653
+2009,7,Influenza,44130
+2009,7,Rotavirus,0
+2009,7,Hib,301
+2009,7,Pneumococcal,286
+2009,7,Hepatitis A,4335
+2009,7,Meningococcal,310
+2009,8,Hepatitis B,1590
+2009,8,Diphtheria,2164
+2009,8,Tetanus,2164
+2009,8,Pertussis,1206
+2009,8,Polio,1439
+2009,8,Human Papilloma Virus,0
+2009,8,Varicella,9505
+2009,8,Measles,1294
+2009,8,Mumps,1288
+2009,8,Rubella,1290
+2009,8,Influenza,39478
+2009,8,Rotavirus,0
+2009,8,Hib,195
+2009,8,Pneumococcal,146
+2009,8,Hepatitis A,4091
+2009,8,Meningococcal,335
+2009,9,Hepatitis B,1874
+2009,9,Diphtheria,2605
+2009,9,Tetanus,2605
+2009,9,Pertussis,1434
+2009,9,Polio,1377
+2009,9,Human Papilloma Virus,4435
+2009,9,Varicella,11155
+2009,9,Measles,1286
+2009,9,Mumps,1280
+2009,9,Rubella,1283
+2009,9,Influenza,35159
+2009,9,Rotavirus,0
+2009,9,Hib,216
+2009,9,Pneumococcal,196
+2009,9,Hepatitis A,4371
+2009,9,Meningococcal,477
+2009,10,Hepatitis B,2510
+2009,10,Diphtheria,5938
+2009,10,Tetanus,5938
+2009,10,Pertussis,4873
+2009,10,Polio,1441
+2009,10,Human Papilloma Virus,6300
+2009,10,Varicella,10841
+2009,10,Measles,1228
+2009,10,Mumps,1226
+2009,10,Rubella,1226
+2009,10,Influenza,27406
+2009,10,Rotavirus,0
+2009,10,Hib,213
+2009,10,Pneumococcal,193
+2009,10,Hepatitis A,4831
+2009,10,Meningococcal,1775
+2009,11,Hepatitis B,3264
+2009,11,Diphtheria,36712
+2009,11,Tetanus,36712
+2009,11,Pertussis,33829
+2009,11,Polio,1693
+2009,11,Human Papilloma Virus,23720
+2009,11,Varicella,13642
+2009,11,Measles,1522
+2009,11,Mumps,1517
+2009,11,Rubella,1525
+2009,11,Influenza,28295
+2009,11,Rotavirus,0
+2009,11,Hib,214
+2009,11,Pneumococcal,311
+2009,11,Hepatitis A,5913
+2009,11,Meningococcal,36483
+2009,12,Hepatitis B,3329
+2009,12,Diphtheria,21447
+2009,12,Tetanus,21447
+2009,12,Pertussis,19042
+2009,12,Polio,1570
+2009,12,Human Papilloma Virus,20831
+2009,12,Varicella,11398
+2009,12,Measles,1544
+2009,12,Mumps,1537
+2009,12,Rubella,1545
+2009,12,Influenza,25605
+2009,12,Rotavirus,0
+2009,12,Hib,200
+2009,12,Pneumococcal,208
+2009,12,Hepatitis A,6319
+2009,12,Meningococcal,20804
+2009,13,Hepatitis B,3269
+2009,13,Diphtheria,14353
+2009,13,Tetanus,14353
+2009,13,Pertussis,12165
+2009,13,Polio,1578
+2009,13,Human Papilloma Virus,16815
+2009,13,Varicella,9826
+2009,13,Measles,1721
+2009,13,Mumps,1713
+2009,13,Rubella,1718
+2009,13,Influenza,24203
+2009,13,Rotavirus,0
+2009,13,Hib,133
+2009,13,Pneumococcal,189
+2009,13,Hepatitis A,6732
+2009,13,Meningococcal,14770
+2009,14,Hepatitis B,3397
+2009,14,Diphtheria,13380
+2009,14,Tetanus,13380
+2009,14,Pertussis,11087
+2009,14,Polio,1733
+2009,14,Human Papilloma Virus,16178
+2009,14,Varicella,9956
+2009,14,Measles,1808
+2009,14,Mumps,1795
+2009,14,Rubella,1804
+2009,14,Influenza,23213
+2009,14,Rotavirus,0
+2009,14,Hib,175
+2009,14,Pneumococcal,197
+2009,14,Hepatitis A,8130
+2009,14,Meningococcal,13946
+2009,15,Hepatitis B,3562
+2009,15,Diphtheria,11877
+2009,15,Tetanus,11877
+2009,15,Pertussis,9644
+2009,15,Polio,1750
+2009,15,Human Papilloma Virus,15574
+2009,15,Varicella,8534
+2009,15,Measles,1941
+2009,15,Mumps,1932
+2009,15,Rubella,1935
+2009,15,Influenza,21674
+2009,15,Rotavirus,0
+2009,15,Hib,160
+2009,15,Pneumococcal,176
+2009,15,Hepatitis A,8227
+2009,15,Meningococcal,12235
+2009,16,Hepatitis B,3453
+2009,16,Diphtheria,10930
+2009,16,Tetanus,10930
+2009,16,Pertussis,8884
+2009,16,Polio,1895
+2009,16,Human Papilloma Virus,14401
+2009,16,Varicella,7222
+2009,16,Measles,1914
+2009,16,Mumps,1909
+2009,16,Rubella,1912
+2009,16,Influenza,19640
+2009,16,Rotavirus,0
+2009,16,Hib,155
+2009,16,Pneumococcal,166
+2009,16,Hepatitis A,7778
+2009,16,Meningococcal,10851
+2009,17,Hepatitis B,3243
+2009,17,Diphtheria,9415
+2009,17,Tetanus,9415
+2009,17,Pertussis,7980
+2009,17,Polio,2137
+2009,17,Human Papilloma Virus,12550
+2009,17,Varicella,5828
+2009,17,Measles,2081
+2009,17,Mumps,2076
+2009,17,Rubella,2077
+2009,17,Influenza,16475
+2009,17,Rotavirus,0
+2009,17,Hib,144
+2009,17,Pneumococcal,140
+2009,17,Hepatitis A,6496
+2009,17,Meningococcal,9309
+2009,18,Hepatitis B,3145
+2009,18,Diphtheria,5467
+2009,18,Tetanus,5467
+2009,18,Pertussis,4695
+2009,18,Polio,2154
+2009,18,Human Papilloma Virus,6644
+2009,18,Varicella,3139
+2009,18,Measles,2232
+2009,18,Mumps,2230
+2009,18,Rubella,2232
+2009,18,Influenza,7728
+2009,18,Rotavirus,0
+2009,18,Hib,77
+2009,18,Pneumococcal,92
+2009,18,Hepatitis A,3562
+2009,18,Meningococcal,4867
+2009,19,Hepatitis B,205
+2009,19,Diphtheria,660
+2009,19,Tetanus,660
+2009,19,Pertussis,600
+2009,19,Polio,98
+2009,19,Human Papilloma Virus,1174
+2009,19,Varicella,280
+2009,19,Measles,75
+2009,19,Mumps,72
+2009,19,Rubella,72
+2009,19,Influenza,1982
+2009,19,Rotavirus,0
+2009,19,Hib,52
+2009,19,Pneumococcal,68
+2009,19,Hepatitis A,310
+2009,19,Meningococcal,548
+2009,20,Hepatitis B,972
+2009,20,Diphtheria,1800
+2009,20,Tetanus,1800
+2009,20,Pertussis,1737
+2009,20,Polio,1126
+2009,20,Human Papilloma Virus,833
+2009,20,Varicella,732
+2009,20,Measles,543
+2009,20,Mumps,541
+2009,20,Rubella,547
+2009,20,Influenza,2438
+2009,20,Rotavirus,0
+2009,20,Hib,1108
+2009,20,Pneumococcal,1008
+2009,20,Hepatitis A,699
+2009,20,Meningococcal,415
+2009,Unknown,Hepatitis B,243
+2009,Unknown,Diphtheria,388
+2009,Unknown,Tetanus,388
+2009,Unknown,Pertussis,385
+2009,Unknown,Polio,339
+2009,Unknown,Human Papilloma Virus,28
+2009,Unknown,Varicella,100
+2009,Unknown,Measles,60
+2009,Unknown,Mumps,59
+2009,Unknown,Rubella,61
+2009,Unknown,Influenza,210
+2009,Unknown,Rotavirus,0
+2009,Unknown,Hib,334
+2009,Unknown,Pneumococcal,319
+2009,Unknown,Hepatitis A,102
+2009,Unknown,Meningococcal,20
+2009,0,Hepatitis B,127548
+2009,0,Diphtheria,148943
+2009,0,Tetanus,148943
+2009,0,Pertussis,148826
+2009,0,Polio,147169
+2009,0,Human Papilloma Virus,0
+2009,0,Varicella,0
+2009,0,Measles,0
+2009,0,Mumps,0
+2009,0,Rubella,0
+2009,0,Influenza,16552
+2009,0,Rotavirus,127076
+2009,0,Hib,145829
+2009,0,Pneumococcal,144453
+2009,0,Hepatitis A,0
+2009,0,Meningococcal,0
+2009,1,Hepatitis B,11612
+2009,1,Diphtheria,32223
+2009,1,Tetanus,32223
+2009,1,Pertussis,32159
+2009,1,Polio,18082
+2009,1,Human Papilloma Virus,0
+2009,1,Varicella,24631
+2009,1,Measles,24804
+2009,1,Mumps,24792
+2009,1,Rubella,24809
+2009,1,Influenza,32340
+2009,1,Rotavirus,0
+2009,1,Hib,31688
+2009,1,Pneumococcal,32272
+2009,1,Hepatitis A,28771
+2009,1,Meningococcal,0
+2009,2,Hepatitis B,1499
+2009,2,Diphtheria,6207
+2009,2,Tetanus,6207
+2009,2,Pertussis,6184
+2009,2,Polio,2711
+2009,2,Human Papilloma Virus,0
+2009,2,Varicella,2102
+2009,2,Measles,1835
+2009,2,Mumps,1834
+2009,2,Rubella,1843
+2009,2,Influenza,19614
+2009,2,Rotavirus,0
+2009,2,Hib,8909
+2009,2,Pneumococcal,4247
+2009,2,Hepatitis A,14961
+2009,2,Meningococcal,258
+2009,3,Hepatitis B,861
+2009,3,Diphtheria,2057
+2009,3,Tetanus,2057
+2009,3,Pertussis,2044
+2009,3,Polio,1204
+2009,3,Human Papilloma Virus,0
+2009,3,Varicella,1513
+2009,3,Measles,1116
+2009,3,Mumps,1116
+2009,3,Rubella,1119
+2009,3,Influenza,14289
+2009,3,Rotavirus,0
+2009,3,Hib,2961
+2009,3,Pneumococcal,1945
+2009,3,Hepatitis A,4542
+2009,3,Meningococcal,108
+2009,4,Hepatitis B,795
+2009,4,Diphtheria,16801
+2009,4,Tetanus,16801
+2009,4,Pertussis,16788
+2009,4,Polio,16385
+2009,4,Human Papilloma Virus,0
+2009,4,Varicella,14777
+2009,4,Measles,15907
+2009,4,Mumps,15891
+2009,4,Rubella,15896
+2009,4,Influenza,12596
+2009,4,Rotavirus,0
+2009,4,Hib,1200
+2009,4,Pneumococcal,1345
+2009,4,Hepatitis A,2672
+2009,4,Meningococcal,118
+2009,5,Hepatitis B,474
+2009,5,Diphtheria,4026
+2009,5,Tetanus,4026
+2009,5,Pertussis,4019
+2009,5,Polio,3597
+2009,5,Human Papilloma Virus,0
+2009,5,Varicella,3636
+2009,5,Measles,3511
+2009,5,Mumps,3509
+2009,5,Rubella,3512
+2009,5,Influenza,9198
+2009,5,Rotavirus,0
+2009,5,Hib,218
+2009,5,Pneumococcal,164
+2009,5,Hepatitis A,1764
+2009,5,Meningococcal,93
+2009,6,Hepatitis B,247
+2009,6,Diphtheria,706
+2009,6,Tetanus,706
+2009,6,Pertussis,697
+2009,6,Polio,562
+2009,6,Human Papilloma Virus,0
+2009,6,Varicella,961
+2009,6,Measles,471
+2009,6,Mumps,468
+2009,6,Rubella,469
+2009,6,Influenza,8005
+2009,6,Rotavirus,0
+2009,6,Hib,44
+2009,6,Pneumococcal,48
+2009,6,Hepatitis A,873
+2009,6,Meningococcal,72
+2009,7,Hepatitis B,187
+2009,7,Diphtheria,346
+2009,7,Tetanus,346
+2009,7,Pertussis,252
+2009,7,Polio,292
+2009,7,Human Papilloma Virus,0
+2009,7,Varicella,862
+2009,7,Measles,247
+2009,7,Mumps,246
+2009,7,Rubella,246
+2009,7,Influenza,6508
+2009,7,Rotavirus,0
+2009,7,Hib,23
+2009,7,Pneumococcal,18
+2009,7,Hepatitis A,597
+2009,7,Meningococcal,49
+2009,8,Hepatitis B,148
+2009,8,Diphtheria,283
+2009,8,Tetanus,283
+2009,8,Pertussis,178
+2009,8,Polio,205
+2009,8,Human Papilloma Virus,0
+2009,8,Varicella,1391
+2009,8,Measles,164
+2009,8,Mumps,164
+2009,8,Rubella,164
+2009,8,Influenza,5955
+2009,8,Rotavirus,0
+2009,8,Hib,
+2009,8,Pneumococcal,16
+2009,8,Hepatitis A,538
+2009,8,Meningococcal,68
+2009,9,Hepatitis B,141
+2009,9,Diphtheria,295
+2009,9,Tetanus,295
+2009,9,Pertussis,174
+2009,9,Polio,176
+2009,9,Human Papilloma Virus,576
+2009,9,Varicella,1471
+2009,9,Measles,143
+2009,9,Mumps,143
+2009,9,Rubella,143
+2009,9,Influenza,5195
+2009,9,Rotavirus,0
+2009,9,Hib,18
+2009,9,Pneumococcal,14
+2009,9,Hepatitis A,494
+2009,9,Meningococcal,86
+2009,10,Hepatitis B,151
+2009,10,Diphtheria,736
+2009,10,Tetanus,736
+2009,10,Pertussis,616
+2009,10,Polio,155
+2009,10,Human Papilloma Virus,710
+2009,10,Varicella,1424
+2009,10,Measles,157
+2009,10,Mumps,156
+2009,10,Rubella,156
+2009,10,Influenza,4036
+2009,10,Rotavirus,0
+2009,10,Hib,
+2009,10,Pneumococcal,15
+2009,10,Hepatitis A,486
+2009,10,Meningococcal,238
+2009,11,Hepatitis B,181
+2009,11,Diphtheria,4495
+2009,11,Tetanus,4495
+2009,11,Pertussis,4306
+2009,11,Polio,176
+2009,11,Human Papilloma Virus,2698
+2009,11,Varicella,1823
+2009,11,Measles,181
+2009,11,Mumps,181
+2009,11,Rubella,183
+2009,11,Influenza,4112
+2009,11,Rotavirus,0
+2009,11,Hib,12
+2009,11,Pneumococcal,37
+2009,11,Hepatitis A,618
+2009,11,Meningococcal,4547
+2009,12,Hepatitis B,178
+2009,12,Diphtheria,2695
+2009,12,Tetanus,2695
+2009,12,Pertussis,2545
+2009,12,Polio,163
+2009,12,Human Papilloma Virus,2483
+2009,12,Varicella,1529
+2009,12,Measles,184
+2009,12,Mumps,183
+2009,12,Rubella,184
+2009,12,Influenza,3631
+2009,12,Rotavirus,0
+2009,12,Hib,20
+2009,12,Pneumococcal,31
+2009,12,Hepatitis A,686
+2009,12,Meningococcal,2746
+2009,13,Hepatitis B,198
+2009,13,Diphtheria,1762
+2009,13,Tetanus,1762
+2009,13,Pertussis,1617
+2009,13,Polio,157
+2009,13,Human Papilloma Virus,2049
+2009,13,Varicella,1285
+2009,13,Measles,177
+2009,13,Mumps,177
+2009,13,Rubella,177
+2009,13,Influenza,3582
+2009,13,Rotavirus,0
+2009,13,Hib,11
+2009,13,Pneumococcal,21
+2009,13,Hepatitis A,772
+2009,13,Meningococcal,1839
+2009,14,Hepatitis B,253
+2009,14,Diphtheria,1558
+2009,14,Tetanus,1558
+2009,14,Pertussis,1434
+2009,14,Polio,188
+2009,14,Human Papilloma Virus,1946
+2009,14,Varicella,1219
+2009,14,Measles,167
+2009,14,Mumps,164
+2009,14,Rubella,164
+2009,14,Influenza,3325
+2009,14,Rotavirus,0
+2009,14,Hib,18
+2009,14,Pneumococcal,25
+2009,14,Hepatitis A,966
+2009,14,Meningococcal,1716
+2009,15,Hepatitis B,232
+2009,15,Diphtheria,1359
+2009,15,Tetanus,1359
+2009,15,Pertussis,1226
+2009,15,Polio,201
+2009,15,Human Papilloma Virus,1922
+2009,15,Varicella,1088
+2009,15,Measles,200
+2009,15,Mumps,199
+2009,15,Rubella,200
+2009,15,Influenza,3092
+2009,15,Rotavirus,0
+2009,15,Hib,14
+2009,15,Pneumococcal,21
+2009,15,Hepatitis A,960
+2009,15,Meningococcal,1420
+2009,16,Hepatitis B,217
+2009,16,Diphtheria,1222
+2009,16,Tetanus,1222
+2009,16,Pertussis,1113
+2009,16,Polio,190
+2009,16,Human Papilloma Virus,1757
+2009,16,Varicella,878
+2009,16,Measles,166
+2009,16,Mumps,166
+2009,16,Rubella,166
+2009,16,Influenza,2877
+2009,16,Rotavirus,0
+2009,16,Hib,13
+2009,16,Pneumococcal,25
+2009,16,Hepatitis A,866
+2009,16,Meningococcal,1284
+2009,17,Hepatitis B,236
+2009,17,Diphtheria,1089
+2009,17,Tetanus,1089
+2009,17,Pertussis,995
+2009,17,Polio,177
+2009,17,Human Papilloma Virus,1609
+2009,17,Varicella,755
+2009,17,Measles,156
+2009,17,Mumps,156
+2009,17,Rubella,156
+2009,17,Influenza,2602
+2009,17,Rotavirus,0
+2009,17,Hib,
+2009,17,Pneumococcal,28
+2009,17,Hepatitis A,776
+2009,17,Meningococcal,1102
+2009,18,Hepatitis B,106
+2009,18,Diphtheria,423
+2009,18,Tetanus,423
+2009,18,Pertussis,376
+2009,18,Polio,52
+2009,18,Human Papilloma Virus,692
+2009,18,Varicella,240
+2009,18,Measles,58
+2009,18,Mumps,58
+2009,18,Rubella,58
+2009,18,Influenza,1119
+2009,18,Rotavirus,0
+2009,18,Hib,
+2009,18,Pneumococcal,15
+2009,18,Hepatitis A,230
+2009,18,Meningococcal,453
+2009,19,Hepatitis B,35
+2009,19,Diphtheria,132
+2009,19,Tetanus,132
+2009,19,Pertussis,117
+2009,19,Polio,
+2009,19,Human Papilloma Virus,228
+2009,19,Varicella,60
+2009,19,Measles,22
+2009,19,Mumps,22
+2009,19,Rubella,22
+2009,19,Influenza,439
+2009,19,Rotavirus,0
+2009,19,Hib,
+2009,19,Pneumococcal,
+2009,19,Hepatitis A,63
+2009,19,Meningococcal,106
+2009,20,Hepatitis B,25
+2009,20,Diphtheria,62
+2009,20,Tetanus,62
+2009,20,Pertussis,54
+2009,20,Polio,
+2009,20,Human Papilloma Virus,110
+2009,20,Varicella,30
+2009,20,Measles,13
+2009,20,Mumps,12
+2009,20,Rubella,12
+2009,20,Influenza,256
+2009,20,Rotavirus,0
+2009,20,Hib,
+2009,20,Pneumococcal,
+2009,20,Hepatitis A,29
+2009,20,Meningococcal,50
+2009,Unknown,Hepatitis B,0
+2009,Unknown,Diphtheria,0
+2009,Unknown,Tetanus,0
+2009,Unknown,Pertussis,0
+2009,Unknown,Polio,0
+2009,Unknown,Human Papilloma Virus,0
+2009,Unknown,Varicella,0
+2009,Unknown,Measles,0
+2009,Unknown,Mumps,0
+2009,Unknown,Rubella,0
+2009,Unknown,Influenza,0
+2009,Unknown,Rotavirus,0
+2009,Unknown,Hib,0
+2009,Unknown,Pneumococcal,0
+2009,Unknown,Hepatitis A,0
+2009,Unknown,Meningococcal,0
+2009,0,Hepatitis B,51494
+2009,0,Diphtheria,52521
+2009,0,Tetanus,52521
+2009,0,Pertussis,52480
+2009,0,Polio,51934
+2009,0,Human Papilloma Virus,0
+2009,0,Varicella,0
+2009,0,Measles,0
+2009,0,Mumps,0
+2009,0,Rubella,0
+2009,0,Influenza,4503
+2009,0,Rotavirus,44323
+2009,0,Hib,51620
+2009,0,Pneumococcal,50600
+2009,0,Hepatitis A,0
+2009,0,Meningococcal,0
+2009,1,Hepatitis B,3867
+2009,1,Diphtheria,13184
+2009,1,Tetanus,13184
+2009,1,Pertussis,13168
+2009,1,Polio,6477
+2009,1,Human Papilloma Virus,0
+2009,1,Varicella,10072
+2009,1,Measles,10368
+2009,1,Mumps,10366
+2009,1,Rubella,10378
+2009,1,Influenza,9737
+2009,1,Rotavirus,0
+2009,1,Hib,12376
+2009,1,Pneumococcal,12160
+2009,1,Hepatitis A,12608
+2009,1,Meningococcal,0
+2009,2,Hepatitis B,848
+2009,2,Diphtheria,3211
+2009,2,Tetanus,3211
+2009,2,Pertussis,3200
+2009,2,Polio,1319
+2009,2,Human Papilloma Virus,0
+2009,2,Varicella,1320
+2009,2,Measles,1099
+2009,2,Mumps,1099
+2009,2,Rubella,1102
+2009,2,Influenza,5519
+2009,2,Rotavirus,0
+2009,2,Hib,3966
+2009,2,Pneumococcal,2293
+2009,2,Hepatitis A,6611
+2009,2,Meningococcal,174
+2009,3,Hepatitis B,583
+2009,3,Diphtheria,1551
+2009,3,Tetanus,1551
+2009,3,Pertussis,1545
+2009,3,Polio,766
+2009,3,Human Papilloma Virus,0
+2009,3,Varicella,1032
+2009,3,Measles,749
+2009,3,Mumps,749
+2009,3,Rubella,749
+2009,3,Influenza,3984
+2009,3,Rotavirus,0
+2009,3,Hib,1705
+2009,3,Pneumococcal,1309
+2009,3,Hepatitis A,2864
+2009,3,Meningococcal,111
+2009,4,Hepatitis B,748
+2009,4,Diphtheria,10705
+2009,4,Tetanus,10705
+2009,4,Pertussis,10694
+2009,4,Polio,10369
+2009,4,Human Papilloma Virus,0
+2009,4,Varicella,9380
+2009,4,Measles,10637
+2009,4,Mumps,10633
+2009,4,Rubella,10636
+2009,4,Influenza,3944
+2009,4,Rotavirus,0
+2009,4,Hib,1170
+2009,4,Pneumococcal,1181
+2009,4,Hepatitis A,2641
+2009,4,Meningococcal,133
+2009,5,Hepatitis B,669
+2009,5,Diphtheria,3463
+2009,5,Tetanus,3463
+2009,5,Pertussis,3453
+2009,5,Polio,3110
+2009,5,Human Papilloma Virus,0
+2009,5,Varicella,3374
+2009,5,Measles,3320
+2009,5,Mumps,3320
+2009,5,Rubella,3321
+2009,5,Influenza,3184
+2009,5,Rotavirus,0
+2009,5,Hib,222
+2009,5,Pneumococcal,188
+2009,5,Hepatitis A,2332
+2009,5,Meningococcal,128
+2009,6,Hepatitis B,500
+2009,6,Diphtheria,1049
+2009,6,Tetanus,1049
+2009,6,Pertussis,1024
+2009,6,Polio,804
+2009,6,Human Papilloma Virus,0
+2009,6,Varicella,1548
+2009,6,Measles,833
+2009,6,Mumps,833
+2009,6,Rubella,833
+2009,6,Influenza,3284
+2009,6,Rotavirus,0
+2009,6,Hib,56
+2009,6,Pneumococcal,61
+2009,6,Hepatitis A,1459
+2009,6,Meningococcal,112
+2009,7,Hepatitis B,572
+2009,7,Diphtheria,754
+2009,7,Tetanus,754
+2009,7,Pertussis,372
+2009,7,Polio,536
+2009,7,Human Papilloma Virus,0
+2009,7,Varicella,1328
+2009,7,Measles,562
+2009,7,Mumps,562
+2009,7,Rubella,562
+2009,7,Influenza,2659
+2009,7,Rotavirus,0
+2009,7,Hib,43
+2009,7,Pneumococcal,30
+2009,7,Hepatitis A,1191
+2009,7,Meningococcal,82
+2009,8,Hepatitis B,706
+2009,8,Diphtheria,645
+2009,8,Tetanus,645
+2009,8,Pertussis,264
+2009,8,Polio,431
+2009,8,Human Papilloma Virus,0
+2009,8,Varicella,1796
+2009,8,Measles,469
+2009,8,Mumps,469
+2009,8,Rubella,470
+2009,8,Influenza,2509
+2009,8,Rotavirus,0
+2009,8,Hib,30
+2009,8,Pneumococcal,22
+2009,8,Hepatitis A,1257
+2009,8,Meningococcal,86
+2009,9,Hepatitis B,961
+2009,9,Diphtheria,712
+2009,9,Tetanus,712
+2009,9,Pertussis,269
+2009,9,Polio,430
+2009,9,Human Papilloma Virus,839
+2009,9,Varicella,2053
+2009,9,Measles,449
+2009,9,Mumps,447
+2009,9,Rubella,447
+2009,9,Influenza,2479
+2009,9,Rotavirus,0
+2009,9,Hib,24
+2009,9,Pneumococcal,22
+2009,9,Hepatitis A,1550
+2009,9,Meningococcal,124
+2009,10,Hepatitis B,1461
+2009,10,Diphtheria,1109
+2009,10,Tetanus,1109
+2009,10,Pertussis,775
+2009,10,Polio,489
+2009,10,Human Papilloma Virus,1179
+2009,10,Varicella,1926
+2009,10,Measles,442
+2009,10,Mumps,442
+2009,10,Rubella,442
+2009,10,Influenza,2222
+2009,10,Rotavirus,0
+2009,10,Hib,18
+2009,10,Pneumococcal,17
+2009,10,Hepatitis A,1943
+2009,10,Meningococcal,351
+2009,11,Hepatitis B,1840
+2009,11,Diphtheria,5602
+2009,11,Tetanus,5602
+2009,11,Pertussis,4150
+2009,11,Polio,491
+2009,11,Human Papilloma Virus,3746
+2009,11,Varicella,2292
+2009,11,Measles,495
+2009,11,Mumps,495
+2009,11,Rubella,495
+2009,11,Influenza,2204
+2009,11,Rotavirus,0
+2009,11,Hib,22
+2009,11,Pneumococcal,33
+2009,11,Hepatitis A,2191
+2009,11,Meningococcal,4565
+2009,12,Hepatitis B,1928
+2009,12,Diphtheria,4457
+2009,12,Tetanus,4457
+2009,12,Pertussis,2985
+2009,12,Polio,476
+2009,12,Human Papilloma Virus,3465
+2009,12,Varicella,2021
+2009,12,Measles,518
+2009,12,Mumps,518
+2009,12,Rubella,518
+2009,12,Influenza,2079
+2009,12,Rotavirus,0
+2009,12,Hib,28
+2009,12,Pneumococcal,34
+2009,12,Hepatitis A,2333
+2009,12,Meningococcal,3431
+2009,13,Hepatitis B,1930
+2009,13,Diphtheria,3862
+2009,13,Tetanus,3862
+2009,13,Pertussis,2389
+2009,13,Polio,638
+2009,13,Human Papilloma Virus,3164
+2009,13,Varicella,2029
+2009,13,Measles,758
+2009,13,Mumps,758
+2009,13,Rubella,758
+2009,13,Influenza,2284
+2009,13,Rotavirus,0
+2009,13,Hib,22
+2009,13,Pneumococcal,33
+2009,13,Hepatitis A,2427
+2009,13,Meningococcal,3647
+2009,14,Hepatitis B,2022
+2009,14,Diphtheria,4011
+2009,14,Tetanus,4011
+2009,14,Pertussis,2472
+2009,14,Polio,656
+2009,14,Human Papilloma Virus,3266
+2009,14,Varicella,2382
+2009,14,Measles,861
+2009,14,Mumps,860
+2009,14,Rubella,861
+2009,14,Influenza,2604
+2009,14,Rotavirus,0
+2009,14,Hib,27
+2009,14,Pneumococcal,23
+2009,14,Hepatitis A,2783
+2009,14,Meningococcal,3921
+2009,15,Hepatitis B,2190
+2009,15,Diphtheria,3914
+2009,15,Tetanus,3914
+2009,15,Pertussis,2327
+2009,15,Polio,773
+2009,15,Human Papilloma Virus,3238
+2009,15,Varicella,2224
+2009,15,Measles,993
+2009,15,Mumps,993
+2009,15,Rubella,993
+2009,15,Influenza,2600
+2009,15,Rotavirus,0
+2009,15,Hib,27
+2009,15,Pneumococcal,23
+2009,15,Hepatitis A,2945
+2009,15,Meningococcal,3714
+2009,16,Hepatitis B,2096
+2009,16,Diphtheria,3620
+2009,16,Tetanus,3620
+2009,16,Pertussis,2175
+2009,16,Polio,872
+2009,16,Human Papilloma Virus,3014
+2009,16,Varicella,1996
+2009,16,Measles,1027
+2009,16,Mumps,1027
+2009,16,Rubella,1028
+2009,16,Influenza,2577
+2009,16,Rotavirus,0
+2009,16,Hib,35
+2009,16,Pneumococcal,30
+2009,16,Hepatitis A,2874
+2009,16,Meningococcal,3422
+2009,17,Hepatitis B,1996
+2009,17,Diphtheria,3292
+2009,17,Tetanus,3292
+2009,17,Pertussis,2313
+2009,17,Polio,1247
+2009,17,Human Papilloma Virus,2937
+2009,17,Varicella,1829
+2009,17,Measles,1311
+2009,17,Mumps,1311
+2009,17,Rubella,1311
+2009,17,Influenza,2376
+2009,17,Rotavirus,0
+2009,17,Hib,28
+2009,17,Pneumococcal,28
+2009,17,Hepatitis A,2509
+2009,17,Meningococcal,3058
+2009,18,Hepatitis B,2421
+2009,18,Diphtheria,2907
+2009,18,Tetanus,2907
+2009,18,Pertussis,2385
+2009,18,Polio,1831
+2009,18,Human Papilloma Virus,2096
+2009,18,Varicella,1729
+2009,18,Measles,1917
+2009,18,Mumps,1916
+2009,18,Rubella,1916
+2009,18,Influenza,1633
+2009,18,Rotavirus,0
+2009,18,Hib,23
+2009,18,Pneumococcal,29
+2009,18,Hepatitis A,2181
+2009,18,Meningococcal,2375
+2009,19,Hepatitis B,0
+2009,19,Diphtheria,0
+2009,19,Tetanus,0
+2009,19,Pertussis,0
+2009,19,Polio,0
+2009,19,Human Papilloma Virus,0
+2009,19,Varicella,0
+2009,19,Measles,0
+2009,19,Mumps,0
+2009,19,Rubella,0
+2009,19,Influenza,0
+2009,19,Rotavirus,0
+2009,19,Hib,0
+2009,19,Pneumococcal,0
+2009,19,Hepatitis A,0
+2009,19,Meningococcal,0
+2009,20,Hepatitis B,0
+2009,20,Diphtheria,0
+2009,20,Tetanus,0
+2009,20,Pertussis,0
+2009,20,Polio,0
+2009,20,Human Papilloma Virus,0
+2009,20,Varicella,0
+2009,20,Measles,0
+2009,20,Mumps,0
+2009,20,Rubella,0
+2009,20,Influenza,0
+2009,20,Rotavirus,0
+2009,20,Hib,0
+2009,20,Pneumococcal,0
+2009,20,Hepatitis A,0
+2009,20,Meningococcal,0
+2009,Unknown,Hepatitis B,0
+2009,Unknown,Diphtheria,0
+2009,Unknown,Tetanus,0
+2009,Unknown,Pertussis,0
+2009,Unknown,Polio,0
+2009,Unknown,Human Papilloma Virus,0
+2009,Unknown,Varicella,0
+2009,Unknown,Measles,0
+2009,Unknown,Mumps,0
+2009,Unknown,Rubella,0
+2009,Unknown,Influenza,0
+2009,Unknown,Rotavirus,0
+2009,Unknown,Hib,0
+2009,Unknown,Pneumococcal,0
+2009,Unknown,Hepatitis A,0
+2009,Unknown,Meningococcal,0
+2009,0,Hepatitis B,197729
+2009,0,Diphtheria,260430
+2009,0,Tetanus,260430
+2009,0,Pertussis,260112
+2009,0,Polio,254697
+2009,0,Human Papilloma Virus,0
+2009,0,Varicella,0
+2009,0,Measles,0
+2009,0,Mumps,0
+2009,0,Rubella,0
+2009,0,Influenza,69148
+2009,0,Rotavirus,206835
+2009,0,Hib,256237
+2009,0,Pneumococcal,256353
+2009,0,Hepatitis A,0
+2009,0,Meningococcal,0
+2009,1,Hepatitis B,49452
+2009,1,Diphtheria,146644
+2009,1,Tetanus,146644
+2009,1,Pertussis,146278
+2009,1,Polio,75748
+2009,1,Human Papilloma Virus,0
+2009,1,Varicella,115539
+2009,1,Measles,117057
+2009,1,Mumps,116980
+2009,1,Rubella,117228
+2009,1,Influenza,150330
+2009,1,Rotavirus,0
+2009,1,Hib,142866
+2009,1,Pneumococcal,148085
+2009,1,Hepatitis A,142790
+2009,1,Meningococcal,0
+2009,2,Hepatitis B,5863
+2009,2,Diphtheria,26422
+2009,2,Tetanus,26422
+2009,2,Pertussis,26288
+2009,2,Polio,10383
+2009,2,Human Papilloma Virus,0
+2009,2,Varicella,7771
+2009,2,Measles,6992
+2009,2,Mumps,6967
+2009,2,Rubella,7027
+2009,2,Influenza,93403
+2009,2,Rotavirus,0
+2009,2,Hib,42719
+2009,2,Pneumococcal,19854
+2009,2,Hepatitis A,67944
+2009,2,Meningococcal,466
+2009,3,Hepatitis B,2949
+2009,3,Diphtheria,8750
+2009,3,Tetanus,8750
+2009,3,Pertussis,8689
+2009,3,Polio,5079
+2009,3,Human Papilloma Virus,0
+2009,3,Varicella,5268
+2009,3,Measles,4405
+2009,3,Mumps,4392
+2009,3,Rubella,4424
+2009,3,Influenza,68307
+2009,3,Rotavirus,0
+2009,3,Hib,13496
+2009,3,Pneumococcal,8885
+2009,3,Hepatitis A,18126
+2009,3,Meningococcal,321
+2009,4,Hepatitis B,3214
+2009,4,Diphtheria,86196
+2009,4,Tetanus,86196
+2009,4,Pertussis,86084
+2009,4,Polio,83205
+2009,4,Human Papilloma Virus,0
+2009,4,Varicella,76862
+2009,4,Measles,82950
+2009,4,Mumps,82844
+2009,4,Rubella,82892
+2009,4,Influenza,61652
+2009,4,Rotavirus,0
+2009,4,Hib,6106
+2009,4,Pneumococcal,6935
+2009,4,Hepatitis A,11263
+2009,4,Meningococcal,402
+2009,5,Hepatitis B,1961
+2009,5,Diphtheria,15453
+2009,5,Tetanus,15453
+2009,5,Pertussis,15393
+2009,5,Polio,13314
+2009,5,Human Papilloma Virus,0
+2009,5,Varicella,14183
+2009,5,Measles,13057
+2009,5,Mumps,13031
+2009,5,Rubella,13039
+2009,5,Influenza,48283
+2009,5,Rotavirus,0
+2009,5,Hib,1235
+2009,5,Pneumococcal,1066
+2009,5,Hepatitis A,7289
+2009,5,Meningococcal,218
+2009,6,Hepatitis B,919
+2009,6,Diphtheria,2718
+2009,6,Tetanus,2718
+2009,6,Pertussis,2677
+2009,6,Polio,1889
+2009,6,Human Papilloma Virus,0
+2009,6,Varicella,3939
+2009,6,Measles,1735
+2009,6,Mumps,1720
+2009,6,Rubella,1723
+2009,6,Influenza,41781
+2009,6,Rotavirus,0
+2009,6,Hib,323
+2009,6,Pneumococcal,275
+2009,6,Hepatitis A,3676
+2009,6,Meningococcal,165
+2009,7,Hepatitis B,772
+2009,7,Diphtheria,1415
+2009,7,Tetanus,1415
+2009,7,Pertussis,1027
+2009,7,Polio,927
+2009,7,Human Papilloma Virus,0
+2009,7,Varicella,3874
+2009,7,Measles,802
+2009,7,Mumps,801
+2009,7,Rubella,803
+2009,7,Influenza,34179
+2009,7,Rotavirus,0
+2009,7,Hib,228
+2009,7,Pneumococcal,229
+2009,7,Hepatitis A,2398
+2009,7,Meningococcal,169
+2009,8,Hepatitis B,680
+2009,8,Diphtheria,1132
+2009,8,Tetanus,1132
+2009,8,Pertussis,716
+2009,8,Polio,736
+2009,8,Human Papilloma Virus,0
+2009,8,Varicella,6064
+2009,8,Measles,620
+2009,8,Mumps,614
+2009,8,Rubella,615
+2009,8,Influenza,30163
+2009,8,Rotavirus,0
+2009,8,Hib,151
+2009,8,Pneumococcal,105
+2009,8,Hepatitis A,2144
+2009,8,Meningococcal,169
+2009,9,Hepatitis B,676
+2009,9,Diphtheria,1463
+2009,9,Tetanus,1463
+2009,9,Pertussis,925
+2009,9,Polio,695
+2009,9,Human Papilloma Virus,2806
+2009,9,Varicella,7244
+2009,9,Measles,648
+2009,9,Mumps,644
+2009,9,Rubella,647
+2009,9,Influenza,26489
+2009,9,Rotavirus,0
+2009,9,Hib,168
+2009,9,Pneumococcal,150
+2009,9,Hepatitis A,2134
+2009,9,Meningococcal,245
+2009,10,Hepatitis B,775
+2009,10,Diphtheria,3808
+2009,10,Tetanus,3808
+2009,10,Pertussis,3265
+2009,10,Polio,706
+2009,10,Human Papilloma Virus,4080
+2009,10,Varicella,7032
+2009,10,Measles,569
+2009,10,Mumps,568
+2009,10,Rubella,568
+2009,10,Influenza,20215
+2009,10,Rotavirus,0
+2009,10,Hib,179
+2009,10,Pneumococcal,150
+2009,10,Hepatitis A,2210
+2009,10,Meningococcal,1109
+2009,11,Hepatitis B,1070
+2009,11,Diphtheria,25085
+2009,11,Tetanus,25085
+2009,11,Pertussis,23927
+2009,11,Polio,918
+2009,11,Human Papilloma Virus,16053
+2009,11,Varicella,8920
+2009,11,Measles,780
+2009,11,Mumps,775
+2009,11,Rubella,781
+2009,11,Influenza,20858
+2009,11,Rotavirus,0
+2009,11,Hib,164
+2009,11,Pneumococcal,227
+2009,11,Hepatitis A,2899
+2009,11,Meningococcal,25698
+2009,12,Hepatitis B,1061
+2009,12,Diphtheria,13440
+2009,12,Tetanus,13440
+2009,12,Pertussis,12724
+2009,12,Polio,821
+2009,12,Human Papilloma Virus,13901
+2009,12,Varicella,7344
+2009,12,Measles,759
+2009,12,Mumps,753
+2009,12,Rubella,759
+2009,12,Influenza,19017
+2009,12,Rotavirus,0
+2009,12,Hib,140
+2009,12,Pneumococcal,136
+2009,12,Hepatitis A,3086
+2009,12,Meningococcal,13740
+2009,13,Hepatitis B,973
+2009,13,Diphtheria,8098
+2009,13,Tetanus,8098
+2009,13,Pertussis,7588
+2009,13,Polio,685
+2009,13,Human Papilloma Virus,10794
+2009,13,Varicella,6079
+2009,13,Measles,693
+2009,13,Mumps,686
+2009,13,Rubella,691
+2009,13,Influenza,17523
+2009,13,Rotavirus,0
+2009,13,Hib,96
+2009,13,Pneumococcal,132
+2009,13,Hepatitis A,3354
+2009,13,Meningococcal,8638
+2009,14,Hepatitis B,986
+2009,14,Diphtheria,7238
+2009,14,Tetanus,7238
+2009,14,Pertussis,6665
+2009,14,Polio,794
+2009,14,Human Papilloma Virus,10150
+2009,14,Varicella,5913
+2009,14,Measles,701
+2009,14,Mumps,692
+2009,14,Rubella,699
+2009,14,Influenza,16459
+2009,14,Rotavirus,0
+2009,14,Hib,120
+2009,14,Pneumococcal,139
+2009,14,Hepatitis A,4175
+2009,14,Meningococcal,7692
+2009,15,Hepatitis B,1012
+2009,15,Diphtheria,6095
+2009,15,Tetanus,6095
+2009,15,Pertussis,5637
+2009,15,Polio,682
+2009,15,Human Papilloma Virus,9647
+2009,15,Varicella,4851
+2009,15,Measles,672
+2009,15,Mumps,664
+2009,15,Rubella,666
+2009,15,Influenza,15193
+2009,15,Rotavirus,0
+2009,15,Hib,110
+2009,15,Pneumococcal,124
+2009,15,Hepatitis A,4095
+2009,15,Meningococcal,6563
+2009,16,Hepatitis B,1005
+2009,16,Diphtheria,5664
+2009,16,Tetanus,5664
+2009,16,Pertussis,5216
+2009,16,Polio,729
+2009,16,Human Papilloma Virus,8935
+2009,16,Varicella,4046
+2009,16,Measles,656
+2009,16,Mumps,651
+2009,16,Rubella,653
+2009,16,Influenza,13484
+2009,16,Rotavirus,0
+2009,16,Hib,99
+2009,16,Pneumococcal,104
+2009,16,Hepatitis A,3809
+2009,16,Meningococcal,5681
+2009,17,Hepatitis B,895
+2009,17,Diphtheria,4661
+2009,17,Tetanus,4661
+2009,17,Pertussis,4336
+2009,17,Polio,642
+2009,17,Human Papilloma Virus,7445
+2009,17,Varicella,3001
+2009,17,Measles,549
+2009,17,Mumps,544
+2009,17,Rubella,545
+2009,17,Influenza,10950
+2009,17,Rotavirus,0
+2009,17,Hib,101
+2009,17,Pneumococcal,81
+2009,17,Hepatitis A,3009
+2009,17,Meningococcal,4724
+2009,18,Hepatitis B,538
+2009,18,Diphtheria,1925
+2009,18,Tetanus,1925
+2009,18,Pertussis,1759
+2009,18,Polio,222
+2009,18,Human Papilloma Virus,3529
+2009,18,Varicella,1069
+2009,18,Measles,219
+2009,18,Mumps,219
+2009,18,Rubella,221
+2009,18,Influenza,4715
+2009,18,Rotavirus,0
+2009,18,Hib,47
+2009,18,Pneumococcal,45
+2009,18,Hepatitis A,1059
+2009,18,Meningococcal,1845
+2009,19,Hepatitis B,170
+2009,19,Diphtheria,528
+2009,19,Tetanus,528
+2009,19,Pertussis,483
+2009,19,Polio,72
+2009,19,Human Papilloma Virus,946
+2009,19,Varicella,220
+2009,19,Measles,53
+2009,19,Mumps,50
+2009,19,Rubella,50
+2009,19,Influenza,1543
+2009,19,Rotavirus,0
+2009,19,Hib,51
+2009,19,Pneumococcal,54
+2009,19,Hepatitis A,247
+2009,19,Meningococcal,442
+2009,20,Hepatitis B,947
+2009,20,Diphtheria,1738
+2009,20,Tetanus,1738
+2009,20,Pertussis,1683
+2009,20,Polio,1120
+2009,20,Human Papilloma Virus,723
+2009,20,Varicella,702
+2009,20,Measles,530
+2009,20,Mumps,529
+2009,20,Rubella,535
+2009,20,Influenza,2182
+2009,20,Rotavirus,0
+2009,20,Hib,1106
+2009,20,Pneumococcal,1007
+2009,20,Hepatitis A,670
+2009,20,Meningococcal,365
+2009,Unknown,Hepatitis B,243
+2009,Unknown,Diphtheria,388
+2009,Unknown,Tetanus,388
+2009,Unknown,Pertussis,385
+2009,Unknown,Polio,339
+2009,Unknown,Human Papilloma Virus,28
+2009,Unknown,Varicella,100
+2009,Unknown,Measles,60
+2009,Unknown,Mumps,59
+2009,Unknown,Rubella,61
+2009,Unknown,Influenza,210
+2009,Unknown,Rotavirus,0
+2009,Unknown,Hib,334
+2009,Unknown,Pneumococcal,319
+2009,Unknown,Hepatitis A,102
+2009,Unknown,Meningococcal,20
+2009,0,Hepatitis B,236
+2009,0,Diphtheria,307
+2009,0,Tetanus,307
+2009,0,Pertussis,307
+2009,0,Polio,310
+2009,0,Human Papilloma Virus,0
+2009,0,Varicella,0
+2009,0,Measles,0
+2009,0,Mumps,0
+2009,0,Rubella,0
+2009,0,Influenza,86
+2009,0,Rotavirus,218
+2009,0,Hib,306
+2009,0,Pneumococcal,296
+2009,0,Hepatitis A,0
+2009,0,Meningococcal,0
+2009,1,Hepatitis B,75
+2009,1,Diphtheria,258
+2009,1,Tetanus,258
+2009,1,Pertussis,258
+2009,1,Polio,122
+2009,1,Human Papilloma Virus,0
+2009,1,Varicella,229
+2009,1,Measles,221
+2009,1,Mumps,221
+2009,1,Rubella,221
+2009,1,Influenza,203
+2009,1,Rotavirus,0
+2009,1,Hib,241
+2009,1,Pneumococcal,274
+2009,1,Hepatitis A,307
+2009,1,Meningococcal,0
+2009,2,Hepatitis B,69
+2009,2,Diphtheria,139
+2009,2,Tetanus,139
+2009,2,Pertussis,137
+2009,2,Polio,74
+2009,2,Human Papilloma Virus,0
+2009,2,Varicella,70
+2009,2,Measles,44
+2009,2,Mumps,44
+2009,2,Rubella,44
+2009,2,Influenza,237
+2009,2,Rotavirus,0
+2009,2,Hib,172
+2009,2,Pneumococcal,155
+2009,2,Hepatitis A,236
+2009,2,Meningococcal,
+2009,3,Hepatitis B,55
+2009,3,Diphtheria,94
+2009,3,Tetanus,94
+2009,3,Pertussis,93
+2009,3,Polio,52
+2009,3,Human Papilloma Virus,0
+2009,3,Varicella,76
+2009,3,Measles,35
+2009,3,Mumps,35
+2009,3,Rubella,36
+2009,3,Influenza,375
+2009,3,Rotavirus,0
+2009,3,Hib,140
+2009,3,Pneumococcal,140
+2009,3,Hepatitis A,191
+2009,3,Meningococcal,
+2009,4,Hepatitis B,74
+2009,4,Diphtheria,796
+2009,4,Tetanus,796
+2009,4,Pertussis,795
+2009,4,Polio,709
+2009,4,Human Papilloma Virus,0
+2009,4,Varicella,709
+2009,4,Measles,761
+2009,4,Mumps,761
+2009,4,Rubella,761
+2009,4,Influenza,595
+2009,4,Rotavirus,0
+2009,4,Hib,168
+2009,4,Pneumococcal,163
+2009,4,Hepatitis A,207
+2009,4,Meningococcal,
+2009,5,Hepatitis B,76
+2009,5,Diphtheria,209
+2009,5,Tetanus,209
+2009,5,Pertussis,209
+2009,5,Polio,145
+2009,5,Human Papilloma Virus,0
+2009,5,Varicella,179
+2009,5,Measles,130
+2009,5,Mumps,130
+2009,5,Rubella,130
+2009,5,Influenza,555
+2009,5,Rotavirus,0
+2009,5,Hib,30
+2009,5,Pneumococcal,33
+2009,5,Hepatitis A,155
+2009,5,Meningococcal,
+2009,6,Hepatitis B,53
+2009,6,Diphtheria,107
+2009,6,Tetanus,107
+2009,6,Pertussis,106
+2009,6,Polio,67
+2009,6,Human Papilloma Virus,0
+2009,6,Varicella,127
+2009,6,Measles,53
+2009,6,Mumps,53
+2009,6,Rubella,53
+2009,6,Influenza,741
+2009,6,Rotavirus,0
+2009,6,Hib,
+2009,6,Pneumococcal,
+2009,6,Hepatitis A,142
+2009,6,Meningococcal,
+2009,7,Hepatitis B,69
+2009,7,Diphtheria,100
+2009,7,Tetanus,100
+2009,7,Pertussis,68
+2009,7,Polio,54
+2009,7,Human Papilloma Virus,0
+2009,7,Varicella,176
+2009,7,Measles,42
+2009,7,Mumps,42
+2009,7,Rubella,42
+2009,7,Influenza,784
+2009,7,Rotavirus,0
+2009,7,Hib,
+2009,7,Pneumococcal,
+2009,7,Hepatitis A,149
+2009,7,Meningococcal,
+2009,8,Hepatitis B,56
+2009,8,Diphtheria,104
+2009,8,Tetanus,104
+2009,8,Pertussis,48
+2009,8,Polio,67
+2009,8,Human Papilloma Virus,0
+2009,8,Varicella,254
+2009,8,Measles,41
+2009,8,Mumps,41
+2009,8,Rubella,41
+2009,8,Influenza,851
+2009,8,Rotavirus,0
+2009,8,Hib,
+2009,8,Pneumococcal,
+2009,8,Hepatitis A,152
+2009,8,Meningococcal,12
+2009,9,Hepatitis B,96
+2009,9,Diphtheria,135
+2009,9,Tetanus,135
+2009,9,Pertussis,66
+2009,9,Polio,76
+2009,9,Human Papilloma Virus,214
+2009,9,Varicella,387
+2009,9,Measles,46
+2009,9,Mumps,46
+2009,9,Rubella,46
+2009,9,Influenza,996
+2009,9,Rotavirus,0
+2009,9,Hib,
+2009,9,Pneumococcal,
+2009,9,Hepatitis A,193
+2009,9,Meningococcal,22
+2009,10,Hepatitis B,123
+2009,10,Diphtheria,285
+2009,10,Tetanus,285
+2009,10,Pertussis,217
+2009,10,Polio,91
+2009,10,Human Papilloma Virus,331
+2009,10,Varicella,459
+2009,10,Measles,60
+2009,10,Mumps,60
+2009,10,Rubella,60
+2009,10,Influenza,933
+2009,10,Rotavirus,0
+2009,10,Hib,
+2009,10,Pneumococcal,11
+2009,10,Hepatitis A,192
+2009,10,Meningococcal,77
+2009,11,Hepatitis B,173
+2009,11,Diphtheria,1530
+2009,11,Tetanus,1530
+2009,11,Pertussis,1446
+2009,11,Polio,108
+2009,11,Human Papilloma Virus,1223
+2009,11,Varicella,607
+2009,11,Measles,66
+2009,11,Mumps,66
+2009,11,Rubella,66
+2009,11,Influenza,1121
+2009,11,Rotavirus,0
+2009,11,Hib,16
+2009,11,Pneumococcal,14
+2009,11,Hepatitis A,205
+2009,11,Meningococcal,1673
+2009,12,Hepatitis B,162
+2009,12,Diphtheria,855
+2009,12,Tetanus,855
+2009,12,Pertussis,788
+2009,12,Polio,110
+2009,12,Human Papilloma Virus,982
+2009,12,Varicella,504
+2009,12,Measles,83
+2009,12,Mumps,83
+2009,12,Rubella,84
+2009,12,Influenza,878
+2009,12,Rotavirus,0
+2009,12,Hib,12
+2009,12,Pneumococcal,
+2009,12,Hepatitis A,214
+2009,12,Meningococcal,887
+2009,13,Hepatitis B,168
+2009,13,Diphtheria,631
+2009,13,Tetanus,631
+2009,13,Pertussis,571
+2009,13,Polio,98
+2009,13,Human Papilloma Virus,808
+2009,13,Varicella,433
+2009,13,Measles,93
+2009,13,Mumps,92
+2009,13,Rubella,92
+2009,13,Influenza,814
+2009,13,Rotavirus,0
+2009,13,Hib,
+2009,13,Pneumococcal,
+2009,13,Hepatitis A,179
+2009,13,Meningococcal,646
+2009,14,Hepatitis B,136
+2009,14,Diphtheria,573
+2009,14,Tetanus,573
+2009,14,Pertussis,516
+2009,14,Polio,95
+2009,14,Human Papilloma Virus,816
+2009,14,Varicella,442
+2009,14,Measles,79
+2009,14,Mumps,79
+2009,14,Rubella,80
+2009,14,Influenza,825
+2009,14,Rotavirus,0
+2009,14,Hib,
+2009,14,Pneumococcal,
+2009,14,Hepatitis A,206
+2009,14,Meningococcal,617
+2009,15,Hepatitis B,128
+2009,15,Diphtheria,509
+2009,15,Tetanus,509
+2009,15,Pertussis,454
+2009,15,Polio,94
+2009,15,Human Papilloma Virus,767
+2009,15,Varicella,371
+2009,15,Measles,76
+2009,15,Mumps,76
+2009,15,Rubella,76
+2009,15,Influenza,789
+2009,15,Rotavirus,0
+2009,15,Hib,
+2009,15,Pneumococcal,
+2009,15,Hepatitis A,227
+2009,15,Meningococcal,538
+2009,16,Hepatitis B,135
+2009,16,Diphtheria,424
+2009,16,Tetanus,424
+2009,16,Pertussis,380
+2009,16,Polio,104
+2009,16,Human Papilloma Virus,695
+2009,16,Varicella,302
+2009,16,Measles,65
+2009,16,Mumps,65
+2009,16,Rubella,65
+2009,16,Influenza,702
+2009,16,Rotavirus,0
+2009,16,Hib,
+2009,16,Pneumococcal,
+2009,16,Hepatitis A,229
+2009,16,Meningococcal,464
+2009,17,Hepatitis B,116
+2009,17,Diphtheria,373
+2009,17,Tetanus,373
+2009,17,Pertussis,336
+2009,17,Polio,71
+2009,17,Human Papilloma Virus,559
+2009,17,Varicella,243
+2009,17,Measles,65
+2009,17,Mumps,65
+2009,17,Rubella,65
+2009,17,Influenza,547
+2009,17,Rotavirus,0
+2009,17,Hib,
+2009,17,Pneumococcal,
+2009,17,Hepatitis A,202
+2009,17,Meningococcal,425
+2009,18,Hepatitis B,80
+2009,18,Diphtheria,212
+2009,18,Tetanus,212
+2009,18,Pertussis,175
+2009,18,Polio,49
+2009,18,Human Papilloma Virus,327
+2009,18,Varicella,101
+2009,18,Measles,38
+2009,18,Mumps,37
+2009,18,Rubella,37
+2009,18,Influenza,261
+2009,18,Rotavirus,0
+2009,18,Hib,
+2009,18,Pneumococcal,
+2009,18,Hepatitis A,92
+2009,18,Meningococcal,194
+2009,19,Hepatitis B,0
+2009,19,Diphtheria,0
+2009,19,Tetanus,0
+2009,19,Pertussis,0
+2009,19,Polio,0
+2009,19,Human Papilloma Virus,0
+2009,19,Varicella,0
+2009,19,Measles,0
+2009,19,Mumps,0
+2009,19,Rubella,0
+2009,19,Influenza,0
+2009,19,Rotavirus,0
+2009,19,Hib,0
+2009,19,Pneumococcal,0
+2009,19,Hepatitis A,0
+2009,19,Meningococcal,0
+2009,20,Hepatitis B,0
+2009,20,Diphtheria,0
+2009,20,Tetanus,0
+2009,20,Pertussis,0
+2009,20,Polio,0
+2009,20,Human Papilloma Virus,0
+2009,20,Varicella,0
+2009,20,Measles,0
+2009,20,Mumps,0
+2009,20,Rubella,0
+2009,20,Influenza,0
+2009,20,Rotavirus,0
+2009,20,Hib,0
+2009,20,Pneumococcal,0
+2009,20,Hepatitis A,0
+2009,20,Meningococcal,0
+2009,Unknown,Hepatitis B,0
+2009,Unknown,Diphtheria,0
+2009,Unknown,Tetanus,0
+2009,Unknown,Pertussis,0
+2009,Unknown,Polio,0
+2009,Unknown,Human Papilloma Virus,0
+2009,Unknown,Varicella,0
+2009,Unknown,Measles,0
+2009,Unknown,Mumps,0
+2009,Unknown,Rubella,0
+2009,Unknown,Influenza,0
+2009,Unknown,Rotavirus,0
+2009,Unknown,Hib,0
+2009,Unknown,Pneumococcal,0
+2009,Unknown,Hepatitis A,0
+2009,Unknown,Meningococcal,0
+2010,0,Hepatitis B,345978
+2010,0,Diphtheria,430975
+2010,0,Tetanus,430975
+2010,0,Pertussis,430498
+2010,0,Polio,423685
+2010,0,Human Papilloma Virus,0
+2010,0,Varicella,0
+2010,0,Measles,0
+2010,0,Mumps,0
+2010,0,Rubella,0
+2010,0,Influenza,63004
+2010,0,Rotavirus,364478
+2010,0,Hib,427637
+2010,0,Pneumococcal,419893
+2010,0,Hepatitis A,0
+2010,0,Meningococcal,0
+2010,1,Hepatitis B,59976
+2010,1,Diphtheria,181972
+2010,1,Tetanus,181972
+2010,1,Pertussis,181549
+2010,1,Polio,93785
+2010,1,Human Papilloma Virus,0
+2010,1,Varicella,140348
+2010,1,Measles,142487
+2010,1,Mumps,142443
+2010,1,Rubella,142624
+2010,1,Influenza,127381
+2010,1,Rotavirus,0
+2010,1,Hib,181892
+2010,1,Pneumococcal,193002
+2010,1,Hepatitis A,173204
+2010,1,Meningococcal,0
+2010,2,Hepatitis B,7089
+2010,2,Diphtheria,34020
+2010,2,Tetanus,34020
+2010,2,Pertussis,33850
+2010,2,Polio,12065
+2010,2,Human Papilloma Virus,0
+2010,2,Varicella,10737
+2010,2,Measles,9918
+2010,2,Mumps,9902
+2010,2,Rubella,9940
+2010,2,Influenza,71540
+2010,2,Rotavirus,0
+2010,2,Hib,34939
+2010,2,Pneumococcal,58099
+2010,2,Hepatitis A,84988
+2010,2,Meningococcal,705
+2010,3,Hepatitis B,4294
+2010,3,Diphtheria,11669
+2010,3,Tetanus,11669
+2010,3,Pertussis,11570
+2010,3,Polio,6527
+2010,3,Human Papilloma Virus,0
+2010,3,Varicella,6974
+2010,3,Measles,5882
+2010,3,Mumps,5873
+2010,3,Rubella,5897
+2010,3,Influenza,56134
+2010,3,Rotavirus,0
+2010,3,Hib,25010
+2010,3,Pneumococcal,49203
+2010,3,Hepatitis A,22812
+2010,3,Meningococcal,376
+2010,4,Hepatitis B,4589
+2010,4,Diphtheria,120227
+2010,4,Tetanus,120227
+2010,4,Pertussis,120049
+2010,4,Polio,116953
+2010,4,Human Papilloma Virus,0
+2010,4,Varicella,108608
+2010,4,Measles,115345
+2010,4,Mumps,115232
+2010,4,Rubella,115282
+2010,4,Influenza,53215
+2010,4,Rotavirus,0
+2010,4,Hib,15513
+2010,4,Pneumococcal,45990
+2010,4,Hepatitis A,13981
+2010,4,Meningococcal,449
+2010,5,Hepatitis B,3022
+2010,5,Diphtheria,22836
+2010,5,Tetanus,22836
+2010,5,Pertussis,22757
+2010,5,Polio,21374
+2010,5,Human Papilloma Virus,0
+2010,5,Varicella,21671
+2010,5,Measles,20737
+2010,5,Mumps,20699
+2010,5,Rubella,20721
+2010,5,Influenza,38648
+2010,5,Rotavirus,0
+2010,5,Hib,2086
+2010,5,Pneumococcal,6121
+2010,5,Hepatitis A,8821
+2010,5,Meningococcal,298
+2010,6,Hepatitis B,1690
+2010,6,Diphtheria,4327
+2010,6,Tetanus,4327
+2010,6,Pertussis,4281
+2010,6,Polio,3605
+2010,6,Human Papilloma Virus,0
+2010,6,Varicella,5585
+2010,6,Measles,2959
+2010,6,Mumps,2955
+2010,6,Rubella,2955
+2010,6,Influenza,35120
+2010,6,Rotavirus,0
+2010,6,Hib,459
+2010,6,Pneumococcal,810
+2010,6,Hepatitis A,5351
+2010,6,Meningococcal,194
+2010,7,Hepatitis B,1262
+2010,7,Diphtheria,3775
+2010,7,Tetanus,3775
+2010,7,Pertussis,3355
+2010,7,Polio,1740
+2010,7,Human Papilloma Virus,0
+2010,7,Varicella,3755
+2010,7,Measles,1522
+2010,7,Mumps,1521
+2010,7,Rubella,1521
+2010,7,Influenza,27961
+2010,7,Rotavirus,0
+2010,7,Hib,225
+2010,7,Pneumococcal,337
+2010,7,Hepatitis A,3869
+2010,7,Meningococcal,194
+2010,8,Hepatitis B,2727
+2010,8,Diphtheria,6260
+2010,8,Tetanus,6260
+2010,8,Pertussis,5799
+2010,8,Polio,3521
+2010,8,Human Papilloma Virus,0
+2010,8,Varicella,5918
+2010,8,Measles,2518
+2010,8,Mumps,2512
+2010,8,Rubella,2517
+2010,8,Influenza,26856
+2010,8,Rotavirus,0
+2010,8,Hib,2194
+2010,8,Pneumococcal,2504
+2010,8,Hepatitis A,4778
+2010,8,Meningococcal,631
+2010,9,Hepatitis B,1535
+2010,9,Diphtheria,5827
+2010,9,Tetanus,5827
+2010,9,Pertussis,5242
+2010,9,Polio,1302
+2010,9,Human Papilloma Virus,7111
+2010,9,Varicella,7382
+2010,9,Measles,1192
+2010,9,Mumps,1190
+2010,9,Rubella,1194
+2010,9,Influenza,22460
+2010,9,Rotavirus,0
+2010,9,Hib,213
+2010,9,Pneumococcal,327
+2010,9,Hepatitis A,3775
+2010,9,Meningococcal,503
+2010,10,Hepatitis B,1998
+2010,10,Diphtheria,19113
+2010,10,Tetanus,19113
+2010,10,Pertussis,18338
+2010,10,Polio,1654
+2010,10,Human Papilloma Virus,10742
+2010,10,Varicella,9038
+2010,10,Measles,1388
+2010,10,Mumps,1385
+2010,10,Rubella,1387
+2010,10,Influenza,20754
+2010,10,Rotavirus,0
+2010,10,Hib,322
+2010,10,Pneumococcal,455
+2010,10,Hepatitis A,4207
+2010,10,Meningococcal,2466
+2010,11,Hepatitis B,2472
+2010,11,Diphtheria,54872
+2010,11,Tetanus,54872
+2010,11,Pertussis,52837
+2010,11,Polio,1878
+2010,11,Human Papilloma Virus,43381
+2010,11,Varicella,14725
+2010,11,Measles,1749
+2010,11,Mumps,1747
+2010,11,Rubella,1755
+2010,11,Influenza,23767
+2010,11,Rotavirus,0
+2010,11,Hib,254
+2010,11,Pneumococcal,485
+2010,11,Hepatitis A,5647
+2010,11,Meningococcal,50549
+2010,12,Hepatitis B,3267
+2010,12,Diphtheria,37071
+2010,12,Tetanus,37071
+2010,12,Pertussis,35139
+2010,12,Polio,1954
+2010,12,Human Papilloma Virus,40495
+2010,12,Varicella,14372
+2010,12,Measles,1673
+2010,12,Mumps,1671
+2010,12,Rubella,1676
+2010,12,Influenza,21795
+2010,12,Rotavirus,0
+2010,12,Hib,212
+2010,12,Pneumococcal,322
+2010,12,Hepatitis A,6663
+2010,12,Meningococcal,32275
+2010,13,Hepatitis B,3109
+2010,13,Diphtheria,25943
+2010,13,Tetanus,25943
+2010,13,Pertussis,24271
+2010,13,Polio,1864
+2010,13,Human Papilloma Virus,33948
+2010,13,Varicella,12315
+2010,13,Measles,1688
+2010,13,Mumps,1686
+2010,13,Rubella,1688
+2010,13,Influenza,20216
+2010,13,Rotavirus,0
+2010,13,Hib,173
+2010,13,Pneumococcal,251
+2010,13,Hepatitis A,6851
+2010,13,Meningococcal,21323
+2010,14,Hepatitis B,3199
+2010,14,Diphtheria,23361
+2010,14,Tetanus,23361
+2010,14,Pertussis,21575
+2010,14,Polio,1891
+2010,14,Human Papilloma Virus,31450
+2010,14,Varicella,11882
+2010,14,Measles,1929
+2010,14,Mumps,1927
+2010,14,Rubella,1929
+2010,14,Influenza,19945
+2010,14,Rotavirus,0
+2010,14,Hib,189
+2010,14,Pneumococcal,235
+2010,14,Hepatitis A,7957
+2010,14,Meningococcal,17756
+2010,15,Hepatitis B,3235
+2010,15,Diphtheria,20170
+2010,15,Tetanus,20170
+2010,15,Pertussis,18394
+2010,15,Polio,1898
+2010,15,Human Papilloma Virus,28228
+2010,15,Varicella,10434
+2010,15,Measles,1828
+2010,15,Mumps,1824
+2010,15,Rubella,1829
+2010,15,Influenza,19382
+2010,15,Rotavirus,0
+2010,15,Hib,156
+2010,15,Pneumococcal,211
+2010,15,Hepatitis A,8434
+2010,15,Meningococcal,14938
+2010,16,Hepatitis B,3185
+2010,16,Diphtheria,20011
+2010,16,Tetanus,20011
+2010,16,Pertussis,18390
+2010,16,Polio,1981
+2010,16,Human Papilloma Virus,25704
+2010,16,Varicella,9225
+2010,16,Measles,1920
+2010,16,Mumps,1910
+2010,16,Rubella,1914
+2010,16,Influenza,18078
+2010,16,Rotavirus,0
+2010,16,Hib,118
+2010,16,Pneumococcal,185
+2010,16,Hepatitis A,8723
+2010,16,Meningococcal,15926
+2010,17,Hepatitis B,3020
+2010,17,Diphtheria,17222
+2010,17,Tetanus,17222
+2010,17,Pertussis,15891
+2010,17,Polio,1944
+2010,17,Human Papilloma Virus,21572
+2010,17,Varicella,7213
+2010,17,Measles,1868
+2010,17,Mumps,1864
+2010,17,Rubella,1866
+2010,17,Influenza,15082
+2010,17,Rotavirus,0
+2010,17,Hib,167
+2010,17,Pneumococcal,195
+2010,17,Hepatitis A,7492
+2010,17,Meningococcal,12869
+2010,18,Hepatitis B,2455
+2010,18,Diphtheria,7456
+2010,18,Tetanus,7456
+2010,18,Pertussis,6665
+2010,18,Polio,1516
+2010,18,Human Papilloma Virus,9568
+2010,18,Varicella,3049
+2010,18,Measles,1683
+2010,18,Mumps,1682
+2010,18,Rubella,1682
+2010,18,Influenza,6594
+2010,18,Rotavirus,0
+2010,18,Hib,38
+2010,18,Pneumococcal,100
+2010,18,Hepatitis A,3621
+2010,18,Meningococcal,5126
+2010,19,Hepatitis B,186
+2010,19,Diphtheria,1150
+2010,19,Tetanus,1150
+2010,19,Pertussis,1103
+2010,19,Polio,75
+2010,19,Human Papilloma Virus,1524
+2010,19,Varicella,325
+2010,19,Measles,66
+2010,19,Mumps,64
+2010,19,Rubella,64
+2010,19,Influenza,1671
+2010,19,Rotavirus,0
+2010,19,Hib,23
+2010,19,Pneumococcal,42
+2010,19,Hepatitis A,267
+2010,19,Meningococcal,641
+2010,20,Hepatitis B,925
+2010,20,Diphtheria,2262
+2010,20,Tetanus,2262
+2010,20,Pertussis,2228
+2010,20,Polio,1137
+2010,20,Human Papilloma Virus,1145
+2010,20,Varicella,816
+2010,20,Measles,600
+2010,20,Mumps,598
+2010,20,Rubella,600
+2010,20,Influenza,2306
+2010,20,Rotavirus,0
+2010,20,Hib,1064
+2010,20,Pneumococcal,1293
+2010,20,Hepatitis A,767
+2010,20,Meningococcal,557
+2010,Unknown,Hepatitis B,490
+2010,Unknown,Diphtheria,717
+2010,Unknown,Tetanus,717
+2010,Unknown,Pertussis,712
+2010,Unknown,Polio,643
+2010,Unknown,Human Papilloma Virus,49
+2010,Unknown,Varicella,73
+2010,Unknown,Measles,54
+2010,Unknown,Mumps,54
+2010,Unknown,Rubella,55
+2010,Unknown,Influenza,204
+2010,Unknown,Rotavirus,0
+2010,Unknown,Hib,646
+2010,Unknown,Pneumococcal,650
+2010,Unknown,Hepatitis A,76
+2010,Unknown,Meningococcal,30
+2010,0,Hepatitis B,109188
+2010,0,Diphtheria,129365
+2010,0,Tetanus,129365
+2010,0,Pertussis,129267
+2010,0,Polio,127478
+2010,0,Human Papilloma Virus,0
+2010,0,Varicella,0
+2010,0,Measles,0
+2010,0,Mumps,0
+2010,0,Rubella,0
+2010,0,Influenza,9531
+2010,0,Rotavirus,113717
+2010,0,Hib,127689
+2010,0,Pneumococcal,124444
+2010,0,Hepatitis A,0
+2010,0,Meningococcal,0
+2010,1,Hepatitis B,7960
+2010,1,Diphtheria,24053
+2010,1,Tetanus,24053
+2010,1,Pertussis,24007
+2010,1,Polio,12153
+2010,1,Human Papilloma Virus,0
+2010,1,Varicella,18439
+2010,1,Measles,18576
+2010,1,Mumps,18572
+2010,1,Rubella,18583
+2010,1,Influenza,16859
+2010,1,Rotavirus,0
+2010,1,Hib,24024
+2010,1,Pneumococcal,25343
+2010,1,Hepatitis A,22052
+2010,1,Meningococcal,0
+2010,2,Hepatitis B,1204
+2010,2,Diphtheria,4980
+2010,2,Tetanus,4980
+2010,2,Pertussis,4964
+2010,2,Polio,1931
+2010,2,Human Papilloma Virus,0
+2010,2,Varicella,1645
+2010,2,Measles,1554
+2010,2,Mumps,1552
+2010,2,Rubella,1553
+2010,2,Influenza,9684
+2010,2,Rotavirus,0
+2010,2,Hib,5045
+2010,2,Pneumococcal,7423
+2010,2,Hepatitis A,12242
+2010,2,Meningococcal,169
+2010,3,Hepatitis B,715
+2010,3,Diphtheria,1779
+2010,3,Tetanus,1779
+2010,3,Pertussis,1773
+2010,3,Polio,972
+2010,3,Human Papilloma Virus,0
+2010,3,Varicella,1080
+2010,3,Measles,931
+2010,3,Mumps,930
+2010,3,Rubella,930
+2010,3,Influenza,7692
+2010,3,Rotavirus,0
+2010,3,Hib,3458
+2010,3,Pneumococcal,6074
+2010,3,Hepatitis A,3413
+2010,3,Meningococcal,32
+2010,4,Hepatitis B,637
+2010,4,Diphtheria,15181
+2010,4,Tetanus,15181
+2010,4,Pertussis,15172
+2010,4,Polio,14716
+2010,4,Human Papilloma Virus,0
+2010,4,Varicella,13325
+2010,4,Measles,14235
+2010,4,Mumps,14226
+2010,4,Rubella,14233
+2010,4,Influenza,7060
+2010,4,Rotavirus,0
+2010,4,Hib,1778
+2010,4,Pneumococcal,5114
+2010,4,Hepatitis A,1934
+2010,4,Meningococcal,54
+2010,5,Hepatitis B,430
+2010,5,Diphtheria,3577
+2010,5,Tetanus,3577
+2010,5,Pertussis,3565
+2010,5,Polio,3328
+2010,5,Human Papilloma Virus,0
+2010,5,Varicella,3313
+2010,5,Measles,3235
+2010,5,Mumps,3230
+2010,5,Rubella,3235
+2010,5,Influenza,4772
+2010,5,Rotavirus,0
+2010,5,Hib,273
+2010,5,Pneumococcal,610
+2010,5,Hepatitis A,1264
+2010,5,Meningococcal,21
+2010,6,Hepatitis B,193
+2010,6,Diphtheria,577
+2010,6,Tetanus,577
+2010,6,Pertussis,571
+2010,6,Polio,463
+2010,6,Human Papilloma Virus,0
+2010,6,Varicella,693
+2010,6,Measles,367
+2010,6,Mumps,367
+2010,6,Rubella,367
+2010,6,Influenza,4301
+2010,6,Rotavirus,0
+2010,6,Hib,44
+2010,6,Pneumococcal,108
+2010,6,Hepatitis A,645
+2010,6,Meningococcal,23
+2010,7,Hepatitis B,127
+2010,7,Diphtheria,538
+2010,7,Tetanus,538
+2010,7,Pertussis,485
+2010,7,Polio,222
+2010,7,Human Papilloma Virus,0
+2010,7,Varicella,397
+2010,7,Measles,185
+2010,7,Mumps,185
+2010,7,Rubella,185
+2010,7,Influenza,3447
+2010,7,Rotavirus,0
+2010,7,Hib,17
+2010,7,Pneumococcal,42
+2010,7,Hepatitis A,456
+2010,7,Meningococcal,16
+2010,8,Hepatitis B,123
+2010,8,Diphtheria,450
+2010,8,Tetanus,450
+2010,8,Pertussis,405
+2010,8,Polio,179
+2010,8,Human Papilloma Virus,0
+2010,8,Varicella,541
+2010,8,Measles,155
+2010,8,Mumps,155
+2010,8,Rubella,155
+2010,8,Influenza,2958
+2010,8,Rotavirus,0
+2010,8,Hib,13
+2010,8,Pneumococcal,24
+2010,8,Hepatitis A,394
+2010,8,Meningococcal,25
+2010,9,Hepatitis B,94
+2010,9,Diphtheria,661
+2010,9,Tetanus,661
+2010,9,Pertussis,598
+2010,9,Polio,132
+2010,9,Human Papilloma Virus,813
+2010,9,Varicella,831
+2010,9,Measles,117
+2010,9,Mumps,117
+2010,9,Rubella,117
+2010,9,Influenza,2735
+2010,9,Rotavirus,0
+2010,9,Hib,
+2010,9,Pneumococcal,35
+2010,9,Hepatitis A,359
+2010,9,Meningococcal,74
+2010,10,Hepatitis B,112
+2010,10,Diphtheria,2026
+2010,10,Tetanus,2026
+2010,10,Pertussis,1943
+2010,10,Polio,128
+2010,10,Human Papilloma Virus,1062
+2010,10,Varicella,987
+2010,10,Measles,140
+2010,10,Mumps,140
+2010,10,Rubella,140
+2010,10,Influenza,2356
+2010,10,Rotavirus,0
+2010,10,Hib,15
+2010,10,Pneumococcal,33
+2010,10,Hepatitis A,381
+2010,10,Meningococcal,332
+2010,11,Hepatitis B,157
+2010,11,Diphtheria,5793
+2010,11,Tetanus,5793
+2010,11,Pertussis,5622
+2010,11,Polio,171
+2010,11,Human Papilloma Virus,4150
+2010,11,Varicella,1727
+2010,11,Measles,178
+2010,11,Mumps,178
+2010,11,Rubella,178
+2010,11,Influenza,2722
+2010,11,Rotavirus,0
+2010,11,Hib,
+2010,11,Pneumococcal,41
+2010,11,Hepatitis A,527
+2010,11,Meningococcal,5273
+2010,12,Hepatitis B,193
+2010,12,Diphtheria,4269
+2010,12,Tetanus,4269
+2010,12,Pertussis,4133
+2010,12,Polio,170
+2010,12,Human Papilloma Virus,3925
+2010,12,Varicella,1670
+2010,12,Measles,170
+2010,12,Mumps,170
+2010,12,Rubella,170
+2010,12,Influenza,2475
+2010,12,Rotavirus,0
+2010,12,Hib,
+2010,12,Pneumococcal,31
+2010,12,Hepatitis A,636
+2010,12,Meningococcal,3586
+2010,13,Hepatitis B,197
+2010,13,Diphtheria,2918
+2010,13,Tetanus,2918
+2010,13,Pertussis,2812
+2010,13,Polio,167
+2010,13,Human Papilloma Virus,3189
+2010,13,Varicella,1384
+2010,13,Measles,137
+2010,13,Mumps,137
+2010,13,Rubella,137
+2010,13,Influenza,2289
+2010,13,Rotavirus,0
+2010,13,Hib,17
+2010,13,Pneumococcal,28
+2010,13,Hepatitis A,652
+2010,13,Meningococcal,2290
+2010,14,Hepatitis B,195
+2010,14,Diphtheria,2545
+2010,14,Tetanus,2545
+2010,14,Pertussis,2455
+2010,14,Polio,169
+2010,14,Human Papilloma Virus,3104
+2010,14,Varicella,1307
+2010,14,Measles,143
+2010,14,Mumps,143
+2010,14,Rubella,143
+2010,14,Influenza,2382
+2010,14,Rotavirus,0
+2010,14,Hib,12
+2010,14,Pneumococcal,16
+2010,14,Hepatitis A,792
+2010,14,Meningococcal,1920
+2010,15,Hepatitis B,202
+2010,15,Diphtheria,2224
+2010,15,Tetanus,2224
+2010,15,Pertussis,2118
+2010,15,Polio,170
+2010,15,Human Papilloma Virus,2763
+2010,15,Varicella,1135
+2010,15,Measles,137
+2010,15,Mumps,137
+2010,15,Rubella,137
+2010,15,Influenza,2151
+2010,15,Rotavirus,0
+2010,15,Hib,
+2010,15,Pneumococcal,42
+2010,15,Hepatitis A,824
+2010,15,Meningococcal,1553
+2010,16,Hepatitis B,198
+2010,16,Diphtheria,2171
+2010,16,Tetanus,2171
+2010,16,Pertussis,2075
+2010,16,Polio,179
+2010,16,Human Papilloma Virus,2608
+2010,16,Varicella,1080
+2010,16,Measles,162
+2010,16,Mumps,160
+2010,16,Rubella,161
+2010,16,Influenza,2049
+2010,16,Rotavirus,0
+2010,16,Hib,11
+2010,16,Pneumococcal,22
+2010,16,Hepatitis A,944
+2010,16,Meningococcal,1624
+2010,17,Hepatitis B,195
+2010,17,Diphtheria,1967
+2010,17,Tetanus,1967
+2010,17,Pertussis,1893
+2010,17,Polio,176
+2010,17,Human Papilloma Virus,2259
+2010,17,Varicella,817
+2010,17,Measles,154
+2010,17,Mumps,153
+2010,17,Rubella,153
+2010,17,Influenza,1812
+2010,17,Rotavirus,0
+2010,17,Hib,
+2010,17,Pneumococcal,27
+2010,17,Hepatitis A,755
+2010,17,Meningococcal,1396
+2010,18,Hepatitis B,97
+2010,18,Diphtheria,741
+2010,18,Tetanus,741
+2010,18,Pertussis,705
+2010,18,Polio,61
+2010,18,Human Papilloma Virus,934
+2010,18,Varicella,289
+2010,18,Measles,53
+2010,18,Mumps,52
+2010,18,Rubella,52
+2010,18,Influenza,815
+2010,18,Rotavirus,0
+2010,18,Hib,
+2010,18,Pneumococcal,
+2010,18,Hepatitis A,275
+2010,18,Meningococcal,487
+2010,19,Hepatitis B,21
+2010,19,Diphtheria,229
+2010,19,Tetanus,229
+2010,19,Pertussis,217
+2010,19,Polio,
+2010,19,Human Papilloma Virus,238
+2010,19,Varicella,66
+2010,19,Measles,
+2010,19,Mumps,
+2010,19,Rubella,
+2010,19,Influenza,339
+2010,19,Rotavirus,0
+2010,19,Hib,
+2010,19,Pneumococcal,
+2010,19,Hepatitis A,48
+2010,19,Meningococcal,116
+2010,20,Hepatitis B,20
+2010,20,Diphtheria,122
+2010,20,Tetanus,122
+2010,20,Pertussis,115
+2010,20,Polio,
+2010,20,Human Papilloma Virus,107
+2010,20,Varicella,11
+2010,20,Measles,
+2010,20,Mumps,
+2010,20,Rubella,
+2010,20,Influenza,177
+2010,20,Rotavirus,0
+2010,20,Hib,0
+2010,20,Pneumococcal,0
+2010,20,Hepatitis A,22
+2010,20,Meningococcal,51
+2010,Unknown,Hepatitis B,0
+2010,Unknown,Diphtheria,0
+2010,Unknown,Tetanus,0
+2010,Unknown,Pertussis,0
+2010,Unknown,Polio,0
+2010,Unknown,Human Papilloma Virus,0
+2010,Unknown,Varicella,0
+2010,Unknown,Measles,0
+2010,Unknown,Mumps,0
+2010,Unknown,Rubella,0
+2010,Unknown,Influenza,0
+2010,Unknown,Rotavirus,0
+2010,Unknown,Hib,0
+2010,Unknown,Pneumococcal,0
+2010,Unknown,Hepatitis A,0
+2010,Unknown,Meningococcal,0
+2010,0,Hepatitis B,50120
+2010,0,Diphtheria,54249
+2010,0,Tetanus,54249
+2010,0,Pertussis,54222
+2010,0,Polio,53426
+2010,0,Human Papilloma Virus,0
+2010,0,Varicella,0
+2010,0,Measles,0
+2010,0,Mumps,0
+2010,0,Rubella,0
+2010,0,Influenza,3710
+2010,0,Rotavirus,47049
+2010,0,Hib,53773
+2010,0,Pneumococcal,51743
+2010,0,Hepatitis A,0
+2010,0,Meningococcal,0
+2010,1,Hepatitis B,3540
+2010,1,Diphtheria,12383
+2010,1,Tetanus,12383
+2010,1,Pertussis,12368
+2010,1,Polio,5879
+2010,1,Human Papilloma Virus,0
+2010,1,Varicella,9624
+2010,1,Measles,9822
+2010,1,Mumps,9820
+2010,1,Rubella,9828
+2010,1,Influenza,7017
+2010,1,Rotavirus,0
+2010,1,Hib,12336
+2010,1,Pneumococcal,12395
+2010,1,Hepatitis A,11669
+2010,1,Meningococcal,0
+2010,2,Hepatitis B,704
+2010,2,Diphtheria,2606
+2010,2,Tetanus,2606
+2010,2,Pertussis,2600
+2010,2,Polio,1024
+2010,2,Human Papilloma Virus,0
+2010,2,Varicella,1070
+2010,2,Measles,941
+2010,2,Mumps,941
+2010,2,Rubella,942
+2010,2,Influenza,3621
+2010,2,Rotavirus,0
+2010,2,Hib,2702
+2010,2,Pneumococcal,3716
+2010,2,Hepatitis A,5754
+2010,2,Meningococcal,48
+2010,3,Hepatitis B,552
+2010,3,Diphtheria,1291
+2010,3,Tetanus,1291
+2010,3,Pertussis,1288
+2010,3,Polio,710
+2010,3,Human Papilloma Virus,0
+2010,3,Varicella,829
+2010,3,Measles,625
+2010,3,Mumps,625
+2010,3,Rubella,626
+2010,3,Influenza,2838
+2010,3,Rotavirus,0
+2010,3,Hib,2135
+2010,3,Pneumococcal,3321
+2010,3,Hepatitis A,2326
+2010,3,Meningococcal,25
+2010,4,Hepatitis B,635
+2010,4,Diphtheria,9886
+2010,4,Tetanus,9886
+2010,4,Pertussis,9873
+2010,4,Polio,9691
+2010,4,Human Papilloma Virus,0
+2010,4,Varicella,8988
+2010,4,Measles,9750
+2010,4,Mumps,9748
+2010,4,Rubella,9748
+2010,4,Influenza,2863
+2010,4,Rotavirus,0
+2010,4,Hib,1484
+2010,4,Pneumococcal,3472
+2010,4,Hepatitis A,2106
+2010,4,Meningococcal,34
+2010,5,Hepatitis B,627
+2010,5,Diphtheria,3278
+2010,5,Tetanus,3278
+2010,5,Pertussis,3277
+2010,5,Polio,3104
+2010,5,Human Papilloma Virus,0
+2010,5,Varicella,3125
+2010,5,Measles,3180
+2010,5,Mumps,3179
+2010,5,Rubella,3181
+2010,5,Influenza,2130
+2010,5,Rotavirus,0
+2010,5,Hib,257
+2010,5,Pneumococcal,521
+2010,5,Hepatitis A,1670
+2010,5,Meningococcal,27
+2010,6,Hepatitis B,433
+2010,6,Diphtheria,927
+2010,6,Tetanus,927
+2010,6,Pertussis,916
+2010,6,Polio,846
+2010,6,Human Papilloma Virus,0
+2010,6,Varicella,1225
+2010,6,Measles,783
+2010,6,Mumps,783
+2010,6,Rubella,783
+2010,6,Influenza,2324
+2010,6,Rotavirus,0
+2010,6,Hib,48
+2010,6,Pneumococcal,96
+2010,6,Hepatitis A,1227
+2010,6,Meningococcal,22
+2010,7,Hepatitis B,434
+2010,7,Diphtheria,775
+2010,7,Tetanus,775
+2010,7,Pertussis,638
+2010,7,Polio,538
+2010,7,Human Papilloma Virus,0
+2010,7,Varicella,956
+2010,7,Measles,487
+2010,7,Mumps,487
+2010,7,Rubella,487
+2010,7,Influenza,1754
+2010,7,Rotavirus,0
+2010,7,Hib,17
+2010,7,Pneumococcal,45
+2010,7,Hepatitis A,1050
+2010,7,Meningococcal,35
+2010,8,Hepatitis B,613
+2010,8,Diphtheria,816
+2010,8,Tetanus,816
+2010,8,Pertussis,625
+2010,8,Polio,553
+2010,8,Human Papilloma Virus,0
+2010,8,Varicella,1075
+2010,8,Measles,480
+2010,8,Mumps,480
+2010,8,Rubella,480
+2010,8,Influenza,1549
+2010,8,Rotavirus,0
+2010,8,Hib,19
+2010,8,Pneumococcal,39
+2010,8,Hepatitis A,1095
+2010,8,Meningococcal,24
+2010,9,Hepatitis B,686
+2010,9,Diphtheria,1048
+2010,9,Tetanus,1048
+2010,9,Pertussis,850
+2010,9,Polio,431
+2010,9,Human Papilloma Virus,1207
+2010,9,Varicella,1403
+2010,9,Measles,411
+2010,9,Mumps,411
+2010,9,Rubella,411
+2010,9,Influenza,1513
+2010,9,Rotavirus,0
+2010,9,Hib,20
+2010,9,Pneumococcal,32
+2010,9,Hepatitis A,1189
+2010,9,Meningococcal,71
+2010,10,Hepatitis B,956
+2010,10,Diphtheria,2199
+2010,10,Tetanus,2199
+2010,10,Pertussis,1958
+2010,10,Polio,544
+2010,10,Human Papilloma Virus,1832
+2010,10,Varicella,1698
+2010,10,Measles,501
+2010,10,Mumps,501
+2010,10,Rubella,501
+2010,10,Influenza,1526
+2010,10,Rotavirus,0
+2010,10,Hib,19
+2010,10,Pneumococcal,36
+2010,10,Hepatitis A,1447
+2010,10,Meningococcal,288
+2010,11,Hepatitis B,1196
+2010,11,Diphtheria,6954
+2010,11,Tetanus,6954
+2010,11,Pertussis,6130
+2010,11,Polio,530
+2010,11,Human Papilloma Virus,5953
+2010,11,Varicella,2343
+2010,11,Measles,486
+2010,11,Mumps,486
+2010,11,Rubella,487
+2010,11,Influenza,1956
+2010,11,Rotavirus,0
+2010,11,Hib,17
+2010,11,Pneumococcal,53
+2010,11,Hepatitis A,1747
+2010,11,Meningococcal,5747
+2010,12,Hepatitis B,1648
+2010,12,Diphtheria,6081
+2010,12,Tetanus,6081
+2010,12,Pertussis,5080
+2010,12,Polio,582
+2010,12,Human Papilloma Virus,6270
+2010,12,Varicella,2428
+2010,12,Measles,548
+2010,12,Mumps,548
+2010,12,Rubella,548
+2010,12,Influenza,1925
+2010,12,Rotavirus,0
+2010,12,Hib,20
+2010,12,Pneumococcal,52
+2010,12,Hepatitis A,2106
+2010,12,Meningococcal,5312
+2010,13,Hepatitis B,1665
+2010,13,Diphtheria,4946
+2010,13,Tetanus,4946
+2010,13,Pertussis,3992
+2010,13,Polio,623
+2010,13,Human Papilloma Virus,5693
+2010,13,Varicella,2314
+2010,13,Measles,609
+2010,13,Mumps,608
+2010,13,Rubella,609
+2010,13,Influenza,1794
+2010,13,Rotavirus,0
+2010,13,Hib,16
+2010,13,Pneumococcal,37
+2010,13,Hepatitis A,2114
+2010,13,Meningococcal,4443
+2010,14,Hepatitis B,1770
+2010,14,Diphtheria,5196
+2010,14,Tetanus,5196
+2010,14,Pertussis,4101
+2010,14,Polio,664
+2010,14,Human Papilloma Virus,5953
+2010,14,Varicella,2586
+2010,14,Measles,798
+2010,14,Mumps,797
+2010,14,Rubella,798
+2010,14,Influenza,2527
+2010,14,Rotavirus,0
+2010,14,Hib,23
+2010,14,Pneumococcal,38
+2010,14,Hepatitis A,2359
+2010,14,Meningococcal,4198
+2010,15,Hepatitis B,1813
+2010,15,Diphtheria,4528
+2010,15,Tetanus,4528
+2010,15,Pertussis,3398
+2010,15,Polio,700
+2010,15,Human Papilloma Virus,5551
+2010,15,Varicella,2406
+2010,15,Measles,857
+2010,15,Mumps,857
+2010,15,Rubella,858
+2010,15,Influenza,2844
+2010,15,Rotavirus,0
+2010,15,Hib,18
+2010,15,Pneumococcal,32
+2010,15,Hepatitis A,2684
+2010,15,Meningococcal,3831
+2010,16,Hepatitis B,1826
+2010,16,Diphtheria,4374
+2010,16,Tetanus,4374
+2010,16,Pertussis,3323
+2010,16,Polio,709
+2010,16,Human Papilloma Virus,5124
+2010,16,Varicella,2186
+2010,16,Measles,958
+2010,16,Mumps,956
+2010,16,Rubella,956
+2010,16,Influenza,2756
+2010,16,Rotavirus,0
+2010,16,Hib,21
+2010,16,Pneumococcal,34
+2010,16,Hepatitis A,2718
+2010,16,Meningococcal,3864
+2010,17,Hepatitis B,1721
+2010,17,Diphtheria,3921
+2010,17,Tetanus,3921
+2010,17,Pertussis,3053
+2010,17,Polio,866
+2010,17,Human Papilloma Virus,4538
+2010,17,Varicella,1928
+2010,17,Measles,1042
+2010,17,Mumps,1042
+2010,17,Rubella,1044
+2010,17,Influenza,2484
+2010,17,Rotavirus,0
+2010,17,Hib,
+2010,17,Pneumococcal,34
+2010,17,Hepatitis A,2455
+2010,17,Meningococcal,3129
+2010,18,Hepatitis B,1750
+2010,18,Diphtheria,2730
+2010,18,Tetanus,2730
+2010,18,Pertussis,2123
+2010,18,Polio,1152
+2010,18,Human Papilloma Virus,2880
+2010,18,Varicella,1333
+2010,18,Measles,1311
+2010,18,Mumps,1311
+2010,18,Rubella,1311
+2010,18,Influenza,1314
+2010,18,Rotavirus,0
+2010,18,Hib,
+2010,18,Pneumococcal,17
+2010,18,Hepatitis A,1867
+2010,18,Meningococcal,1863
+2010,19,Hepatitis B,0
+2010,19,Diphtheria,0
+2010,19,Tetanus,0
+2010,19,Pertussis,0
+2010,19,Polio,0
+2010,19,Human Papilloma Virus,0
+2010,19,Varicella,0
+2010,19,Measles,0
+2010,19,Mumps,0
+2010,19,Rubella,0
+2010,19,Influenza,0
+2010,19,Rotavirus,0
+2010,19,Hib,0
+2010,19,Pneumococcal,0
+2010,19,Hepatitis A,0
+2010,19,Meningococcal,0
+2010,20,Hepatitis B,0
+2010,20,Diphtheria,0
+2010,20,Tetanus,0
+2010,20,Pertussis,0
+2010,20,Polio,0
+2010,20,Human Papilloma Virus,0
+2010,20,Varicella,0
+2010,20,Measles,0
+2010,20,Mumps,0
+2010,20,Rubella,0
+2010,20,Influenza,0
+2010,20,Rotavirus,0
+2010,20,Hib,0
+2010,20,Pneumococcal,0
+2010,20,Hepatitis A,0
+2010,20,Meningococcal,0
+2010,Unknown,Hepatitis B,0
+2010,Unknown,Diphtheria,0
+2010,Unknown,Tetanus,0
+2010,Unknown,Pertussis,0
+2010,Unknown,Polio,0
+2010,Unknown,Human Papilloma Virus,0
+2010,Unknown,Varicella,0
+2010,Unknown,Measles,0
+2010,Unknown,Mumps,0
+2010,Unknown,Rubella,0
+2010,Unknown,Influenza,0
+2010,Unknown,Rotavirus,0
+2010,Unknown,Hib,0
+2010,Unknown,Pneumococcal,0
+2010,Unknown,Hepatitis A,0
+2010,Unknown,Meningococcal,0
+2010,0,Hepatitis B,186572
+2010,0,Diphtheria,247226
+2010,0,Tetanus,247226
+2010,0,Pertussis,246874
+2010,0,Polio,242647
+2010,0,Human Papilloma Virus,0
+2010,0,Varicella,0
+2010,0,Measles,0
+2010,0,Mumps,0
+2010,0,Rubella,0
+2010,0,Influenza,49732
+2010,0,Rotavirus,203618
+2010,0,Hib,246037
+2010,0,Pneumococcal,243576
+2010,0,Hepatitis A,0
+2010,0,Meningococcal,0
+2010,1,Hepatitis B,48439
+2010,1,Diphtheria,145377
+2010,1,Tetanus,145377
+2010,1,Pertussis,145015
+2010,1,Polio,75682
+2010,1,Human Papilloma Virus,0
+2010,1,Varicella,112123
+2010,1,Measles,113941
+2010,1,Mumps,113903
+2010,1,Rubella,114065
+2010,1,Influenza,103379
+2010,1,Rotavirus,0
+2010,1,Hib,145366
+2010,1,Pneumococcal,155069
+2010,1,Hepatitis A,139265
+2010,1,Meningococcal,0
+2010,2,Hepatitis B,5151
+2010,2,Diphtheria,26361
+2010,2,Tetanus,26361
+2010,2,Pertussis,26215
+2010,2,Polio,9062
+2010,2,Human Papilloma Virus,0
+2010,2,Varicella,7980
+2010,2,Measles,7400
+2010,2,Mumps,7386
+2010,2,Rubella,7422
+2010,2,Influenza,58135
+2010,2,Rotavirus,0
+2010,2,Hib,27122
+2010,2,Pneumococcal,46855
+2010,2,Hepatitis A,66867
+2010,2,Meningococcal,487
+2010,3,Hepatitis B,2987
+2010,3,Diphtheria,8537
+2010,3,Tetanus,8537
+2010,3,Pertussis,8447
+2010,3,Polio,4797
+2010,3,Human Papilloma Virus,0
+2010,3,Varicella,5027
+2010,3,Measles,4297
+2010,3,Mumps,4289
+2010,3,Rubella,4312
+2010,3,Influenza,45464
+2010,3,Rotavirus,0
+2010,3,Hib,19333
+2010,3,Pneumococcal,39650
+2010,3,Hepatitis A,16974
+2010,3,Meningococcal,317
+2010,4,Hepatitis B,3259
+2010,4,Diphtheria,94589
+2010,4,Tetanus,94589
+2010,4,Pertussis,94434
+2010,4,Polio,91995
+2010,4,Human Papilloma Virus,0
+2010,4,Varicella,85791
+2010,4,Measles,90824
+2010,4,Mumps,90722
+2010,4,Rubella,90765
+2010,4,Influenza,42994
+2010,4,Rotavirus,0
+2010,4,Hib,12154
+2010,4,Pneumococcal,37112
+2010,4,Hepatitis A,9807
+2010,4,Meningococcal,359
+2010,5,Hepatitis B,1911
+2010,5,Diphtheria,15817
+2010,5,Tetanus,15817
+2010,5,Pertussis,15755
+2010,5,Polio,14789
+2010,5,Human Papilloma Virus,0
+2010,5,Varicella,15108
+2010,5,Measles,14214
+2010,5,Mumps,14182
+2010,5,Rubella,14197
+2010,5,Influenza,31464
+2010,5,Rotavirus,0
+2010,5,Hib,1545
+2010,5,Pneumococcal,4956
+2010,5,Hepatitis A,5779
+2010,5,Meningococcal,248
+2010,6,Hepatitis B,1003
+2010,6,Diphtheria,2725
+2010,6,Tetanus,2725
+2010,6,Pertussis,2697
+2010,6,Polio,2200
+2010,6,Human Papilloma Virus,0
+2010,6,Varicella,3570
+2010,6,Measles,1764
+2010,6,Mumps,1760
+2010,6,Rubella,1760
+2010,6,Influenza,28080
+2010,6,Rotavirus,0
+2010,6,Hib,353
+2010,6,Pneumococcal,588
+2010,6,Hepatitis A,3371
+2010,6,Meningococcal,148
+2010,7,Hepatitis B,652
+2010,7,Diphtheria,2353
+2010,7,Tetanus,2353
+2010,7,Pertussis,2140
+2010,7,Polio,927
+2010,7,Human Papilloma Virus,0
+2010,7,Varicella,2306
+2010,7,Measles,813
+2010,7,Mumps,812
+2010,7,Rubella,812
+2010,7,Influenza,22365
+2010,7,Rotavirus,0
+2010,7,Hib,188
+2010,7,Pneumococcal,245
+2010,7,Hepatitis A,2255
+2010,7,Meningococcal,139
+2010,8,Hepatitis B,1925
+2010,8,Diphtheria,4880
+2010,8,Tetanus,4880
+2010,8,Pertussis,4666
+2010,8,Polio,2733
+2010,8,Human Papilloma Virus,0
+2010,8,Varicella,4155
+2010,8,Measles,1852
+2010,8,Mumps,1846
+2010,8,Rubella,1851
+2010,8,Influenza,21898
+2010,8,Rotavirus,0
+2010,8,Hib,2161
+2010,8,Pneumococcal,2437
+2010,8,Hepatitis A,3171
+2010,8,Meningococcal,580
+2010,9,Hepatitis B,695
+2010,9,Diphtheria,3900
+2010,9,Tetanus,3900
+2010,9,Pertussis,3606
+2010,9,Polio,681
+2010,9,Human Papilloma Virus,4776
+2010,9,Varicella,4932
+2010,9,Measles,621
+2010,9,Mumps,619
+2010,9,Rubella,622
+2010,9,Influenza,17687
+2010,9,Rotavirus,0
+2010,9,Hib,178
+2010,9,Pneumococcal,252
+2010,9,Hepatitis A,2078
+2010,9,Meningococcal,347
+2010,10,Hepatitis B,846
+2010,10,Diphtheria,14198
+2010,10,Tetanus,14198
+2010,10,Pertussis,13775
+2010,10,Polio,889
+2010,10,Human Papilloma Virus,7352
+2010,10,Varicella,6015
+2010,10,Measles,685
+2010,10,Mumps,683
+2010,10,Rubella,685
+2010,10,Influenza,16242
+2010,10,Rotavirus,0
+2010,10,Hib,285
+2010,10,Pneumococcal,370
+2010,10,Hepatitis A,2200
+2010,10,Meningococcal,1763
+2010,11,Hepatitis B,983
+2010,11,Diphtheria,39844
+2010,11,Tetanus,39844
+2010,11,Pertussis,38856
+2010,11,Polio,1037
+2010,11,Human Papilloma Virus,30939
+2010,11,Varicella,10052
+2010,11,Measles,996
+2010,11,Mumps,994
+2010,11,Rubella,1001
+2010,11,Influenza,18122
+2010,11,Rotavirus,0
+2010,11,Hib,226
+2010,11,Pneumococcal,365
+2010,11,Hepatitis A,3138
+2010,11,Meningococcal,37327
+2010,12,Hepatitis B,1237
+2010,12,Diphtheria,24770
+2010,12,Tetanus,24770
+2010,12,Pertussis,24021
+2010,12,Polio,1044
+2010,12,Human Papilloma Virus,27949
+2010,12,Varicella,9572
+2010,12,Measles,872
+2010,12,Mumps,870
+2010,12,Rubella,875
+2010,12,Influenza,16408
+2010,12,Rotavirus,0
+2010,12,Hib,172
+2010,12,Pneumococcal,228
+2010,12,Hepatitis A,3670
+2010,12,Meningococcal,21678
+2010,13,Hepatitis B,1085
+2010,13,Diphtheria,16656
+2010,13,Tetanus,16656
+2010,13,Pertussis,16077
+2010,13,Polio,923
+2010,13,Human Papilloma Virus,23216
+2010,13,Varicella,7982
+2010,13,Measles,845
+2010,13,Mumps,844
+2010,13,Rubella,845
+2010,13,Influenza,15303
+2010,13,Rotavirus,0
+2010,13,Hib,134
+2010,13,Pneumococcal,164
+2010,13,Hepatitis A,3860
+2010,13,Meningococcal,13470
+2010,14,Hepatitis B,1089
+2010,14,Diphtheria,14391
+2010,14,Tetanus,14391
+2010,14,Pertussis,13845
+2010,14,Polio,908
+2010,14,Human Papilloma Virus,20692
+2010,14,Varicella,7467
+2010,14,Measles,884
+2010,14,Mumps,883
+2010,14,Rubella,884
+2010,14,Influenza,14237
+2010,14,Rotavirus,0
+2010,14,Hib,149
+2010,14,Pneumococcal,166
+2010,14,Hepatitis A,4572
+2010,14,Meningococcal,10748
+2010,15,Hepatitis B,1069
+2010,15,Diphtheria,12415
+2010,15,Tetanus,12415
+2010,15,Pertussis,11920
+2010,15,Polio,905
+2010,15,Human Papilloma Virus,18332
+2010,15,Varicella,6379
+2010,15,Measles,741
+2010,15,Mumps,737
+2010,15,Rubella,740
+2010,15,Influenza,13541
+2010,15,Rotavirus,0
+2010,15,Hib,125
+2010,15,Pneumococcal,125
+2010,15,Hepatitis A,4678
+2010,15,Meningococcal,8798
+2010,16,Hepatitis B,1035
+2010,16,Diphtheria,12530
+2010,16,Tetanus,12530
+2010,16,Pertussis,12102
+2010,16,Polio,965
+2010,16,Human Papilloma Virus,16484
+2010,16,Varicella,5507
+2010,16,Measles,710
+2010,16,Mumps,704
+2010,16,Rubella,707
+2010,16,Influenza,12530
+2010,16,Rotavirus,0
+2010,16,Hib,82
+2010,16,Pneumococcal,121
+2010,16,Hepatitis A,4789
+2010,16,Meningococcal,9555
+2010,17,Hepatitis B,1004
+2010,17,Diphtheria,10598
+2010,17,Tetanus,10598
+2010,17,Pertussis,10241
+2010,17,Polio,812
+2010,17,Human Papilloma Virus,13688
+2010,17,Varicella,4154
+2010,17,Measles,610
+2010,17,Mumps,607
+2010,17,Rubella,607
+2010,17,Influenza,10247
+2010,17,Rotavirus,0
+2010,17,Hib,141
+2010,17,Pneumococcal,125
+2010,17,Hepatitis A,4081
+2010,17,Meningococcal,7713
+2010,18,Hepatitis B,545
+2010,18,Diphtheria,3708
+2010,18,Tetanus,3708
+2010,18,Pertussis,3580
+2010,18,Polio,260
+2010,18,Human Papilloma Virus,5301
+2010,18,Varicella,1323
+2010,18,Measles,277
+2010,18,Mumps,277
+2010,18,Rubella,277
+2010,18,Influenza,4270
+2010,18,Rotavirus,0
+2010,18,Hib,20
+2010,18,Pneumococcal,56
+2010,18,Hepatitis A,1385
+2010,18,Meningococcal,2563
+2010,19,Hepatitis B,165
+2010,19,Diphtheria,921
+2010,19,Tetanus,921
+2010,19,Pertussis,886
+2010,19,Polio,61
+2010,19,Human Papilloma Virus,1286
+2010,19,Varicella,259
+2010,19,Measles,54
+2010,19,Mumps,53
+2010,19,Rubella,53
+2010,19,Influenza,1332
+2010,19,Rotavirus,0
+2010,19,Hib,22
+2010,19,Pneumococcal,34
+2010,19,Hepatitis A,219
+2010,19,Meningococcal,525
+2010,20,Hepatitis B,905
+2010,20,Diphtheria,2140
+2010,20,Tetanus,2140
+2010,20,Pertussis,2113
+2010,20,Polio,1130
+2010,20,Human Papilloma Virus,1038
+2010,20,Varicella,805
+2010,20,Measles,595
+2010,20,Mumps,593
+2010,20,Rubella,595
+2010,20,Influenza,2129
+2010,20,Rotavirus,0
+2010,20,Hib,1064
+2010,20,Pneumococcal,1293
+2010,20,Hepatitis A,745
+2010,20,Meningococcal,506
+2010,Unknown,Hepatitis B,490
+2010,Unknown,Diphtheria,717
+2010,Unknown,Tetanus,717
+2010,Unknown,Pertussis,712
+2010,Unknown,Polio,643
+2010,Unknown,Human Papilloma Virus,49
+2010,Unknown,Varicella,73
+2010,Unknown,Measles,54
+2010,Unknown,Mumps,54
+2010,Unknown,Rubella,55
+2010,Unknown,Influenza,204
+2010,Unknown,Rotavirus,0
+2010,Unknown,Hib,646
+2010,Unknown,Pneumococcal,650
+2010,Unknown,Hepatitis A,76
+2010,Unknown,Meningococcal,30
+2010,0,Hepatitis B,98
+2010,0,Diphtheria,135
+2010,0,Tetanus,135
+2010,0,Pertussis,135
+2010,0,Polio,134
+2010,0,Human Papilloma Virus,0
+2010,0,Varicella,0
+2010,0,Measles,0
+2010,0,Mumps,0
+2010,0,Rubella,0
+2010,0,Influenza,31
+2010,0,Rotavirus,94
+2010,0,Hib,138
+2010,0,Pneumococcal,130
+2010,0,Hepatitis A,0
+2010,0,Meningococcal,0
+2010,1,Hepatitis B,37
+2010,1,Diphtheria,159
+2010,1,Tetanus,159
+2010,1,Pertussis,159
+2010,1,Polio,71
+2010,1,Human Papilloma Virus,0
+2010,1,Varicella,162
+2010,1,Measles,148
+2010,1,Mumps,148
+2010,1,Rubella,148
+2010,1,Influenza,126
+2010,1,Rotavirus,0
+2010,1,Hib,166
+2010,1,Pneumococcal,195
+2010,1,Hepatitis A,218
+2010,1,Meningococcal,0
+2010,2,Hepatitis B,30
+2010,2,Diphtheria,73
+2010,2,Tetanus,73
+2010,2,Pertussis,71
+2010,2,Polio,48
+2010,2,Human Papilloma Virus,0
+2010,2,Varicella,42
+2010,2,Measles,23
+2010,2,Mumps,23
+2010,2,Rubella,23
+2010,2,Influenza,100
+2010,2,Rotavirus,0
+2010,2,Hib,70
+2010,2,Pneumococcal,105
+2010,2,Hepatitis A,125
+2010,2,Meningococcal,
+2010,3,Hepatitis B,40
+2010,3,Diphtheria,62
+2010,3,Tetanus,62
+2010,3,Pertussis,62
+2010,3,Polio,48
+2010,3,Human Papilloma Virus,0
+2010,3,Varicella,38
+2010,3,Measles,29
+2010,3,Mumps,29
+2010,3,Rubella,29
+2010,3,Influenza,140
+2010,3,Rotavirus,0
+2010,3,Hib,84
+2010,3,Pneumococcal,158
+2010,3,Hepatitis A,99
+2010,3,Meningococcal,
+2010,4,Hepatitis B,58
+2010,4,Diphtheria,571
+2010,4,Tetanus,571
+2010,4,Pertussis,570
+2010,4,Polio,551
+2010,4,Human Papilloma Virus,0
+2010,4,Varicella,504
+2010,4,Measles,536
+2010,4,Mumps,536
+2010,4,Rubella,536
+2010,4,Influenza,298
+2010,4,Rotavirus,0
+2010,4,Hib,97
+2010,4,Pneumococcal,292
+2010,4,Hepatitis A,134
+2010,4,Meningococcal,
+2010,5,Hepatitis B,54
+2010,5,Diphtheria,164
+2010,5,Tetanus,164
+2010,5,Pertussis,160
+2010,5,Polio,153
+2010,5,Human Papilloma Virus,0
+2010,5,Varicella,125
+2010,5,Measles,108
+2010,5,Mumps,108
+2010,5,Rubella,108
+2010,5,Influenza,282
+2010,5,Rotavirus,0
+2010,5,Hib,11
+2010,5,Pneumococcal,34
+2010,5,Hepatitis A,108
+2010,5,Meningococcal,
+2010,6,Hepatitis B,61
+2010,6,Diphtheria,98
+2010,6,Tetanus,98
+2010,6,Pertussis,97
+2010,6,Polio,96
+2010,6,Human Papilloma Virus,0
+2010,6,Varicella,97
+2010,6,Measles,45
+2010,6,Mumps,45
+2010,6,Rubella,45
+2010,6,Influenza,415
+2010,6,Rotavirus,0
+2010,6,Hib,14
+2010,6,Pneumococcal,18
+2010,6,Hepatitis A,108
+2010,6,Meningococcal,
+2010,7,Hepatitis B,49
+2010,7,Diphtheria,109
+2010,7,Tetanus,109
+2010,7,Pertussis,92
+2010,7,Polio,53
+2010,7,Human Papilloma Virus,0
+2010,7,Varicella,96
+2010,7,Measles,37
+2010,7,Mumps,37
+2010,7,Rubella,37
+2010,7,Influenza,395
+2010,7,Rotavirus,0
+2010,7,Hib,
+2010,7,Pneumococcal,
+2010,7,Hepatitis A,108
+2010,7,Meningococcal,
+2010,8,Hepatitis B,66
+2010,8,Diphtheria,114
+2010,8,Tetanus,114
+2010,8,Pertussis,103
+2010,8,Polio,56
+2010,8,Human Papilloma Virus,0
+2010,8,Varicella,147
+2010,8,Measles,31
+2010,8,Mumps,31
+2010,8,Rubella,31
+2010,8,Influenza,451
+2010,8,Rotavirus,0
+2010,8,Hib,
+2010,8,Pneumococcal,
+2010,8,Hepatitis A,118
+2010,8,Meningococcal,
+2010,9,Hepatitis B,60
+2010,9,Diphtheria,218
+2010,9,Tetanus,218
+2010,9,Pertussis,188
+2010,9,Polio,58
+2010,9,Human Papilloma Virus,315
+2010,9,Varicella,216
+2010,9,Measles,43
+2010,9,Mumps,43
+2010,9,Rubella,44
+2010,9,Influenza,525
+2010,9,Rotavirus,0
+2010,9,Hib,
+2010,9,Pneumococcal,
+2010,9,Hepatitis A,149
+2010,9,Meningococcal,11
+2010,10,Hepatitis B,84
+2010,10,Diphtheria,690
+2010,10,Tetanus,690
+2010,10,Pertussis,662
+2010,10,Polio,93
+2010,10,Human Papilloma Virus,496
+2010,10,Varicella,338
+2010,10,Measles,62
+2010,10,Mumps,61
+2010,10,Rubella,61
+2010,10,Influenza,630
+2010,10,Rotavirus,0
+2010,10,Hib,
+2010,10,Pneumococcal,16
+2010,10,Hepatitis A,179
+2010,10,Meningococcal,83
+2010,11,Hepatitis B,136
+2010,11,Diphtheria,2281
+2010,11,Tetanus,2281
+2010,11,Pertussis,2229
+2010,11,Polio,140
+2010,11,Human Papilloma Virus,2339
+2010,11,Varicella,603
+2010,11,Measles,89
+2010,11,Mumps,89
+2010,11,Rubella,89
+2010,11,Influenza,967
+2010,11,Rotavirus,0
+2010,11,Hib,
+2010,11,Pneumococcal,26
+2010,11,Hepatitis A,235
+2010,11,Meningococcal,2202
+2010,12,Hepatitis B,189
+2010,12,Diphtheria,1951
+2010,12,Tetanus,1951
+2010,12,Pertussis,1905
+2010,12,Polio,158
+2010,12,Human Papilloma Virus,2351
+2010,12,Varicella,702
+2010,12,Measles,83
+2010,12,Mumps,83
+2010,12,Rubella,83
+2010,12,Influenza,987
+2010,12,Rotavirus,0
+2010,12,Hib,12
+2010,12,Pneumococcal,11
+2010,12,Hepatitis A,251
+2010,12,Meningococcal,1699
+2010,13,Hepatitis B,162
+2010,13,Diphtheria,1423
+2010,13,Tetanus,1423
+2010,13,Pertussis,1390
+2010,13,Polio,151
+2010,13,Human Papilloma Virus,1850
+2010,13,Varicella,635
+2010,13,Measles,97
+2010,13,Mumps,97
+2010,13,Rubella,97
+2010,13,Influenza,830
+2010,13,Rotavirus,0
+2010,13,Hib,
+2010,13,Pneumococcal,22
+2010,13,Hepatitis A,225
+2010,13,Meningococcal,1120
+2010,14,Hepatitis B,145
+2010,14,Diphtheria,1229
+2010,14,Tetanus,1229
+2010,14,Pertussis,1174
+2010,14,Polio,150
+2010,14,Human Papilloma Virus,1701
+2010,14,Varicella,522
+2010,14,Measles,104
+2010,14,Mumps,104
+2010,14,Rubella,104
+2010,14,Influenza,799
+2010,14,Rotavirus,0
+2010,14,Hib,
+2010,14,Pneumococcal,15
+2010,14,Hepatitis A,234
+2010,14,Meningococcal,890
+2010,15,Hepatitis B,151
+2010,15,Diphtheria,1003
+2010,15,Tetanus,1003
+2010,15,Pertussis,958
+2010,15,Polio,123
+2010,15,Human Papilloma Virus,1582
+2010,15,Varicella,514
+2010,15,Measles,93
+2010,15,Mumps,93
+2010,15,Rubella,94
+2010,15,Influenza,846
+2010,15,Rotavirus,0
+2010,15,Hib,
+2010,15,Pneumococcal,12
+2010,15,Hepatitis A,248
+2010,15,Meningococcal,756
+2010,16,Hepatitis B,126
+2010,16,Diphtheria,936
+2010,16,Tetanus,936
+2010,16,Pertussis,890
+2010,16,Polio,128
+2010,16,Human Papilloma Virus,1488
+2010,16,Varicella,452
+2010,16,Measles,90
+2010,16,Mumps,90
+2010,16,Rubella,90
+2010,16,Influenza,743
+2010,16,Rotavirus,0
+2010,16,Hib,
+2010,16,Pneumococcal,
+2010,16,Hepatitis A,272
+2010,16,Meningococcal,883
+2010,17,Hepatitis B,100
+2010,17,Diphtheria,736
+2010,17,Tetanus,736
+2010,17,Pertussis,704
+2010,17,Polio,90
+2010,17,Human Papilloma Virus,1087
+2010,17,Varicella,314
+2010,17,Measles,62
+2010,17,Mumps,62
+2010,17,Rubella,62
+2010,17,Influenza,539
+2010,17,Rotavirus,0
+2010,17,Hib,
+2010,17,Pneumococcal,
+2010,17,Hepatitis A,201
+2010,17,Meningococcal,631
+2010,18,Hepatitis B,63
+2010,18,Diphtheria,277
+2010,18,Tetanus,277
+2010,18,Pertussis,257
+2010,18,Polio,43
+2010,18,Human Papilloma Virus,453
+2010,18,Varicella,104
+2010,18,Measles,42
+2010,18,Mumps,42
+2010,18,Rubella,42
+2010,18,Influenza,195
+2010,18,Rotavirus,0
+2010,18,Hib,
+2010,18,Pneumococcal,
+2010,18,Hepatitis A,94
+2010,18,Meningococcal,213
+2010,19,Hepatitis B,0
+2010,19,Diphtheria,0
+2010,19,Tetanus,0
+2010,19,Pertussis,0
+2010,19,Polio,0
+2010,19,Human Papilloma Virus,0
+2010,19,Varicella,0
+2010,19,Measles,0
+2010,19,Mumps,0
+2010,19,Rubella,0
+2010,19,Influenza,0
+2010,19,Rotavirus,0
+2010,19,Hib,0
+2010,19,Pneumococcal,0
+2010,19,Hepatitis A,0
+2010,19,Meningococcal,0
+2010,20,Hepatitis B,0
+2010,20,Diphtheria,0
+2010,20,Tetanus,0
+2010,20,Pertussis,0
+2010,20,Polio,0
+2010,20,Human Papilloma Virus,0
+2010,20,Varicella,0
+2010,20,Measles,0
+2010,20,Mumps,0
+2010,20,Rubella,0
+2010,20,Influenza,0
+2010,20,Rotavirus,0
+2010,20,Hib,0
+2010,20,Pneumococcal,0
+2010,20,Hepatitis A,0
+2010,20,Meningococcal,0
+2010,Unknown,Hepatitis B,0
+2010,Unknown,Diphtheria,0
+2010,Unknown,Tetanus,0
+2010,Unknown,Pertussis,0
+2010,Unknown,Polio,0
+2010,Unknown,Human Papilloma Virus,0
+2010,Unknown,Varicella,0
+2010,Unknown,Measles,0
+2010,Unknown,Mumps,0
+2010,Unknown,Rubella,0
+2010,Unknown,Influenza,0
+2010,Unknown,Rotavirus,0
+2010,Unknown,Hib,0
+2010,Unknown,Pneumococcal,0
+2010,Unknown,Hepatitis A,0
+2010,Unknown,Meningococcal,0
+2011,0,Hepatitis B,328466
+2011,0,Diphtheria,416243
+2011,0,Tetanus,416243
+2011,0,Pertussis,415639
+2011,0,Polio,409076
+2011,0,Human Papilloma Virus,0
+2011,0,Varicella,0
+2011,0,Measles,0
+2011,0,Mumps,0
+2011,0,Rubella,0
+2011,0,Influenza,63986
+2011,0,Rotavirus,350302
+2011,0,Hib,413398
+2011,0,Pneumococcal,405488
+2011,0,Hepatitis A,0
+2011,0,Meningococcal,0
+2011,1,Hepatitis B,55276
+2011,1,Diphtheria,169716
+2011,1,Tetanus,169716
+2011,1,Pertussis,169219
+2011,1,Polio,88362
+2011,1,Human Papilloma Virus,0
+2011,1,Varicella,131378
+2011,1,Measles,134054
+2011,1,Mumps,133999
+2011,1,Rubella,134190
+2011,1,Influenza,110565
+2011,1,Rotavirus,0
+2011,1,Hib,168926
+2011,1,Pneumococcal,170747
+2011,1,Hepatitis A,164920
+2011,1,Meningococcal,0
+2011,2,Hepatitis B,6167
+2011,2,Diphtheria,30113
+2011,2,Tetanus,30113
+2011,2,Pertussis,29974
+2011,2,Polio,10779
+2011,2,Human Papilloma Virus,0
+2011,2,Varicella,9660
+2011,2,Measles,9369
+2011,2,Mumps,9361
+2011,2,Rubella,9389
+2011,2,Influenza,58795
+2011,2,Rotavirus,0
+2011,2,Hib,23838
+2011,2,Pneumococcal,25290
+2011,2,Hepatitis A,75419
+2011,2,Meningococcal,440
+2011,3,Hepatitis B,3737
+2011,3,Diphtheria,10799
+2011,3,Tetanus,10799
+2011,3,Pertussis,10720
+2011,3,Polio,5953
+2011,3,Human Papilloma Virus,0
+2011,3,Varicella,6975
+2011,3,Measles,5913
+2011,3,Mumps,5903
+2011,3,Rubella,5915
+2011,3,Influenza,47380
+2011,3,Rotavirus,0
+2011,3,Hib,10067
+2011,3,Pneumococcal,23001
+2011,3,Hepatitis A,20432
+2011,3,Meningococcal,248
+2011,4,Hepatitis B,4254
+2011,4,Diphtheria,118110
+2011,4,Tetanus,118110
+2011,4,Pertussis,117944
+2011,4,Polio,115174
+2011,4,Human Papilloma Virus,0
+2011,4,Varicella,107145
+2011,4,Measles,113690
+2011,4,Mumps,113597
+2011,4,Rubella,113675
+2011,4,Influenza,47255
+2011,4,Rotavirus,0
+2011,4,Hib,15442
+2011,4,Pneumococcal,28322
+2011,4,Hepatitis A,12504
+2011,4,Meningococcal,354
+2011,5,Hepatitis B,2797
+2011,5,Diphtheria,21880
+2011,5,Tetanus,21880
+2011,5,Pertussis,21823
+2011,5,Polio,20907
+2011,5,Human Papilloma Virus,0
+2011,5,Varicella,21147
+2011,5,Measles,20615
+2011,5,Mumps,20598
+2011,5,Rubella,20610
+2011,5,Influenza,34171
+2011,5,Rotavirus,0
+2011,5,Hib,2413
+2011,5,Pneumococcal,4902
+2011,5,Hepatitis A,7522
+2011,5,Meningococcal,227
+2011,6,Hepatitis B,3049
+2011,6,Diphtheria,7726
+2011,6,Tetanus,7726
+2011,6,Pertussis,7673
+2011,6,Polio,5993
+2011,6,Human Papilloma Virus,0
+2011,6,Varicella,6282
+2011,6,Measles,4378
+2011,6,Mumps,4370
+2011,6,Rubella,4381
+2011,6,Influenza,34224
+2011,6,Rotavirus,0
+2011,6,Hib,2769
+2011,6,Pneumococcal,3276
+2011,6,Hepatitis A,5536
+2011,6,Meningococcal,873
+2011,7,Hepatitis B,1177
+2011,7,Diphtheria,3833
+2011,7,Tetanus,3833
+2011,7,Pertussis,3535
+2011,7,Polio,2000
+2011,7,Human Papilloma Virus,0
+2011,7,Varicella,2873
+2011,7,Measles,1502
+2011,7,Mumps,1499
+2011,7,Rubella,1501
+2011,7,Influenza,24731
+2011,7,Rotavirus,0
+2011,7,Hib,180
+2011,7,Pneumococcal,248
+2011,7,Hepatitis A,3353
+2011,7,Meningococcal,204
+2011,8,Hepatitis B,1280
+2011,8,Diphtheria,3589
+2011,8,Tetanus,3589
+2011,8,Pertussis,3182
+2011,8,Polio,1936
+2011,8,Human Papilloma Virus,0
+2011,8,Varicella,2855
+2011,8,Measles,1364
+2011,8,Mumps,1360
+2011,8,Rubella,1362
+2011,8,Influenza,22331
+2011,8,Rotavirus,0
+2011,8,Hib,105
+2011,8,Pneumococcal,227
+2011,8,Hepatitis A,3228
+2011,8,Meningococcal,187
+2011,9,Hepatitis B,1480
+2011,9,Diphtheria,5230
+2011,9,Tetanus,5230
+2011,9,Pertussis,4905
+2011,9,Polio,1661
+2011,9,Human Papilloma Virus,7365
+2011,9,Varicella,3853
+2011,9,Measles,1144
+2011,9,Mumps,1144
+2011,9,Rubella,1147
+2011,9,Influenza,19915
+2011,9,Rotavirus,0
+2011,9,Hib,110
+2011,9,Pneumococcal,162
+2011,9,Hepatitis A,3292
+2011,9,Meningococcal,382
+2011,10,Hepatitis B,1948
+2011,10,Diphtheria,21772
+2011,10,Tetanus,21772
+2011,10,Pertussis,21193
+2011,10,Polio,1994
+2011,10,Human Papilloma Virus,12236
+2011,10,Varicella,6281
+2011,10,Measles,1313
+2011,10,Mumps,1308
+2011,10,Rubella,1316
+2011,10,Influenza,18862
+2011,10,Rotavirus,0
+2011,10,Hib,322
+2011,10,Pneumococcal,398
+2011,10,Hepatitis A,3748
+2011,10,Meningococcal,2768
+2011,11,Hepatitis B,2944
+2011,11,Diphtheria,52318
+2011,11,Tetanus,52318
+2011,11,Pertussis,51358
+2011,11,Polio,2454
+2011,11,Human Papilloma Virus,53150
+2011,11,Varicella,11948
+2011,11,Measles,1572
+2011,11,Mumps,1559
+2011,11,Rubella,1568
+2011,11,Influenza,22419
+2011,11,Rotavirus,0
+2011,11,Hib,249
+2011,11,Pneumococcal,456
+2011,11,Hepatitis A,5484
+2011,11,Meningococcal,53081
+2011,12,Hepatitis B,3356
+2011,12,Diphtheria,31840
+2011,12,Tetanus,31840
+2011,12,Pertussis,31213
+2011,12,Polio,2310
+2011,12,Human Papilloma Virus,48455
+2011,12,Varicella,12175
+2011,12,Measles,1594
+2011,12,Mumps,1582
+2011,12,Rubella,1593
+2011,12,Influenza,18655
+2011,12,Rotavirus,0
+2011,12,Hib,180
+2011,12,Pneumococcal,309
+2011,12,Hepatitis A,6394
+2011,12,Meningococcal,30572
+2011,13,Hepatitis B,3463
+2011,13,Diphtheria,21388
+2011,13,Tetanus,21388
+2011,13,Pertussis,20923
+2011,13,Polio,2233
+2011,13,Human Papilloma Virus,38701
+2011,13,Varicella,10250
+2011,13,Measles,1459
+2011,13,Mumps,1453
+2011,13,Rubella,1465
+2011,13,Influenza,16860
+2011,13,Rotavirus,0
+2011,13,Hib,136
+2011,13,Pneumococcal,269
+2011,13,Hepatitis A,6200
+2011,13,Meningococcal,19295
+2011,14,Hepatitis B,3630
+2011,14,Diphtheria,19390
+2011,14,Tetanus,19390
+2011,14,Pertussis,18951
+2011,14,Polio,2436
+2011,14,Human Papilloma Virus,37141
+2011,14,Varicella,9944
+2011,14,Measles,1591
+2011,14,Mumps,1583
+2011,14,Rubella,1594
+2011,14,Influenza,16613
+2011,14,Rotavirus,0
+2011,14,Hib,114
+2011,14,Pneumococcal,247
+2011,14,Hepatitis A,7446
+2011,14,Meningococcal,16895
+2011,15,Hepatitis B,3512
+2011,15,Diphtheria,19200
+2011,15,Tetanus,19200
+2011,15,Pertussis,18676
+2011,15,Polio,2481
+2011,15,Human Papilloma Virus,34452
+2011,15,Varicella,9456
+2011,15,Measles,1635
+2011,15,Mumps,1633
+2011,15,Rubella,1637
+2011,15,Influenza,16779
+2011,15,Rotavirus,0
+2011,15,Hib,128
+2011,15,Pneumococcal,241
+2011,15,Hepatitis A,8164
+2011,15,Meningococcal,15664
+2011,16,Hepatitis B,3601
+2011,16,Diphtheria,21028
+2011,16,Tetanus,21028
+2011,16,Pertussis,19746
+2011,16,Polio,2673
+2011,16,Human Papilloma Virus,33157
+2011,16,Varicella,9086
+2011,16,Measles,1672
+2011,16,Mumps,1658
+2011,16,Rubella,1662
+2011,16,Influenza,15935
+2011,16,Rotavirus,0
+2011,16,Hib,126
+2011,16,Pneumococcal,299
+2011,16,Hepatitis A,9074
+2011,16,Meningococcal,27561
+2011,17,Hepatitis B,2649
+2011,17,Diphtheria,19356
+2011,17,Tetanus,19356
+2011,17,Pertussis,18426
+2011,17,Polio,2443
+2011,17,Human Papilloma Virus,28029
+2011,17,Varicella,7783
+2011,17,Measles,1543
+2011,17,Mumps,1539
+2011,17,Rubella,1542
+2011,17,Influenza,13578
+2011,17,Rotavirus,0
+2011,17,Hib,112
+2011,17,Pneumococcal,206
+2011,17,Hepatitis A,8169
+2011,17,Meningococcal,21458
+2011,18,Hepatitis B,1407
+2011,18,Diphtheria,7392
+2011,18,Tetanus,7392
+2011,18,Pertussis,7098
+2011,18,Polio,1186
+2011,18,Human Papilloma Virus,11021
+2011,18,Varicella,2728
+2011,18,Measles,970
+2011,18,Mumps,965
+2011,18,Rubella,965
+2011,18,Influenza,6278
+2011,18,Rotavirus,0
+2011,18,Hib,54
+2011,18,Pneumococcal,109
+2011,18,Hepatitis A,3058
+2011,18,Meningococcal,7670
+2011,19,Hepatitis B,154
+2011,19,Diphtheria,1100
+2011,19,Tetanus,1100
+2011,19,Pertussis,1043
+2011,19,Polio,68
+2011,19,Human Papilloma Virus,1667
+2011,19,Varicella,263
+2011,19,Measles,60
+2011,19,Mumps,57
+2011,19,Rubella,58
+2011,19,Influenza,1698
+2011,19,Rotavirus,0
+2011,19,Hib,20
+2011,19,Pneumococcal,35
+2011,19,Hepatitis A,282
+2011,19,Meningococcal,993
+2011,20,Hepatitis B,583
+2011,20,Diphtheria,1522
+2011,20,Tetanus,1522
+2011,20,Pertussis,1475
+2011,20,Polio,564
+2011,20,Human Papilloma Virus,1139
+2011,20,Varicella,500
+2011,20,Measles,340
+2011,20,Mumps,339
+2011,20,Rubella,339
+2011,20,Influenza,1454
+2011,20,Rotavirus,0
+2011,20,Hib,462
+2011,20,Pneumococcal,493
+2011,20,Hepatitis A,463
+2011,20,Meningococcal,634
+2011,Unknown,Hepatitis B,435
+2011,Unknown,Diphtheria,659
+2011,Unknown,Tetanus,659
+2011,Unknown,Pertussis,656
+2011,Unknown,Polio,566
+2011,Unknown,Human Papilloma Virus,78
+2011,Unknown,Varicella,103
+2011,Unknown,Measles,82
+2011,Unknown,Mumps,82
+2011,Unknown,Rubella,84
+2011,Unknown,Influenza,201
+2011,Unknown,Rotavirus,0
+2011,Unknown,Hib,567
+2011,Unknown,Pneumococcal,577
+2011,Unknown,Hepatitis A,113
+2011,Unknown,Meningococcal,46
+2011,0,Hepatitis B,97632
+2011,0,Diphtheria,116061
+2011,0,Tetanus,116061
+2011,0,Pertussis,115913
+2011,0,Polio,114835
+2011,0,Human Papilloma Virus,0
+2011,0,Varicella,0
+2011,0,Measles,0
+2011,0,Mumps,0
+2011,0,Rubella,0
+2011,0,Influenza,7380
+2011,0,Rotavirus,103744
+2011,0,Hib,115094
+2011,0,Pneumococcal,111988
+2011,0,Hepatitis A,0
+2011,0,Meningococcal,0
+2011,1,Hepatitis B,5880
+2011,1,Diphtheria,17815
+2011,1,Tetanus,17815
+2011,1,Pertussis,17760
+2011,1,Polio,9479
+2011,1,Human Papilloma Virus,0
+2011,1,Varicella,13647
+2011,1,Measles,13833
+2011,1,Mumps,13828
+2011,1,Rubella,13899
+2011,1,Influenza,11053
+2011,1,Rotavirus,0
+2011,1,Hib,17495
+2011,1,Pneumococcal,17653
+2011,1,Hepatitis A,16156
+2011,1,Meningococcal,0
+2011,2,Hepatitis B,847
+2011,2,Diphtheria,3573
+2011,2,Tetanus,3573
+2011,2,Pertussis,3552
+2011,2,Polio,1547
+2011,2,Human Papilloma Virus,0
+2011,2,Varicella,1204
+2011,2,Measles,1193
+2011,2,Mumps,1191
+2011,2,Rubella,1196
+2011,2,Influenza,5896
+2011,2,Rotavirus,0
+2011,2,Hib,2961
+2011,2,Pneumococcal,3055
+2011,2,Hepatitis A,8807
+2011,2,Meningococcal,33
+2011,3,Hepatitis B,540
+2011,3,Diphtheria,1378
+2011,3,Tetanus,1378
+2011,3,Pertussis,1368
+2011,3,Polio,797
+2011,3,Human Papilloma Virus,0
+2011,3,Varicella,803
+2011,3,Measles,656
+2011,3,Mumps,655
+2011,3,Rubella,657
+2011,3,Influenza,4881
+2011,3,Rotavirus,0
+2011,3,Hib,1297
+2011,3,Pneumococcal,2657
+2011,3,Hepatitis A,2809
+2011,3,Meningococcal,14
+2011,4,Hepatitis B,489
+2011,4,Diphtheria,11760
+2011,4,Tetanus,11760
+2011,4,Pertussis,11748
+2011,4,Polio,11478
+2011,4,Human Papilloma Virus,0
+2011,4,Varicella,10272
+2011,4,Measles,11084
+2011,4,Mumps,11077
+2011,4,Rubella,11086
+2011,4,Influenza,4575
+2011,4,Rotavirus,0
+2011,4,Hib,1734
+2011,4,Pneumococcal,2760
+2011,4,Hepatitis A,1447
+2011,4,Meningococcal,26
+2011,5,Hepatitis B,350
+2011,5,Diphtheria,2964
+2011,5,Tetanus,2964
+2011,5,Pertussis,2960
+2011,5,Polio,2822
+2011,5,Human Papilloma Virus,0
+2011,5,Varicella,2788
+2011,5,Measles,2788
+2011,5,Mumps,2787
+2011,5,Rubella,2789
+2011,5,Influenza,3128
+2011,5,Rotavirus,0
+2011,5,Hib,295
+2011,5,Pneumococcal,458
+2011,5,Hepatitis A,902
+2011,5,Meningococcal,14
+2011,6,Hepatitis B,137
+2011,6,Diphtheria,519
+2011,6,Tetanus,519
+2011,6,Pertussis,514
+2011,6,Polio,414
+2011,6,Human Papilloma Virus,0
+2011,6,Varicella,598
+2011,6,Measles,393
+2011,6,Mumps,392
+2011,6,Rubella,393
+2011,6,Influenza,3015
+2011,6,Rotavirus,0
+2011,6,Hib,41
+2011,6,Pneumococcal,65
+2011,6,Hepatitis A,459
+2011,6,Meningococcal,17
+2011,7,Hepatitis B,122
+2011,7,Diphtheria,444
+2011,7,Tetanus,444
+2011,7,Pertussis,407
+2011,7,Polio,207
+2011,7,Human Papilloma Virus,0
+2011,7,Varicella,303
+2011,7,Measles,171
+2011,7,Mumps,170
+2011,7,Rubella,172
+2011,7,Influenza,2385
+2011,7,Rotavirus,0
+2011,7,Hib,20
+2011,7,Pneumococcal,22
+2011,7,Hepatitis A,367
+2011,7,Meningococcal,12
+2011,8,Hepatitis B,110
+2011,8,Diphtheria,359
+2011,8,Tetanus,359
+2011,8,Pertussis,329
+2011,8,Polio,170
+2011,8,Human Papilloma Virus,0
+2011,8,Varicella,278
+2011,8,Measles,131
+2011,8,Mumps,130
+2011,8,Rubella,130
+2011,8,Influenza,2057
+2011,8,Rotavirus,0
+2011,8,Hib,
+2011,8,Pneumococcal,20
+2011,8,Hepatitis A,307
+2011,8,Meningococcal,16
+2011,9,Hepatitis B,82
+2011,9,Diphtheria,560
+2011,9,Tetanus,560
+2011,9,Pertussis,540
+2011,9,Polio,135
+2011,9,Human Papilloma Virus,518
+2011,9,Varicella,376
+2011,9,Measles,110
+2011,9,Mumps,110
+2011,9,Rubella,112
+2011,9,Influenza,1911
+2011,9,Rotavirus,0
+2011,9,Hib,
+2011,9,Pneumococcal,
+2011,9,Hepatitis A,270
+2011,9,Meningococcal,22
+2011,10,Hepatitis B,88
+2011,10,Diphtheria,2056
+2011,10,Tetanus,2056
+2011,10,Pertussis,2007
+2011,10,Polio,129
+2011,10,Human Papilloma Virus,961
+2011,10,Varicella,617
+2011,10,Measles,108
+2011,10,Mumps,108
+2011,10,Rubella,108
+2011,10,Influenza,1768
+2011,10,Rotavirus,0
+2011,10,Hib,
+2011,10,Pneumococcal,12
+2011,10,Hepatitis A,260
+2011,10,Meningococcal,296
+2011,11,Hepatitis B,119
+2011,11,Diphtheria,4557
+2011,11,Tetanus,4557
+2011,11,Pertussis,4468
+2011,11,Polio,181
+2011,11,Human Papilloma Virus,4067
+2011,11,Varicella,1152
+2011,11,Measles,118
+2011,11,Mumps,118
+2011,11,Rubella,121
+2011,11,Influenza,1964
+2011,11,Rotavirus,0
+2011,11,Hib,19
+2011,11,Pneumococcal,31
+2011,11,Hepatitis A,425
+2011,11,Meningococcal,4417
+2011,12,Hepatitis B,134
+2011,12,Diphtheria,3107
+2011,12,Tetanus,3107
+2011,12,Pertussis,3051
+2011,12,Polio,153
+2011,12,Human Papilloma Virus,3823
+2011,12,Varicella,1116
+2011,12,Measles,150
+2011,12,Mumps,150
+2011,12,Rubella,150
+2011,12,Influenza,1681
+2011,12,Rotavirus,0
+2011,12,Hib,15
+2011,12,Pneumococcal,26
+2011,12,Hepatitis A,440
+2011,12,Meningococcal,2642
+2011,13,Hepatitis B,121
+2011,13,Diphtheria,2214
+2011,13,Tetanus,2214
+2011,13,Pertussis,2166
+2011,13,Polio,137
+2011,13,Human Papilloma Virus,3314
+2011,13,Varicella,1011
+2011,13,Measles,118
+2011,13,Mumps,118
+2011,13,Rubella,121
+2011,13,Influenza,1655
+2011,13,Rotavirus,0
+2011,13,Hib,
+2011,13,Pneumococcal,24
+2011,13,Hepatitis A,456
+2011,13,Meningococcal,1799
+2011,14,Hepatitis B,130
+2011,14,Diphtheria,1947
+2011,14,Tetanus,1947
+2011,14,Pertussis,1916
+2011,14,Polio,165
+2011,14,Human Papilloma Virus,3025
+2011,14,Varicella,953
+2011,14,Measles,133
+2011,14,Mumps,133
+2011,14,Rubella,133
+2011,14,Influenza,1546
+2011,14,Rotavirus,0
+2011,14,Hib,
+2011,14,Pneumococcal,20
+2011,14,Hepatitis A,601
+2011,14,Meningococcal,1504
+2011,15,Hepatitis B,189
+2011,15,Diphtheria,2034
+2011,15,Tetanus,2034
+2011,15,Pertussis,1990
+2011,15,Polio,187
+2011,15,Human Papilloma Virus,2843
+2011,15,Varicella,956
+2011,15,Measles,131
+2011,15,Mumps,131
+2011,15,Rubella,131
+2011,15,Influenza,1661
+2011,15,Rotavirus,0
+2011,15,Hib,
+2011,15,Pneumococcal,14
+2011,15,Hepatitis A,703
+2011,15,Meningococcal,1397
+2011,16,Hepatitis B,165
+2011,16,Diphtheria,2197
+2011,16,Tetanus,2197
+2011,16,Pertussis,2147
+2011,16,Polio,215
+2011,16,Human Papilloma Virus,2718
+2011,16,Varicella,904
+2011,16,Measles,134
+2011,16,Mumps,133
+2011,16,Rubella,133
+2011,16,Influenza,1547
+2011,16,Rotavirus,0
+2011,16,Hib,
+2011,16,Pneumococcal,15
+2011,16,Hepatitis A,781
+2011,16,Meningococcal,2329
+2011,17,Hepatitis B,170
+2011,17,Diphtheria,2044
+2011,17,Tetanus,2044
+2011,17,Pertussis,2002
+2011,17,Polio,203
+2011,17,Human Papilloma Virus,2487
+2011,17,Varicella,792
+2011,17,Measles,134
+2011,17,Mumps,134
+2011,17,Rubella,134
+2011,17,Influenza,1414
+2011,17,Rotavirus,0
+2011,17,Hib,11
+2011,17,Pneumococcal,17
+2011,17,Hepatitis A,766
+2011,17,Meningococcal,1944
+2011,18,Hepatitis B,71
+2011,18,Diphtheria,715
+2011,18,Tetanus,715
+2011,18,Pertussis,697
+2011,18,Polio,51
+2011,18,Human Papilloma Virus,885
+2011,18,Varicella,243
+2011,18,Measles,40
+2011,18,Mumps,40
+2011,18,Rubella,40
+2011,18,Influenza,615
+2011,18,Rotavirus,0
+2011,18,Hib,
+2011,18,Pneumococcal,
+2011,18,Hepatitis A,240
+2011,18,Meningococcal,664
+2011,19,Hepatitis B,
+2011,19,Diphtheria,181
+2011,19,Tetanus,181
+2011,19,Pertussis,174
+2011,19,Polio,
+2011,19,Human Papilloma Virus,180
+2011,19,Varicella,46
+2011,19,Measles,
+2011,19,Mumps,
+2011,19,Rubella,
+2011,19,Influenza,243
+2011,19,Rotavirus,0
+2011,19,Hib,
+2011,19,Pneumococcal,
+2011,19,Hepatitis A,34
+2011,19,Meningococcal,131
+2011,20,Hepatitis B,
+2011,20,Diphtheria,111
+2011,20,Tetanus,111
+2011,20,Pertussis,109
+2011,20,Polio,
+2011,20,Human Papilloma Virus,94
+2011,20,Varicella,25
+2011,20,Measles,
+2011,20,Mumps,
+2011,20,Rubella,
+2011,20,Influenza,143
+2011,20,Rotavirus,0
+2011,20,Hib,0
+2011,20,Pneumococcal,
+2011,20,Hepatitis A,13
+2011,20,Meningococcal,63
+2011,Unknown,Hepatitis B,0
+2011,Unknown,Diphtheria,0
+2011,Unknown,Tetanus,0
+2011,Unknown,Pertussis,0
+2011,Unknown,Polio,0
+2011,Unknown,Human Papilloma Virus,0
+2011,Unknown,Varicella,0
+2011,Unknown,Measles,0
+2011,Unknown,Mumps,0
+2011,Unknown,Rubella,0
+2011,Unknown,Influenza,0
+2011,Unknown,Rotavirus,0
+2011,Unknown,Hib,0
+2011,Unknown,Pneumococcal,0
+2011,Unknown,Hepatitis A,0
+2011,Unknown,Meningococcal,0
+2011,0,Hepatitis B,45464
+2011,0,Diphtheria,49926
+2011,0,Tetanus,49926
+2011,0,Pertussis,49865
+2011,0,Polio,49360
+2011,0,Human Papilloma Virus,0
+2011,0,Varicella,0
+2011,0,Measles,0
+2011,0,Mumps,0
+2011,0,Rubella,0
+2011,0,Influenza,3392
+2011,0,Rotavirus,43797
+2011,0,Hib,49623
+2011,0,Pneumococcal,47811
+2011,0,Hepatitis A,0
+2011,0,Meningococcal,0
+2011,1,Hepatitis B,3774
+2011,1,Diphtheria,12167
+2011,1,Tetanus,12167
+2011,1,Pertussis,12140
+2011,1,Polio,6173
+2011,1,Human Papilloma Virus,0
+2011,1,Varicella,9341
+2011,1,Measles,9562
+2011,1,Mumps,9561
+2011,1,Rubella,9577
+2011,1,Influenza,6251
+2011,1,Rotavirus,0
+2011,1,Hib,12011
+2011,1,Pneumococcal,11863
+2011,1,Hepatitis A,11384
+2011,1,Meningococcal,0
+2011,2,Hepatitis B,542
+2011,2,Diphtheria,2426
+2011,2,Tetanus,2426
+2011,2,Pertussis,2412
+2011,2,Polio,898
+2011,2,Human Papilloma Virus,0
+2011,2,Varicella,1007
+2011,2,Measles,868
+2011,2,Mumps,868
+2011,2,Rubella,871
+2011,2,Influenza,2950
+2011,2,Rotavirus,0
+2011,2,Hib,1985
+2011,2,Pneumococcal,2104
+2011,2,Hepatitis A,5399
+2011,2,Meningococcal,39
+2011,3,Hepatitis B,431
+2011,3,Diphtheria,1202
+2011,3,Tetanus,1202
+2011,3,Pertussis,1198
+2011,3,Polio,605
+2011,3,Human Papilloma Virus,0
+2011,3,Varicella,739
+2011,3,Measles,554
+2011,3,Mumps,553
+2011,3,Rubella,553
+2011,3,Influenza,2273
+2011,3,Rotavirus,0
+2011,3,Hib,1163
+2011,3,Pneumococcal,2126
+2011,3,Hepatitis A,2176
+2011,3,Meningococcal,20
+2011,4,Hepatitis B,587
+2011,4,Diphtheria,9942
+2011,4,Tetanus,9942
+2011,4,Pertussis,9925
+2011,4,Polio,9645
+2011,4,Human Papilloma Virus,0
+2011,4,Varicella,8910
+2011,4,Measles,9717
+2011,4,Mumps,9708
+2011,4,Rubella,9712
+2011,4,Influenza,2556
+2011,4,Rotavirus,0
+2011,4,Hib,1761
+2011,4,Pneumococcal,2779
+2011,4,Hepatitis A,2028
+2011,4,Meningococcal,33
+2011,5,Hepatitis B,513
+2011,5,Diphtheria,3135
+2011,5,Tetanus,3135
+2011,5,Pertussis,3133
+2011,5,Polio,3035
+2011,5,Human Papilloma Virus,0
+2011,5,Varicella,3006
+2011,5,Measles,3140
+2011,5,Mumps,3139
+2011,5,Rubella,3140
+2011,5,Influenza,1721
+2011,5,Rotavirus,0
+2011,5,Hib,333
+2011,5,Pneumococcal,554
+2011,5,Hepatitis A,1531
+2011,5,Meningococcal,22
+2011,6,Hepatitis B,334
+2011,6,Diphtheria,913
+2011,6,Tetanus,913
+2011,6,Pertussis,908
+2011,6,Polio,890
+2011,6,Human Papilloma Virus,0
+2011,6,Varicella,1114
+2011,6,Measles,805
+2011,6,Mumps,805
+2011,6,Rubella,805
+2011,6,Influenza,2017
+2011,6,Rotavirus,0
+2011,6,Hib,56
+2011,6,Pneumococcal,104
+2011,6,Hepatitis A,998
+2011,6,Meningococcal,19
+2011,7,Hepatitis B,365
+2011,7,Diphtheria,773
+2011,7,Tetanus,773
+2011,7,Pertussis,675
+2011,7,Polio,604
+2011,7,Human Papilloma Virus,0
+2011,7,Varicella,806
+2011,7,Measles,505
+2011,7,Mumps,505
+2011,7,Rubella,505
+2011,7,Influenza,1493
+2011,7,Rotavirus,0
+2011,7,Hib,26
+2011,7,Pneumococcal,35
+2011,7,Hepatitis A,922
+2011,7,Meningococcal,17
+2011,8,Hepatitis B,549
+2011,8,Diphtheria,874
+2011,8,Tetanus,874
+2011,8,Pertussis,664
+2011,8,Polio,683
+2011,8,Human Papilloma Virus,0
+2011,8,Varicella,808
+2011,8,Measles,563
+2011,8,Mumps,561
+2011,8,Rubella,562
+2011,8,Influenza,1405
+2011,8,Rotavirus,0
+2011,8,Hib,14
+2011,8,Pneumococcal,46
+2011,8,Hepatitis A,973
+2011,8,Meningococcal,31
+2011,9,Hepatitis B,721
+2011,9,Diphtheria,1004
+2011,9,Tetanus,1004
+2011,9,Pertussis,873
+2011,9,Polio,525
+2011,9,Human Papilloma Virus,1259
+2011,9,Varicella,961
+2011,9,Measles,414
+2011,9,Mumps,414
+2011,9,Rubella,415
+2011,9,Influenza,1275
+2011,9,Rotavirus,0
+2011,9,Hib,13
+2011,9,Pneumococcal,24
+2011,9,Hepatitis A,1153
+2011,9,Meningococcal,71
+2011,10,Hepatitis B,1055
+2011,10,Diphtheria,2622
+2011,10,Tetanus,2622
+2011,10,Pertussis,2460
+2011,10,Polio,599
+2011,10,Human Papilloma Virus,2081
+2011,10,Varicella,1251
+2011,10,Measles,473
+2011,10,Mumps,472
+2011,10,Rubella,474
+2011,10,Influenza,1321
+2011,10,Rotavirus,0
+2011,10,Hib,20
+2011,10,Pneumococcal,37
+2011,10,Hepatitis A,1379
+2011,10,Meningococcal,354
+2011,11,Hepatitis B,1738
+2011,11,Diphtheria,7361
+2011,11,Tetanus,7361
+2011,11,Pertussis,7215
+2011,11,Polio,625
+2011,11,Human Papilloma Virus,7994
+2011,11,Varicella,2168
+2011,11,Measles,467
+2011,11,Mumps,467
+2011,11,Rubella,467
+2011,11,Influenza,1689
+2011,11,Rotavirus,0
+2011,11,Hib,18
+2011,11,Pneumococcal,75
+2011,11,Hepatitis A,1960
+2011,11,Meningococcal,7860
+2011,12,Hepatitis B,2091
+2011,12,Diphtheria,5856
+2011,12,Tetanus,5856
+2011,12,Pertussis,5732
+2011,12,Polio,728
+2011,12,Human Papilloma Virus,8451
+2011,12,Varicella,2559
+2011,12,Measles,534
+2011,12,Mumps,534
+2011,12,Rubella,536
+2011,12,Influenza,1523
+2011,12,Rotavirus,0
+2011,12,Hib,21
+2011,12,Pneumococcal,99
+2011,12,Hepatitis A,2390
+2011,12,Meningococcal,6958
+2011,13,Hepatitis B,2156
+2011,13,Diphtheria,4363
+2011,13,Tetanus,4363
+2011,13,Pertussis,4233
+2011,13,Polio,707
+2011,13,Human Papilloma Virus,7354
+2011,13,Varicella,2241
+2011,13,Measles,523
+2011,13,Mumps,523
+2011,13,Rubella,525
+2011,13,Influenza,1435
+2011,13,Rotavirus,0
+2011,13,Hib,23
+2011,13,Pneumococcal,93
+2011,13,Hepatitis A,2314
+2011,13,Meningococcal,5351
+2011,14,Hepatitis B,2383
+2011,14,Diphtheria,4534
+2011,14,Tetanus,4534
+2011,14,Pertussis,4392
+2011,14,Polio,868
+2011,14,Human Papilloma Virus,8091
+2011,14,Varicella,2445
+2011,14,Measles,612
+2011,14,Mumps,611
+2011,14,Rubella,613
+2011,14,Influenza,1581
+2011,14,Rotavirus,0
+2011,14,Hib,26
+2011,14,Pneumococcal,88
+2011,14,Hepatitis A,2733
+2011,14,Meningococcal,5404
+2011,15,Hepatitis B,2222
+2011,15,Diphtheria,4498
+2011,15,Tetanus,4498
+2011,15,Pertussis,4300
+2011,15,Polio,799
+2011,15,Human Papilloma Virus,7829
+2011,15,Varicella,2276
+2011,15,Measles,650
+2011,15,Mumps,649
+2011,15,Rubella,649
+2011,15,Influenza,2194
+2011,15,Rotavirus,0
+2011,15,Hib,13
+2011,15,Pneumococcal,106
+2011,15,Hepatitis A,2842
+2011,15,Meningococcal,4975
+2011,16,Hepatitis B,2266
+2011,16,Diphtheria,5337
+2011,16,Tetanus,5337
+2011,16,Pertussis,4412
+2011,16,Polio,922
+2011,16,Human Papilloma Virus,7835
+2011,16,Varicella,2353
+2011,16,Measles,711
+2011,16,Mumps,709
+2011,16,Rubella,711
+2011,16,Influenza,1987
+2011,16,Rotavirus,0
+2011,16,Hib,23
+2011,16,Pneumococcal,111
+2011,16,Hepatitis A,3068
+2011,16,Meningococcal,6389
+2011,17,Hepatitis B,1402
+2011,17,Diphtheria,4659
+2011,17,Tetanus,4659
+2011,17,Pertussis,4032
+2011,17,Polio,887
+2011,17,Human Papilloma Virus,6262
+2011,17,Varicella,1996
+2011,17,Measles,711
+2011,17,Mumps,709
+2011,17,Rubella,710
+2011,17,Influenza,1748
+2011,17,Rotavirus,0
+2011,17,Hib,28
+2011,17,Pneumococcal,77
+2011,17,Hepatitis A,2422
+2011,17,Meningococcal,4658
+2011,18,Hepatitis B,828
+2011,18,Diphtheria,2127
+2011,18,Tetanus,2127
+2011,18,Pertussis,1957
+2011,18,Polio,667
+2011,18,Human Papilloma Virus,2762
+2011,18,Varicella,940
+2011,18,Measles,646
+2011,18,Mumps,645
+2011,18,Rubella,645
+2011,18,Influenza,938
+2011,18,Rotavirus,0
+2011,18,Hib,14
+2011,18,Pneumococcal,40
+2011,18,Hepatitis A,1197
+2011,18,Meningococcal,1888
+2011,19,Hepatitis B,0
+2011,19,Diphtheria,0
+2011,19,Tetanus,0
+2011,19,Pertussis,0
+2011,19,Polio,0
+2011,19,Human Papilloma Virus,0
+2011,19,Varicella,0
+2011,19,Measles,0
+2011,19,Mumps,0
+2011,19,Rubella,0
+2011,19,Influenza,0
+2011,19,Rotavirus,0
+2011,19,Hib,0
+2011,19,Pneumococcal,0
+2011,19,Hepatitis A,0
+2011,19,Meningococcal,0
+2011,20,Hepatitis B,0
+2011,20,Diphtheria,0
+2011,20,Tetanus,0
+2011,20,Pertussis,0
+2011,20,Polio,0
+2011,20,Human Papilloma Virus,0
+2011,20,Varicella,0
+2011,20,Measles,0
+2011,20,Mumps,0
+2011,20,Rubella,0
+2011,20,Influenza,0
+2011,20,Rotavirus,0
+2011,20,Hib,0
+2011,20,Pneumococcal,0
+2011,20,Hepatitis A,0
+2011,20,Meningococcal,0
+2011,Unknown,Hepatitis B,0
+2011,Unknown,Diphtheria,0
+2011,Unknown,Tetanus,0
+2011,Unknown,Pertussis,0
+2011,Unknown,Polio,0
+2011,Unknown,Human Papilloma Virus,0
+2011,Unknown,Varicella,0
+2011,Unknown,Measles,0
+2011,Unknown,Mumps,0
+2011,Unknown,Rubella,0
+2011,Unknown,Influenza,0
+2011,Unknown,Rotavirus,0
+2011,Unknown,Hib,0
+2011,Unknown,Pneumococcal,0
+2011,Unknown,Hepatitis A,0
+2011,Unknown,Meningococcal,0
+2011,0,Hepatitis B,185292
+2011,0,Diphtheria,250138
+2011,0,Tetanus,250138
+2011,0,Pertussis,249743
+2011,0,Polio,244765
+2011,0,Human Papilloma Virus,0
+2011,0,Varicella,0
+2011,0,Measles,0
+2011,0,Mumps,0
+2011,0,Rubella,0
+2011,0,Influenza,53189
+2011,0,Rotavirus,202686
+2011,0,Hib,248568
+2011,0,Pneumococcal,245572
+2011,0,Hepatitis A,0
+2011,0,Meningococcal,0
+2011,1,Hepatitis B,45581
+2011,1,Diphtheria,139627
+2011,1,Tetanus,139627
+2011,1,Pertussis,139212
+2011,1,Polio,72640
+2011,1,Human Papilloma Virus,0
+2011,1,Varicella,108301
+2011,1,Measles,110577
+2011,1,Mumps,110528
+2011,1,Rubella,110632
+2011,1,Influenza,93202
+2011,1,Rotavirus,0
+2011,1,Hib,139303
+2011,1,Pneumococcal,141114
+2011,1,Hepatitis A,137261
+2011,1,Meningococcal,0
+2011,2,Hepatitis B,4754
+2011,2,Diphtheria,24066
+2011,2,Tetanus,24066
+2011,2,Pertussis,23962
+2011,2,Polio,8306
+2011,2,Human Papilloma Virus,0
+2011,2,Varicella,7412
+2011,2,Measles,7290
+2011,2,Mumps,7284
+2011,2,Rubella,7304
+2011,2,Influenza,49885
+2011,2,Rotavirus,0
+2011,2,Hib,18847
+2011,2,Pneumococcal,20057
+2011,2,Hepatitis A,61119
+2011,2,Meningococcal,368
+2011,3,Hepatitis B,2734
+2011,3,Diphtheria,8176
+2011,3,Tetanus,8176
+2011,3,Pertussis,8112
+2011,3,Polio,4519
+2011,3,Human Papilloma Virus,0
+2011,3,Varicella,5397
+2011,3,Measles,4681
+2011,3,Mumps,4673
+2011,3,Rubella,4683
+2011,3,Influenza,40151
+2011,3,Rotavirus,0
+2011,3,Hib,7577
+2011,3,Pneumococcal,18156
+2011,3,Hepatitis A,15367
+2011,3,Meningococcal,213
+2011,4,Hepatitis B,3134
+2011,4,Diphtheria,96111
+2011,4,Tetanus,96111
+2011,4,Pertussis,95974
+2011,4,Polio,93773
+2011,4,Human Papilloma Virus,0
+2011,4,Varicella,87696
+2011,4,Measles,92617
+2011,4,Mumps,92541
+2011,4,Rubella,92606
+2011,4,Influenza,39971
+2011,4,Rotavirus,0
+2011,4,Hib,11895
+2011,4,Pneumococcal,22674
+2011,4,Hepatitis A,8932
+2011,4,Meningococcal,294
+2011,5,Hepatitis B,1886
+2011,5,Diphtheria,15701
+2011,5,Tetanus,15701
+2011,5,Pertussis,15650
+2011,5,Polio,14977
+2011,5,Human Papilloma Virus,0
+2011,5,Varicella,15265
+2011,5,Measles,14614
+2011,5,Mumps,14599
+2011,5,Rubella,14608
+2011,5,Influenza,29155
+2011,5,Rotavirus,0
+2011,5,Hib,1780
+2011,5,Pneumococcal,3863
+2011,5,Hepatitis A,5015
+2011,5,Meningococcal,191
+2011,6,Hepatitis B,2545
+2011,6,Diphtheria,6236
+2011,6,Tetanus,6236
+2011,6,Pertussis,6193
+2011,6,Polio,4636
+2011,6,Human Papilloma Virus,0
+2011,6,Varicella,4501
+2011,6,Measles,3144
+2011,6,Mumps,3137
+2011,6,Rubella,3147
+2011,6,Influenza,28931
+2011,6,Rotavirus,0
+2011,6,Hib,2671
+2011,6,Pneumococcal,3096
+2011,6,Hepatitis A,4004
+2011,6,Meningococcal,836
+2011,7,Hepatitis B,662
+2011,7,Diphtheria,2526
+2011,7,Tetanus,2526
+2011,7,Pertussis,2369
+2011,7,Polio,1117
+2011,7,Human Papilloma Virus,0
+2011,7,Varicella,1698
+2011,7,Measles,790
+2011,7,Mumps,788
+2011,7,Rubella,788
+2011,7,Influenza,20535
+2011,7,Rotavirus,0
+2011,7,Hib,133
+2011,7,Pneumococcal,187
+2011,7,Hepatitis A,1985
+2011,7,Meningococcal,173
+2011,8,Hepatitis B,588
+2011,8,Diphtheria,2268
+2011,8,Tetanus,2268
+2011,8,Pertussis,2111
+2011,8,Polio,1014
+2011,8,Human Papilloma Virus,0
+2011,8,Varicella,1694
+2011,8,Measles,643
+2011,8,Mumps,642
+2011,8,Rubella,643
+2011,8,Influenza,18549
+2011,8,Rotavirus,0
+2011,8,Hib,82
+2011,8,Pneumococcal,161
+2011,8,Hepatitis A,1874
+2011,8,Meningococcal,135
+2011,9,Hepatitis B,617
+2011,9,Diphtheria,3506
+2011,9,Tetanus,3506
+2011,9,Pertussis,3349
+2011,9,Polio,901
+2011,9,Human Papilloma Virus,5363
+2011,9,Varicella,2427
+2011,9,Measles,585
+2011,9,Mumps,585
+2011,9,Rubella,585
+2011,9,Influenza,16377
+2011,9,Rotavirus,0
+2011,9,Hib,89
+2011,9,Pneumococcal,127
+2011,9,Hepatitis A,1787
+2011,9,Meningococcal,280
+2011,10,Hepatitis B,743
+2011,10,Diphtheria,16440
+2011,10,Tetanus,16440
+2011,10,Pertussis,16077
+2011,10,Polio,1138
+2011,10,Human Papilloma Virus,8726
+2011,10,Varicella,4203
+2011,10,Measles,696
+2011,10,Mumps,692
+2011,10,Rubella,697
+2011,10,Influenza,15326
+2011,10,Rotavirus,0
+2011,10,Hib,295
+2011,10,Pneumococcal,342
+2011,10,Hepatitis A,1977
+2011,10,Meningococcal,2060
+2011,11,Hepatitis B,973
+2011,11,Diphtheria,38107
+2011,11,Tetanus,38107
+2011,11,Pertussis,37414
+2011,11,Polio,1362
+2011,11,Human Papilloma Virus,38422
+2011,11,Varicella,8142
+2011,11,Measles,912
+2011,11,Mumps,899
+2011,11,Rubella,905
+2011,11,Influenza,17851
+2011,11,Rotavirus,0
+2011,11,Hib,201
+2011,11,Pneumococcal,328
+2011,11,Hepatitis A,2877
+2011,11,Meningococcal,38547
+2011,12,Hepatitis B,988
+2011,12,Diphtheria,21181
+2011,12,Tetanus,21181
+2011,12,Pertussis,20756
+2011,12,Polio,1156
+2011,12,Human Papilloma Virus,33481
+2011,12,Varicella,7968
+2011,12,Measles,829
+2011,12,Mumps,819
+2011,12,Rubella,828
+2011,12,Influenza,14666
+2011,12,Rotavirus,0
+2011,12,Hib,137
+2011,12,Pneumococcal,171
+2011,12,Hepatitis A,3317
+2011,12,Meningococcal,19427
+2011,13,Hepatitis B,1022
+2011,13,Diphtheria,13549
+2011,13,Tetanus,13549
+2011,13,Pertussis,13279
+2011,13,Polio,1130
+2011,13,Human Papilloma Virus,25765
+2011,13,Varicella,6464
+2011,13,Measles,747
+2011,13,Mumps,744
+2011,13,Rubella,751
+2011,13,Influenza,13061
+2011,13,Rotavirus,0
+2011,13,Hib,103
+2011,13,Pneumococcal,141
+2011,13,Hepatitis A,3207
+2011,13,Meningococcal,11129
+2011,14,Hepatitis B,988
+2011,14,Diphtheria,11880
+2011,14,Tetanus,11880
+2011,14,Pertussis,11642
+2011,14,Polio,1146
+2011,14,Human Papilloma Virus,24058
+2011,14,Varicella,6125
+2011,14,Measles,748
+2011,14,Mumps,741
+2011,14,Rubella,749
+2011,14,Influenza,12797
+2011,14,Rotavirus,0
+2011,14,Hib,83
+2011,14,Pneumococcal,126
+2011,14,Hepatitis A,3898
+2011,14,Meningococcal,9230
+2011,15,Hepatitis B,965
+2011,15,Diphtheria,11650
+2011,15,Tetanus,11650
+2011,15,Pertussis,11389
+2011,15,Polio,1233
+2011,15,Human Papilloma Virus,21798
+2011,15,Varicella,5733
+2011,15,Measles,764
+2011,15,Mumps,763
+2011,15,Rubella,767
+2011,15,Influenza,12215
+2011,15,Rotavirus,0
+2011,15,Hib,102
+2011,15,Pneumococcal,112
+2011,15,Hepatitis A,4380
+2011,15,Meningococcal,8598
+2011,16,Hepatitis B,1026
+2011,16,Diphtheria,12399
+2011,16,Tetanus,12399
+2011,16,Pertussis,12124
+2011,16,Polio,1267
+2011,16,Human Papilloma Virus,20710
+2011,16,Varicella,5346
+2011,16,Measles,737
+2011,16,Mumps,729
+2011,16,Rubella,731
+2011,16,Influenza,11679
+2011,16,Rotavirus,0
+2011,16,Hib,94
+2011,16,Pneumococcal,158
+2011,16,Hepatitis A,4961
+2011,16,Meningococcal,17301
+2011,17,Hepatitis B,948
+2011,17,Diphtheria,11588
+2011,17,Tetanus,11588
+2011,17,Pertussis,11353
+2011,17,Polio,1133
+2011,17,Human Papilloma Virus,17626
+2011,17,Varicella,4581
+2011,17,Measles,610
+2011,17,Mumps,609
+2011,17,Rubella,611
+2011,17,Influenza,9803
+2011,17,Rotavirus,0
+2011,17,Hib,67
+2011,17,Pneumococcal,108
+2011,17,Hepatitis A,4704
+2011,17,Meningococcal,13622
+2011,18,Hepatitis B,450
+2011,18,Diphtheria,4179
+2011,18,Tetanus,4179
+2011,18,Pertussis,4090
+2011,18,Polio,391
+2011,18,Human Papilloma Virus,6789
+2011,18,Varicella,1416
+2011,18,Measles,250
+2011,18,Mumps,246
+2011,18,Rubella,246
+2011,18,Influenza,4502
+2011,18,Rotavirus,0
+2011,18,Hib,32
+2011,18,Pneumococcal,54
+2011,18,Hepatitis A,1527
+2011,18,Meningococcal,4760
+2011,19,Hepatitis B,149
+2011,19,Diphtheria,919
+2011,19,Tetanus,919
+2011,19,Pertussis,869
+2011,19,Polio,64
+2011,19,Human Papilloma Virus,1487
+2011,19,Varicella,217
+2011,19,Measles,55
+2011,19,Mumps,52
+2011,19,Rubella,53
+2011,19,Influenza,1455
+2011,19,Rotavirus,0
+2011,19,Hib,19
+2011,19,Pneumococcal,29
+2011,19,Hepatitis A,248
+2011,19,Meningococcal,862
+2011,20,Hepatitis B,572
+2011,20,Diphtheria,1411
+2011,20,Tetanus,1411
+2011,20,Pertussis,1366
+2011,20,Polio,559
+2011,20,Human Papilloma Virus,1045
+2011,20,Varicella,475
+2011,20,Measles,332
+2011,20,Mumps,331
+2011,20,Rubella,331
+2011,20,Influenza,1311
+2011,20,Rotavirus,0
+2011,20,Hib,462
+2011,20,Pneumococcal,488
+2011,20,Hepatitis A,450
+2011,20,Meningococcal,571
+2011,Unknown,Hepatitis B,435
+2011,Unknown,Diphtheria,659
+2011,Unknown,Tetanus,659
+2011,Unknown,Pertussis,656
+2011,Unknown,Polio,566
+2011,Unknown,Human Papilloma Virus,78
+2011,Unknown,Varicella,103
+2011,Unknown,Measles,82
+2011,Unknown,Mumps,82
+2011,Unknown,Rubella,84
+2011,Unknown,Influenza,201
+2011,Unknown,Rotavirus,0
+2011,Unknown,Hib,567
+2011,Unknown,Pneumococcal,577
+2011,Unknown,Hepatitis A,113
+2011,Unknown,Meningococcal,46
+2011,0,Hepatitis B,78
+2011,0,Diphtheria,118
+2011,0,Tetanus,118
+2011,0,Pertussis,118
+2011,0,Polio,116
+2011,0,Human Papilloma Virus,0
+2011,0,Varicella,0
+2011,0,Measles,0
+2011,0,Mumps,0
+2011,0,Rubella,0
+2011,0,Influenza,25
+2011,0,Rotavirus,75
+2011,0,Hib,113
+2011,0,Pneumococcal,117
+2011,0,Hepatitis A,0
+2011,0,Meningococcal,0
+2011,1,Hepatitis B,41
+2011,1,Diphtheria,107
+2011,1,Tetanus,107
+2011,1,Pertussis,107
+2011,1,Polio,70
+2011,1,Human Papilloma Virus,0
+2011,1,Varicella,89
+2011,1,Measles,82
+2011,1,Mumps,82
+2011,1,Rubella,82
+2011,1,Influenza,59
+2011,1,Rotavirus,0
+2011,1,Hib,117
+2011,1,Pneumococcal,117
+2011,1,Hepatitis A,119
+2011,1,Meningococcal,0
+2011,2,Hepatitis B,24
+2011,2,Diphtheria,48
+2011,2,Tetanus,48
+2011,2,Pertussis,48
+2011,2,Polio,28
+2011,2,Human Papilloma Virus,0
+2011,2,Varicella,37
+2011,2,Measles,18
+2011,2,Mumps,18
+2011,2,Rubella,18
+2011,2,Influenza,64
+2011,2,Rotavirus,0
+2011,2,Hib,45
+2011,2,Pneumococcal,74
+2011,2,Hepatitis A,94
+2011,2,Meningococcal,0
+2011,3,Hepatitis B,32
+2011,3,Diphtheria,43
+2011,3,Tetanus,43
+2011,3,Pertussis,42
+2011,3,Polio,32
+2011,3,Human Papilloma Virus,0
+2011,3,Varicella,36
+2011,3,Measles,22
+2011,3,Mumps,22
+2011,3,Rubella,22
+2011,3,Influenza,75
+2011,3,Rotavirus,0
+2011,3,Hib,30
+2011,3,Pneumococcal,62
+2011,3,Hepatitis A,80
+2011,3,Meningococcal,
+2011,4,Hepatitis B,44
+2011,4,Diphtheria,297
+2011,4,Tetanus,297
+2011,4,Pertussis,297
+2011,4,Polio,278
+2011,4,Human Papilloma Virus,0
+2011,4,Varicella,267
+2011,4,Measles,272
+2011,4,Mumps,271
+2011,4,Rubella,271
+2011,4,Influenza,153
+2011,4,Rotavirus,0
+2011,4,Hib,52
+2011,4,Pneumococcal,109
+2011,4,Hepatitis A,97
+2011,4,Meningococcal,
+2011,5,Hepatitis B,48
+2011,5,Diphtheria,80
+2011,5,Tetanus,80
+2011,5,Pertussis,80
+2011,5,Polio,73
+2011,5,Human Papilloma Virus,0
+2011,5,Varicella,88
+2011,5,Measles,73
+2011,5,Mumps,73
+2011,5,Rubella,73
+2011,5,Influenza,167
+2011,5,Rotavirus,0
+2011,5,Hib,
+2011,5,Pneumococcal,27
+2011,5,Hepatitis A,74
+2011,5,Meningococcal,0
+2011,6,Hepatitis B,33
+2011,6,Diphtheria,58
+2011,6,Tetanus,58
+2011,6,Pertussis,58
+2011,6,Polio,53
+2011,6,Human Papilloma Virus,0
+2011,6,Varicella,69
+2011,6,Measles,36
+2011,6,Mumps,36
+2011,6,Rubella,36
+2011,6,Influenza,261
+2011,6,Rotavirus,0
+2011,6,Hib,
+2011,6,Pneumococcal,11
+2011,6,Hepatitis A,75
+2011,6,Meningococcal,
+2011,7,Hepatitis B,28
+2011,7,Diphtheria,90
+2011,7,Tetanus,90
+2011,7,Pertussis,84
+2011,7,Polio,72
+2011,7,Human Papilloma Virus,0
+2011,7,Varicella,66
+2011,7,Measles,36
+2011,7,Mumps,36
+2011,7,Rubella,36
+2011,7,Influenza,318
+2011,7,Rotavirus,0
+2011,7,Hib,
+2011,7,Pneumococcal,
+2011,7,Hepatitis A,79
+2011,7,Meningococcal,
+2011,8,Hepatitis B,33
+2011,8,Diphtheria,88
+2011,8,Tetanus,88
+2011,8,Pertussis,78
+2011,8,Polio,69
+2011,8,Human Papilloma Virus,0
+2011,8,Varicella,75
+2011,8,Measles,27
+2011,8,Mumps,27
+2011,8,Rubella,27
+2011,8,Influenza,320
+2011,8,Rotavirus,0
+2011,8,Hib,
+2011,8,Pneumococcal,0
+2011,8,Hepatitis A,74
+2011,8,Meningococcal,
+2011,9,Hepatitis B,60
+2011,9,Diphtheria,160
+2011,9,Tetanus,160
+2011,9,Pertussis,143
+2011,9,Polio,100
+2011,9,Human Papilloma Virus,225
+2011,9,Varicella,89
+2011,9,Measles,35
+2011,9,Mumps,35
+2011,9,Rubella,35
+2011,9,Influenza,352
+2011,9,Rotavirus,0
+2011,9,Hib,
+2011,9,Pneumococcal,
+2011,9,Hepatitis A,82
+2011,9,Meningococcal,
+2011,10,Hepatitis B,62
+2011,10,Diphtheria,654
+2011,10,Tetanus,654
+2011,10,Pertussis,649
+2011,10,Polio,128
+2011,10,Human Papilloma Virus,468
+2011,10,Varicella,210
+2011,10,Measles,36
+2011,10,Mumps,36
+2011,10,Rubella,37
+2011,10,Influenza,447
+2011,10,Rotavirus,0
+2011,10,Hib,0
+2011,10,Pneumococcal,
+2011,10,Hepatitis A,132
+2011,10,Meningococcal,58
+2011,11,Hepatitis B,114
+2011,11,Diphtheria,2293
+2011,11,Tetanus,2293
+2011,11,Pertussis,2261
+2011,11,Polio,286
+2011,11,Human Papilloma Virus,2667
+2011,11,Varicella,486
+2011,11,Measles,75
+2011,11,Mumps,75
+2011,11,Rubella,75
+2011,11,Influenza,915
+2011,11,Rotavirus,0
+2011,11,Hib,11
+2011,11,Pneumococcal,22
+2011,11,Hepatitis A,222
+2011,11,Meningococcal,2257
+2011,12,Hepatitis B,143
+2011,12,Diphtheria,1696
+2011,12,Tetanus,1696
+2011,12,Pertussis,1674
+2011,12,Polio,273
+2011,12,Human Papilloma Virus,2700
+2011,12,Varicella,532
+2011,12,Measles,81
+2011,12,Mumps,79
+2011,12,Rubella,79
+2011,12,Influenza,785
+2011,12,Rotavirus,0
+2011,12,Hib,
+2011,12,Pneumococcal,13
+2011,12,Hepatitis A,247
+2011,12,Meningococcal,1545
+2011,13,Hepatitis B,164
+2011,13,Diphtheria,1262
+2011,13,Tetanus,1262
+2011,13,Pertussis,1245
+2011,13,Polio,259
+2011,13,Human Papilloma Virus,2268
+2011,13,Varicella,534
+2011,13,Measles,71
+2011,13,Mumps,68
+2011,13,Rubella,68
+2011,13,Influenza,709
+2011,13,Rotavirus,0
+2011,13,Hib,
+2011,13,Pneumococcal,11
+2011,13,Hepatitis A,223
+2011,13,Meningococcal,1016
+2011,14,Hepatitis B,129
+2011,14,Diphtheria,1029
+2011,14,Tetanus,1029
+2011,14,Pertussis,1001
+2011,14,Polio,257
+2011,14,Human Papilloma Virus,1967
+2011,14,Varicella,421
+2011,14,Measles,98
+2011,14,Mumps,98
+2011,14,Rubella,99
+2011,14,Influenza,689
+2011,14,Rotavirus,0
+2011,14,Hib,
+2011,14,Pneumococcal,13
+2011,14,Hepatitis A,214
+2011,14,Meningococcal,757
+2011,15,Hepatitis B,136
+2011,15,Diphtheria,1018
+2011,15,Tetanus,1018
+2011,15,Pertussis,997
+2011,15,Polio,262
+2011,15,Human Papilloma Virus,1982
+2011,15,Varicella,491
+2011,15,Measles,90
+2011,15,Mumps,90
+2011,15,Rubella,90
+2011,15,Influenza,709
+2011,15,Rotavirus,0
+2011,15,Hib,
+2011,15,Pneumococcal,
+2011,15,Hepatitis A,239
+2011,15,Meningococcal,694
+2011,16,Hepatitis B,144
+2011,16,Diphtheria,1095
+2011,16,Tetanus,1095
+2011,16,Pertussis,1063
+2011,16,Polio,269
+2011,16,Human Papilloma Virus,1894
+2011,16,Varicella,483
+2011,16,Measles,90
+2011,16,Mumps,87
+2011,16,Rubella,87
+2011,16,Influenza,722
+2011,16,Rotavirus,0
+2011,16,Hib,
+2011,16,Pneumococcal,15
+2011,16,Hepatitis A,264
+2011,16,Meningococcal,1542
+2011,17,Hepatitis B,129
+2011,17,Diphtheria,1065
+2011,17,Tetanus,1065
+2011,17,Pertussis,1039
+2011,17,Polio,220
+2011,17,Human Papilloma Virus,1654
+2011,17,Varicella,414
+2011,17,Measles,88
+2011,17,Mumps,87
+2011,17,Rubella,87
+2011,17,Influenza,613
+2011,17,Rotavirus,0
+2011,17,Hib,
+2011,17,Pneumococcal,
+2011,17,Hepatitis A,277
+2011,17,Meningococcal,1234
+2011,18,Hepatitis B,58
+2011,18,Diphtheria,371
+2011,18,Tetanus,371
+2011,18,Pertussis,354
+2011,18,Polio,77
+2011,18,Human Papilloma Virus,585
+2011,18,Varicella,129
+2011,18,Measles,34
+2011,18,Mumps,34
+2011,18,Rubella,34
+2011,18,Influenza,223
+2011,18,Rotavirus,0
+2011,18,Hib,
+2011,18,Pneumococcal,
+2011,18,Hepatitis A,94
+2011,18,Meningococcal,358
+2011,19,Hepatitis B,0
+2011,19,Diphtheria,0
+2011,19,Tetanus,0
+2011,19,Pertussis,0
+2011,19,Polio,0
+2011,19,Human Papilloma Virus,0
+2011,19,Varicella,0
+2011,19,Measles,0
+2011,19,Mumps,0
+2011,19,Rubella,0
+2011,19,Influenza,0
+2011,19,Rotavirus,0
+2011,19,Hib,0
+2011,19,Pneumococcal,0
+2011,19,Hepatitis A,0
+2011,19,Meningococcal,0
+2011,20,Hepatitis B,0
+2011,20,Diphtheria,0
+2011,20,Tetanus,0
+2011,20,Pertussis,0
+2011,20,Polio,0
+2011,20,Human Papilloma Virus,0
+2011,20,Varicella,0
+2011,20,Measles,0
+2011,20,Mumps,0
+2011,20,Rubella,0
+2011,20,Influenza,0
+2011,20,Rotavirus,0
+2011,20,Hib,0
+2011,20,Pneumococcal,0
+2011,20,Hepatitis A,0
+2011,20,Meningococcal,0
+2011,Unknown,Hepatitis B,0
+2011,Unknown,Diphtheria,0
+2011,Unknown,Tetanus,0
+2011,Unknown,Pertussis,0
+2011,Unknown,Polio,0
+2011,Unknown,Human Papilloma Virus,0
+2011,Unknown,Varicella,0
+2011,Unknown,Measles,0
+2011,Unknown,Mumps,0
+2011,Unknown,Rubella,0
+2011,Unknown,Influenza,0
+2011,Unknown,Rotavirus,0
+2011,Unknown,Hib,0
+2011,Unknown,Pneumococcal,0
+2011,Unknown,Hepatitis A,0
+2011,Unknown,Meningococcal,0
