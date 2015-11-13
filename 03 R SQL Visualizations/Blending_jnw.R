@@ -23,7 +23,7 @@ ggplot() +
         stat="identity", 
         stat_params=list(), 
         geom="bar",
-        geom_params=list(colour="blue"), 
+        geom_params=list(colour="black"), 
         position=position_identity()
   ) + coord_flip() +
   layer(data=df, 
@@ -31,7 +31,7 @@ ggplot() +
         stat="identity", 
         stat_params=list(), 
         geom="text",
-        geom_params=list(colour="black", vjust=-0.5, hjust=-0.1), 
+        geom_params=list(colour="blue", vjust=-0.5, hjust=-0.1), 
         position=position_identity()
   ) +
   layer(data=df, 
@@ -39,6 +39,6 @@ ggplot() +
         stat="identity", 
         stat_params=list(), 
         geom="text",
-        geom_params=list(colour="black", vjust=1.5, hjust=-0.1), 
+        geom_params=list(colour="blue", vjust=1.5, hjust=-0.1), 
         position=position_identity()
   )

@@ -10,6 +10,13 @@ For this project, we found two sets of data which contained infectious disease c
 Here is a plot of what we found in Tableau:
 ![](../02 Tableau/Blended_Tableau.png)  
 
+And here is the corresponding R code and plot:
+```
+```
+```{r}
+source("../03 R SQL Visualizations/Blending_jnw.R", echo = TRUE)
+```
+
 
 ###Scatter Plot:  
 ####Tableau:
