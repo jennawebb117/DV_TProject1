@@ -5,7 +5,10 @@ date: "October 23, 2015"
 output: html_document
 ---
 
-For this project, we found a set of data that listed cases of different infectious dieases in various counties in California, as well as the total population of each county. It included how many males and females were infected per year, as well as the total number of infections per county per year.   
+For this project, we found two sets of data which contained infectious disease cases and immunization counts in California. We blended the data on the respective "Disease" columns in the two data sets.
+
+Here is a plot of what we found in Tableau:
+![](../02 Tableau/Blended_Tableau.png)  
 
 
 ###Scatter Plot:  
