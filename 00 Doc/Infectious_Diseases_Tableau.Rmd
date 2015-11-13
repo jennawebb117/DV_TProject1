@@ -10,10 +10,42 @@ For this project, we found a set of data that listed cases of different infectio
 
 ###Scatter Plot:  
 ####Tableau:
-![](../02 Tableau/Tableau_Scatterplot_cmm.png)
+![](../02 Tableau/Tableau_scatter_cmm.png)
 
 The above scatterplot shows the average count of infectious disease among counties in the state of California by sex. Additionally, we have include the total, male and female, count for emphasis. Interesting aspects of the plot include an apparent sinusoidal behavior amongst males, females, and male/female total. Curiously, the infectious diseases appear to occur in waves for both men and women. In general, the implemented trend lines suggest that despite the "up and down" behavior of the data, infectious disease appear to be increasing in number of cases as time increses, with women contracting more overall number of diseases than men. Data such as this could be used to analyze which sex would be in more need of vaccinations, healthcare reform programs, or overall affect value. Ultimately, the total number of cases continues to increase for both men and women combined. 
   
+###R & ggplot:  
+####Code:  
+```
+require("jsonlite")
+require("RCurl")
+require("ggplot2")
+require("dplyr")
+require(extrafont)
+
+df <- data.frame(fromJSON(getURL(URLencode('skipper.cs.utexas.edu:5001/rest/native/?query="select * from Infectious_Diseases where COUNTY NOT IN (\'California\')"'),httpheader=c(DB='jdbc:oracle:thin:@sayonara.microlab.cs.utexas.edu:1521:orcl', USER='C##cs329e_cmm5627', PASS='orcl_cmm5627', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON'), verbose = TRUE), ))
+
+
+df %>% select(SEX, mean(COUNT), YEAR) %>% ggplot(aes(y = mean(COUNT), x = YEAR, color = SEX)) + ggtitle("Average Count of Infectious Diseases by Sex") + geom_point() + scale_y_continuous() + scale_x_continuous() + coord_cartesian() 
+
+Male_df <- df %>% select(SEX, mean(COUNT), YEAR) %>% filter(SEX == "Male")
+Female_df <- df %>% select(SEX, mean(COUNT), YEAR) %>% filter(SEX == "Female")
+
+Male_df %>% select(SEX, mean(COUNT), YEAR) %>% ggplot(aes(y = mean(COUNT), x = YEAR, color = "Male")) + ggtitle("Average Count of Infectious Diseases by Sex") + geom_point() + scale_y_continuous() + scale_x_continuous() + coord_cartesian() 
+
+Female_df %>% select(SEX, mean(COUNT), YEAR) %>% ggplot(aes(y = mean(COUNT), x = YEAR, color = Female)) + ggtitle("Average Count of Infectious Diseases by Sex") + geom_point() + scale_y_continuous() + scale_x_continuous() + coord_cartesian()  
+```
+```{r}
+source("../03 R SQL Visualizations/Scatter1.R", echo = TRUE)
+```
+```{r}
+source("../03 R SQL Visualizations/Scatter2.R", echo = TRUE)
+```
+```{r}
+source("../03 R SQL Visualizations/Scatter3.R", echo = TRUE)
+```
+
+
 ###Crosstab with a KPI and Parameters:  
 ####Talbeau:  
 ![](../02 Tableau/Tableau_Crosstab_jnw.png)
