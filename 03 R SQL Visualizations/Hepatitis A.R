@@ -7,7 +7,7 @@ df <- data.frame(fromJSON(getURL(URLencode(gsub("\n", " ", 'skipper.cs.utexas.ed
                                                 where DISEASE = (\'Hepatitis A\') and (SEX=(\'Male\') OR SEX=(\'Female\') )
                                                 group by YEAR, DISEASE)
                                                 order by DISEASE;"
-                                                ')), httpheader=c(DB='jdbc:oracle:thin:@sayonara.microlab.cs.utexas.edu:1521:orcl', USER='C##cs329e_hys82', PASS='orcl_hys82', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON', p1=KPI_Low_Max_value, p2=KPI_Medium_Max_value), verbose = TRUE))); 
+                                                ')), httpheader=c(DB='jdbc:oracle:thin:@sayonara.microlab.cs.utexas.edu:1521:orcl', USER='C##cs329e_hys82', PASS='orcl_hys82', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON'), verbose = TRUE))); 
 
 dfMALE <- data.frame(fromJSON(getURL(URLencode(gsub("\n", " ", 'skipper.cs.utexas.edu:5001/rest/native/?query=
                                                     "select YEAR, DISEASE, sum_COUNT, sum(sum_COUNT) 
@@ -18,14 +18,14 @@ dfMALE <- data.frame(fromJSON(getURL(URLencode(gsub("\n", " ", 'skipper.cs.utexa
                                                     where DISEASE = (\'Hepatitis A\') and SEX=(\'Male\')
                                                     group by YEAR, DISEASE)
                                                     order by DISEASE;"
-                                                    ')), httpheader=c(DB='jdbc:oracle:thin:@sayonara.microlab.cs.utexas.edu:1521:orcl', USER='C##cs329e_hys82', PASS='orcl_hys82', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON', p1=KPI_Low_Max_value, p2=KPI_Medium_Max_value), verbose = TRUE)));
+                                                    ')), httpheader=c(DB='jdbc:oracle:thin:@sayonara.microlab.cs.utexas.edu:1521:orcl', USER='C##cs329e_hys82', PASS='orcl_hys82', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON'), verbose = TRUE)));
 
 ggplot() + 
   coord_cartesian() + 
   scale_x_continuous() +
   scale_y_continuous() +
   labs(title='HEPATITIS A AVERAGE_COUNT, WINDOW_AVG_COUNT') +
-  labs(x=paste("YEAR"), y=paste("COUNT OVER ALL COUTIES PER YEAR")) +
+  labs(x=paste("YEAR"), y=paste("COUNT OVER ALL COUNTIES PER YEAR")) +
   layer(data=df, 
         mapping=aes(x=YEAR, y=SUM_COUNT), 
         stat="identity", 
